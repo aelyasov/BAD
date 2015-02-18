@@ -1,0 +1,168 @@
+%<S 360:1380074197930 "E"
+%<S "O:eu.fittest.actionscript.automation::RecordEvent"
+%<P
+%<{ I=0:ID }%>
+%<{ targetID="IDY_myphonenr1":String }%>
+%<{ type="click":String }%>
+%<{ args=> }%>
+%>
+%<S "O:Array"
+%<P
+%<{ I=1:ID }%>
+%>
+%>
+%>
+%<S "O:AppAbstractState"
+%<P
+%<{ I=2:ID }%>
+%<{ numInShopCart=0:int }%>
+%<{ cartCurrency="$":String }%>
+%<{ cartTotal="$0.00":String }%>
+%<{ selectedProduct=-1:int }%>
+%<{ catalogContents=> }%>
+%>
+%<S "O:Array"
+%<P
+%<{ I=3:ID }%>
+%<{ elem=1:int }%>
+%<{ elem=2:int }%>
+%<{ elem=3:int }%>
+%<{ elem=4:int }%>
+%<{ elem=5:int }%>
+%<{ elem=6:int }%>
+%<{ elem=7:int }%>
+%<{ elem=8:int }%>
+%<{ elem=9:int }%>
+%<{ elem=10:int }%>
+%<{ elem=11:int }%>
+%<{ elem=12:int }%>
+%<{ elem=13:int }%>
+%<{ elem=14:int }%>
+%<{ elem=15:int }%>
+%<{ elem=16:int }%>
+%<{ elem=17:int }%>
+%<{ elem=18:int }%>
+%>
+%>
+%<P
+%<{ shoppingCartContents=> }%>
+%>
+%<S "O:Array"
+%<P
+%<{ I=4:ID }%>
+%>
+%>
+%>
+%>
+%<S 360:1380074198737 "E"
+%<S "O:eu.fittest.actionscript.automation::RecordEvent"
+%<P
+%<{ I=0:ID }%>
+%<{ targetID="IDY_myphonenr2":String }%>
+%<{ type="click":String }%>
+%<{ args=> }%>
+%>
+%<S "O:Array"
+%<P
+%<{ I=1:ID }%>
+%>
+%>
+%>
+%<S "O:AppAbstractState"
+%<P
+%<{ I=2:ID }%>
+%<{ numInShopCart=0:int }%>
+%<{ cartCurrency="$":String }%>
+%<{ cartTotal="$0.00":String }%>
+%<{ selectedProduct=-1:int }%>
+%<{ catalogContents=> }%>
+%>
+%<S "O:Array"
+%<P
+%<{ I=3:ID }%>
+%<{ elem=1:int }%>
+%<{ elem=2:int }%>
+%<{ elem=3:int }%>
+%<{ elem=4:int }%>
+%<{ elem=5:int }%>
+%<{ elem=6:int }%>
+%<{ elem=7:int }%>
+%<{ elem=8:int }%>
+%<{ elem=9:int }%>
+%<{ elem=10:int }%>
+%<{ elem=11:int }%>
+%<{ elem=12:int }%>
+%<{ elem=13:int }%>
+%<{ elem=14:int }%>
+%<{ elem=15:int }%>
+%<{ elem=16:int }%>
+%<{ elem=17:int }%>
+%<{ elem=18:int }%>
+%>
+%>
+%<P
+%<{ shoppingCartContents=> }%>
+%>
+%<S "O:Array"
+%<P
+%<{ I=4:ID }%>
+%>
+%>
+%>
+%>
+%<S 360:1380074199290 "E"
+%<S "O:eu.fittest.actionscript.automation::RecordEvent"
+%<P
+%<{ I=0:ID }%>
+%<{ targetID="IDY_myphonenr3":String }%>
+%<{ type="click":String }%>
+%<{ args=> }%>
+%>
+%<S "O:Array"
+%<P
+%<{ I=1:ID }%>
+%>
+%>
+%>
+%<S "O:AppAbstractState"
+%<P
+%<{ I=2:ID }%>
+%<{ numInShopCart=0:int }%>
+%<{ cartCurrency="$":String }%>
+%<{ cartTotal="$0.00":String }%>
+%<{ selectedProduct=-1:int }%>
+%<{ catalogContents=> }%>
+%>
+%<S "O:Array"
+%<P
+%<{ I=3:ID }%>
+%<{ elem=1:int }%>
+%<{ elem=2:int }%>
+%<{ elem=3:int }%>
+%<{ elem=4:int }%>
+%<{ elem=5:int }%>
+%<{ elem=6:int }%>
+%<{ elem=7:int }%>
+%<{ elem=8:int }%>
+%<{ elem=9:int }%>
+%<{ elem=10:int }%>
+%<{ elem=11:int }%>
+%<{ elem=12:int }%>
+%<{ elem=13:int }%>
+%<{ elem=14:int }%>
+%<{ elem=15:int }%>
+%<{ elem=16:int }%>
+%<{ elem=17:int }%>
+%<{ elem=18:int }%>
+%>
+%>
+%<P
+%<{ shoppingCartContents=> }%>
+%>
+%<S "O:Array"
+%<P
+%<{ I=4:ID }%>
+%>
+%>
+%>
+%>

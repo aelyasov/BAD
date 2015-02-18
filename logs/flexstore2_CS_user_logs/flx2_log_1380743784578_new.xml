@@ -1,0 +1,5460 @@
+<?xml version='1.0' ?>
+<body>
+  <E t="300:1380743799835">
+    <O ty="eu.fittest.actionscript.automation::RecordEvent">
+      <fd n="I">
+        <V v="0" ty="ID" />
+      </fd>
+      <fd n="targetID">
+        <V v="&quot;IDY_searchproduct&quot;" ty="String" />
+      </fd>
+      <fd n="type">
+        <V v="&quot;click&quot;" ty="String" />
+      </fd>
+      <fd n="args">
+        <O ty="Array">
+          <fd n="I">
+            <V v="1" ty="ID" />
+          </fd>
+        </O>
+      </fd>
+    </O>
+    <O ty="AppAbstractState">
+      <fd n="I">
+        <V v="2" ty="ID" />
+      </fd>
+      <fd n="numInShopCart">
+        <V v="0" ty="int" />
+      </fd>
+      <fd n="cartCurrency">
+        <V v="&quot;$&quot;" ty="String" />
+      </fd>
+      <fd n="cartTotal">
+        <V v="&quot;$0.00&quot;" ty="String" />
+      </fd>
+      <fd n="selectedProduct">
+        <V v="-1" ty="int" />
+      </fd>
+      <fd n="catalogContents">
+        <O ty="Array">
+          <fd n="I">
+            <V v="3" ty="ID" />
+          </fd>
+          <fd n="elem">
+            <V v="1" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="2" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="3" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="4" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="5" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="6" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="7" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="8" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="9" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="10" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="11" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="12" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="13" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="14" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="15" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="16" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="17" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="18" ty="int" />
+          </fd>
+        </O>
+      </fd>
+      <fd n="shoppingCartContents">
+        <O ty="Array">
+          <fd n="I">
+            <V v="4" ty="ID" />
+          </fd>
+        </O>
+      </fd>
+    </O>
+  </E>
+  <E t="300:1380743801651">
+    <O ty="eu.fittest.actionscript.automation::RecordEvent">
+      <fd n="I">
+        <V v="0" ty="ID" />
+      </fd>
+      <fd n="targetID">
+        <V v="&quot;ButtonBar0&quot;" ty="String" />
+      </fd>
+      <fd n="type">
+        <V v="&quot;itemclick&quot;" ty="String" />
+      </fd>
+      <fd n="args">
+        <O ty="Array">
+          <fd n="I">
+            <V v="1" ty="ID" />
+          </fd>
+          <fd n="elem">
+            <V v="1" ty="int" />
+          </fd>
+        </O>
+      </fd>
+    </O>
+    <O ty="AppAbstractState">
+      <fd n="I">
+        <V v="2" ty="ID" />
+      </fd>
+      <fd n="numInShopCart">
+        <V v="0" ty="int" />
+      </fd>
+      <fd n="cartCurrency">
+        <V v="&quot;$&quot;" ty="String" />
+      </fd>
+      <fd n="cartTotal">
+        <V v="&quot;$0.00&quot;" ty="String" />
+      </fd>
+      <fd n="selectedProduct">
+        <V v="-1" ty="int" />
+      </fd>
+      <fd n="catalogContents">
+        <O ty="Array">
+          <fd n="I">
+            <V v="3" ty="ID" />
+          </fd>
+          <fd n="elem">
+            <V v="1" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="2" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="3" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="4" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="5" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="6" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="7" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="8" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="9" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="10" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="11" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="12" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="13" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="14" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="15" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="16" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="17" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="18" ty="int" />
+          </fd>
+        </O>
+      </fd>
+      <fd n="shoppingCartContents">
+        <O ty="Array">
+          <fd n="I">
+            <V v="4" ty="ID" />
+          </fd>
+        </O>
+      </fd>
+    </O>
+  </E>
+  <E t="300:1380743803545">
+    <O ty="eu.fittest.actionscript.automation::RecordEvent">
+      <fd n="I">
+        <V v="0" ty="ID" />
+      </fd>
+      <fd n="targetID">
+        <V v="&quot;ButtonBar0&quot;" ty="String" />
+      </fd>
+      <fd n="type">
+        <V v="&quot;itemclick&quot;" ty="String" />
+      </fd>
+      <fd n="args">
+        <O ty="Array">
+          <fd n="I">
+            <V v="1" ty="ID" />
+          </fd>
+          <fd n="elem">
+            <V v="2" ty="int" />
+          </fd>
+        </O>
+      </fd>
+    </O>
+    <O ty="AppAbstractState">
+      <fd n="I">
+        <V v="2" ty="ID" />
+      </fd>
+      <fd n="numInShopCart">
+        <V v="0" ty="int" />
+      </fd>
+      <fd n="cartCurrency">
+        <V v="&quot;$&quot;" ty="String" />
+      </fd>
+      <fd n="cartTotal">
+        <V v="&quot;$0.00&quot;" ty="String" />
+      </fd>
+      <fd n="selectedProduct">
+        <V v="-1" ty="int" />
+      </fd>
+      <fd n="catalogContents">
+        <O ty="Array">
+          <fd n="I">
+            <V v="3" ty="ID" />
+          </fd>
+          <fd n="elem">
+            <V v="1" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="2" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="3" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="4" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="5" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="6" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="7" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="8" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="9" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="10" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="11" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="12" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="13" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="14" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="15" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="16" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="17" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="18" ty="int" />
+          </fd>
+        </O>
+      </fd>
+      <fd n="shoppingCartContents">
+        <O ty="Array">
+          <fd n="I">
+            <V v="4" ty="ID" />
+          </fd>
+        </O>
+      </fd>
+    </O>
+  </E>
+  <E t="300:1380743805454">
+    <O ty="eu.fittest.actionscript.automation::RecordEvent">
+      <fd n="I">
+        <V v="0" ty="ID" />
+      </fd>
+      <fd n="targetID">
+        <V v="&quot;ButtonBar0&quot;" ty="String" />
+      </fd>
+      <fd n="type">
+        <V v="&quot;itemclick&quot;" ty="String" />
+      </fd>
+      <fd n="args">
+        <O ty="Array">
+          <fd n="I">
+            <V v="1" ty="ID" />
+          </fd>
+          <fd n="elem">
+            <V v="1" ty="int" />
+          </fd>
+        </O>
+      </fd>
+    </O>
+    <O ty="AppAbstractState">
+      <fd n="I">
+        <V v="2" ty="ID" />
+      </fd>
+      <fd n="numInShopCart">
+        <V v="0" ty="int" />
+      </fd>
+      <fd n="cartCurrency">
+        <V v="&quot;$&quot;" ty="String" />
+      </fd>
+      <fd n="cartTotal">
+        <V v="&quot;$0.00&quot;" ty="String" />
+      </fd>
+      <fd n="selectedProduct">
+        <V v="-1" ty="int" />
+      </fd>
+      <fd n="catalogContents">
+        <O ty="Array">
+          <fd n="I">
+            <V v="3" ty="ID" />
+          </fd>
+          <fd n="elem">
+            <V v="1" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="2" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="3" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="4" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="5" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="6" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="7" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="8" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="9" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="10" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="11" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="12" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="13" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="14" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="15" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="16" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="17" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="18" ty="int" />
+          </fd>
+        </O>
+      </fd>
+      <fd n="shoppingCartContents">
+        <O ty="Array">
+          <fd n="I">
+            <V v="4" ty="ID" />
+          </fd>
+        </O>
+      </fd>
+    </O>
+  </E>
+  <E t="300:1380743807014">
+    <O ty="eu.fittest.actionscript.automation::RecordEvent">
+      <fd n="I">
+        <V v="0" ty="ID" />
+      </fd>
+      <fd n="targetID">
+        <V v="&quot;ButtonBar0&quot;" ty="String" />
+      </fd>
+      <fd n="type">
+        <V v="&quot;itemclick&quot;" ty="String" />
+      </fd>
+      <fd n="args">
+        <O ty="Array">
+          <fd n="I">
+            <V v="1" ty="ID" />
+          </fd>
+          <fd n="elem">
+            <V v="0" ty="int" />
+          </fd>
+        </O>
+      </fd>
+    </O>
+    <O ty="AppAbstractState">
+      <fd n="I">
+        <V v="2" ty="ID" />
+      </fd>
+      <fd n="numInShopCart">
+        <V v="0" ty="int" />
+      </fd>
+      <fd n="cartCurrency">
+        <V v="&quot;$&quot;" ty="String" />
+      </fd>
+      <fd n="cartTotal">
+        <V v="&quot;$0.00&quot;" ty="String" />
+      </fd>
+      <fd n="selectedProduct">
+        <V v="-1" ty="int" />
+      </fd>
+      <fd n="catalogContents">
+        <O ty="Array">
+          <fd n="I">
+            <V v="3" ty="ID" />
+          </fd>
+          <fd n="elem">
+            <V v="1" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="2" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="3" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="4" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="5" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="6" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="7" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="8" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="9" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="10" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="11" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="12" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="13" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="14" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="15" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="16" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="17" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="18" ty="int" />
+          </fd>
+        </O>
+      </fd>
+      <fd n="shoppingCartContents">
+        <O ty="Array">
+          <fd n="I">
+            <V v="4" ty="ID" />
+          </fd>
+        </O>
+      </fd>
+    </O>
+  </E>
+  <E t="300:1380743818766">
+    <O ty="eu.fittest.actionscript.automation::RecordEvent">
+      <fd n="I">
+        <V v="0" ty="ID" />
+      </fd>
+      <fd n="targetID">
+        <V v="&quot;IDY_searchproduct&quot;" ty="String" />
+      </fd>
+      <fd n="type">
+        <V v="&quot;click&quot;" ty="String" />
+      </fd>
+      <fd n="args">
+        <O ty="Array">
+          <fd n="I">
+            <V v="1" ty="ID" />
+          </fd>
+        </O>
+      </fd>
+    </O>
+    <O ty="AppAbstractState">
+      <fd n="I">
+        <V v="2" ty="ID" />
+      </fd>
+      <fd n="numInShopCart">
+        <V v="0" ty="int" />
+      </fd>
+      <fd n="cartCurrency">
+        <V v="&quot;$&quot;" ty="String" />
+      </fd>
+      <fd n="cartTotal">
+        <V v="&quot;$0.00&quot;" ty="String" />
+      </fd>
+      <fd n="selectedProduct">
+        <V v="-1" ty="int" />
+      </fd>
+      <fd n="catalogContents">
+        <O ty="Array">
+          <fd n="I">
+            <V v="3" ty="ID" />
+          </fd>
+          <fd n="elem">
+            <V v="1" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="2" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="3" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="4" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="5" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="6" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="7" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="8" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="9" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="10" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="11" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="12" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="13" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="14" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="15" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="16" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="17" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="18" ty="int" />
+          </fd>
+        </O>
+      </fd>
+      <fd n="shoppingCartContents">
+        <O ty="Array">
+          <fd n="I">
+            <V v="4" ty="ID" />
+          </fd>
+        </O>
+      </fd>
+    </O>
+  </E>
+  <E t="300:1380743827507">
+    <O ty="eu.fittest.actionscript.automation::RecordEvent">
+      <fd n="I">
+        <V v="0" ty="ID" />
+      </fd>
+      <fd n="targetID">
+        <V v="&quot;ButtonBar0&quot;" ty="String" />
+      </fd>
+      <fd n="type">
+        <V v="&quot;itemclick&quot;" ty="String" />
+      </fd>
+      <fd n="args">
+        <O ty="Array">
+          <fd n="I">
+            <V v="1" ty="ID" />
+          </fd>
+          <fd n="elem">
+            <V v="1" ty="int" />
+          </fd>
+        </O>
+      </fd>
+    </O>
+    <O ty="AppAbstractState">
+      <fd n="I">
+        <V v="2" ty="ID" />
+      </fd>
+      <fd n="numInShopCart">
+        <V v="0" ty="int" />
+      </fd>
+      <fd n="cartCurrency">
+        <V v="&quot;$&quot;" ty="String" />
+      </fd>
+      <fd n="cartTotal">
+        <V v="&quot;$0.00&quot;" ty="String" />
+      </fd>
+      <fd n="selectedProduct">
+        <V v="-1" ty="int" />
+      </fd>
+      <fd n="catalogContents">
+        <O ty="Array">
+          <fd n="I">
+            <V v="3" ty="ID" />
+          </fd>
+          <fd n="elem">
+            <V v="1" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="2" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="3" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="4" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="5" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="6" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="7" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="8" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="9" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="10" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="11" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="12" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="13" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="14" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="15" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="16" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="17" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="18" ty="int" />
+          </fd>
+        </O>
+      </fd>
+      <fd n="shoppingCartContents">
+        <O ty="Array">
+          <fd n="I">
+            <V v="4" ty="ID" />
+          </fd>
+        </O>
+      </fd>
+    </O>
+  </E>
+  <E t="300:1380743829834">
+    <O ty="eu.fittest.actionscript.automation::RecordEvent">
+      <fd n="I">
+        <V v="0" ty="ID" />
+      </fd>
+      <fd n="targetID">
+        <V v="&quot;IDY_img_4&quot;" ty="String" />
+      </fd>
+      <fd n="type">
+        <V v="&quot;click&quot;" ty="String" />
+      </fd>
+      <fd n="args">
+        <O ty="Array">
+          <fd n="I">
+            <V v="1" ty="ID" />
+          </fd>
+        </O>
+      </fd>
+    </O>
+    <O ty="AppAbstractState">
+      <fd n="I">
+        <V v="2" ty="ID" />
+      </fd>
+      <fd n="numInShopCart">
+        <V v="0" ty="int" />
+      </fd>
+      <fd n="cartCurrency">
+        <V v="&quot;$&quot;" ty="String" />
+      </fd>
+      <fd n="cartTotal">
+        <V v="&quot;$0.00&quot;" ty="String" />
+      </fd>
+      <fd n="selectedProduct">
+        <V v="-1" ty="int" />
+      </fd>
+      <fd n="catalogContents">
+        <O ty="Array">
+          <fd n="I">
+            <V v="3" ty="ID" />
+          </fd>
+          <fd n="elem">
+            <V v="1" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="2" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="3" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="4" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="5" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="6" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="7" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="8" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="9" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="10" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="11" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="12" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="13" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="14" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="15" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="16" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="17" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="18" ty="int" />
+          </fd>
+        </O>
+      </fd>
+      <fd n="shoppingCartContents">
+        <O ty="Array">
+          <fd n="I">
+            <V v="4" ty="ID" />
+          </fd>
+        </O>
+      </fd>
+    </O>
+  </E>
+  <E t="300:1380743829851">
+    <O ty="eu.fittest.actionscript.automation::RecordEvent">
+      <fd n="I">
+        <V v="0" ty="ID" />
+      </fd>
+      <fd n="targetID">
+        <V v="&quot;IDY_cancas_4&quot;" ty="String" />
+      </fd>
+      <fd n="type">
+        <V v="&quot;click&quot;" ty="String" />
+      </fd>
+      <fd n="args">
+        <O ty="Array">
+          <fd n="I">
+            <V v="1" ty="ID" />
+          </fd>
+        </O>
+      </fd>
+    </O>
+    <O ty="AppAbstractState">
+      <fd n="I">
+        <V v="2" ty="ID" />
+      </fd>
+      <fd n="numInShopCart">
+        <V v="0" ty="int" />
+      </fd>
+      <fd n="cartCurrency">
+        <V v="&quot;$&quot;" ty="String" />
+      </fd>
+      <fd n="cartTotal">
+        <V v="&quot;$0.00&quot;" ty="String" />
+      </fd>
+      <fd n="selectedProduct">
+        <V v="-1" ty="int" />
+      </fd>
+      <fd n="catalogContents">
+        <O ty="Array">
+          <fd n="I">
+            <V v="3" ty="ID" />
+          </fd>
+          <fd n="elem">
+            <V v="1" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="2" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="3" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="4" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="5" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="6" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="7" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="8" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="9" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="10" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="11" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="12" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="13" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="14" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="15" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="16" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="17" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="18" ty="int" />
+          </fd>
+        </O>
+      </fd>
+      <fd n="shoppingCartContents">
+        <O ty="Array">
+          <fd n="I">
+            <V v="4" ty="ID" />
+          </fd>
+        </O>
+      </fd>
+    </O>
+  </E>
+  <E t="300:1380743836393">
+    <O ty="eu.fittest.actionscript.automation::RecordEvent">
+      <fd n="I">
+        <V v="0" ty="ID" />
+      </fd>
+      <fd n="targetID">
+        <V v="&quot;TabNavigator0&quot;" ty="String" />
+      </fd>
+      <fd n="type">
+        <V v="&quot;change&quot;" ty="String" />
+      </fd>
+      <fd n="args">
+        <O ty="Array">
+          <fd n="I">
+            <V v="1" ty="ID" />
+          </fd>
+          <fd n="elem">
+            <V v="1" ty="int" />
+          </fd>
+        </O>
+      </fd>
+    </O>
+    <O ty="AppAbstractState">
+      <fd n="I">
+        <V v="2" ty="ID" />
+      </fd>
+      <fd n="numInShopCart">
+        <V v="0" ty="int" />
+      </fd>
+      <fd n="cartCurrency">
+        <V v="&quot;$&quot;" ty="String" />
+      </fd>
+      <fd n="cartTotal">
+        <V v="&quot;$0.00&quot;" ty="String" />
+      </fd>
+      <fd n="selectedProduct">
+        <V v="4" ty="int" />
+      </fd>
+      <fd n="catalogContents">
+        <O ty="Array">
+          <fd n="I">
+            <V v="3" ty="ID" />
+          </fd>
+          <fd n="elem">
+            <V v="1" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="2" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="3" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="4" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="5" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="6" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="7" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="8" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="9" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="10" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="11" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="12" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="13" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="14" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="15" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="16" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="17" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="18" ty="int" />
+          </fd>
+        </O>
+      </fd>
+      <fd n="shoppingCartContents">
+        <O ty="Array">
+          <fd n="I">
+            <V v="4" ty="ID" />
+          </fd>
+        </O>
+      </fd>
+    </O>
+  </E>
+  <E t="300:1380743839631">
+    <O ty="eu.fittest.actionscript.automation::RecordEvent">
+      <fd n="I">
+        <V v="0" ty="ID" />
+      </fd>
+      <fd n="targetID">
+        <V v="&quot;IDY_VideoButton&quot;" ty="String" />
+      </fd>
+      <fd n="type">
+        <V v="&quot;click&quot;" ty="String" />
+      </fd>
+      <fd n="args">
+        <O ty="Array">
+          <fd n="I">
+            <V v="1" ty="ID" />
+          </fd>
+        </O>
+      </fd>
+    </O>
+    <O ty="AppAbstractState">
+      <fd n="I">
+        <V v="2" ty="ID" />
+      </fd>
+      <fd n="numInShopCart">
+        <V v="0" ty="int" />
+      </fd>
+      <fd n="cartCurrency">
+        <V v="&quot;$&quot;" ty="String" />
+      </fd>
+      <fd n="cartTotal">
+        <V v="&quot;$0.00&quot;" ty="String" />
+      </fd>
+      <fd n="selectedProduct">
+        <V v="4" ty="int" />
+      </fd>
+      <fd n="catalogContents">
+        <O ty="Array">
+          <fd n="I">
+            <V v="3" ty="ID" />
+          </fd>
+          <fd n="elem">
+            <V v="1" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="2" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="3" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="4" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="5" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="6" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="7" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="8" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="9" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="10" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="11" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="12" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="13" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="14" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="15" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="16" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="17" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="18" ty="int" />
+          </fd>
+        </O>
+      </fd>
+      <fd n="shoppingCartContents">
+        <O ty="Array">
+          <fd n="I">
+            <V v="4" ty="ID" />
+          </fd>
+        </O>
+      </fd>
+    </O>
+  </E>
+  <E t="300:1380743856580">
+    <O ty="eu.fittest.actionscript.automation::RecordEvent">
+      <fd n="I">
+        <V v="0" ty="ID" />
+      </fd>
+      <fd n="targetID">
+        <V v="&quot;back_thumb&quot;" ty="String" />
+      </fd>
+      <fd n="type">
+        <V v="&quot;click&quot;" ty="String" />
+      </fd>
+      <fd n="args">
+        <O ty="Array">
+          <fd n="I">
+            <V v="1" ty="ID" />
+          </fd>
+        </O>
+      </fd>
+    </O>
+    <O ty="AppAbstractState">
+      <fd n="I">
+        <V v="2" ty="ID" />
+      </fd>
+      <fd n="numInShopCart">
+        <V v="0" ty="int" />
+      </fd>
+      <fd n="cartCurrency">
+        <V v="&quot;$&quot;" ty="String" />
+      </fd>
+      <fd n="cartTotal">
+        <V v="&quot;$0.00&quot;" ty="String" />
+      </fd>
+      <fd n="selectedProduct">
+        <V v="4" ty="int" />
+      </fd>
+      <fd n="catalogContents">
+        <O ty="Array">
+          <fd n="I">
+            <V v="3" ty="ID" />
+          </fd>
+          <fd n="elem">
+            <V v="1" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="2" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="3" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="4" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="5" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="6" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="7" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="8" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="9" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="10" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="11" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="12" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="13" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="14" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="15" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="16" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="17" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="18" ty="int" />
+          </fd>
+        </O>
+      </fd>
+      <fd n="shoppingCartContents">
+        <O ty="Array">
+          <fd n="I">
+            <V v="4" ty="ID" />
+          </fd>
+        </O>
+      </fd>
+    </O>
+  </E>
+  <E t="300:1380743858746">
+    <O ty="eu.fittest.actionscript.automation::RecordEvent">
+      <fd n="I">
+        <V v="0" ty="ID" />
+      </fd>
+      <fd n="targetID">
+        <V v="&quot;IDY_img_12&quot;" ty="String" />
+      </fd>
+      <fd n="type">
+        <V v="&quot;click&quot;" ty="String" />
+      </fd>
+      <fd n="args">
+        <O ty="Array">
+          <fd n="I">
+            <V v="1" ty="ID" />
+          </fd>
+        </O>
+      </fd>
+    </O>
+    <O ty="AppAbstractState">
+      <fd n="I">
+        <V v="2" ty="ID" />
+      </fd>
+      <fd n="numInShopCart">
+        <V v="0" ty="int" />
+      </fd>
+      <fd n="cartCurrency">
+        <V v="&quot;$&quot;" ty="String" />
+      </fd>
+      <fd n="cartTotal">
+        <V v="&quot;$0.00&quot;" ty="String" />
+      </fd>
+      <fd n="selectedProduct">
+        <V v="4" ty="int" />
+      </fd>
+      <fd n="catalogContents">
+        <O ty="Array">
+          <fd n="I">
+            <V v="3" ty="ID" />
+          </fd>
+          <fd n="elem">
+            <V v="1" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="2" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="3" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="4" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="5" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="6" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="7" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="8" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="9" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="10" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="11" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="12" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="13" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="14" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="15" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="16" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="17" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="18" ty="int" />
+          </fd>
+        </O>
+      </fd>
+      <fd n="shoppingCartContents">
+        <O ty="Array">
+          <fd n="I">
+            <V v="4" ty="ID" />
+          </fd>
+        </O>
+      </fd>
+    </O>
+  </E>
+  <E t="300:1380743858753">
+    <O ty="eu.fittest.actionscript.automation::RecordEvent">
+      <fd n="I">
+        <V v="0" ty="ID" />
+      </fd>
+      <fd n="targetID">
+        <V v="&quot;IDY_cancas_12&quot;" ty="String" />
+      </fd>
+      <fd n="type">
+        <V v="&quot;click&quot;" ty="String" />
+      </fd>
+      <fd n="args">
+        <O ty="Array">
+          <fd n="I">
+            <V v="1" ty="ID" />
+          </fd>
+        </O>
+      </fd>
+    </O>
+    <O ty="AppAbstractState">
+      <fd n="I">
+        <V v="2" ty="ID" />
+      </fd>
+      <fd n="numInShopCart">
+        <V v="0" ty="int" />
+      </fd>
+      <fd n="cartCurrency">
+        <V v="&quot;$&quot;" ty="String" />
+      </fd>
+      <fd n="cartTotal">
+        <V v="&quot;$0.00&quot;" ty="String" />
+      </fd>
+      <fd n="selectedProduct">
+        <V v="4" ty="int" />
+      </fd>
+      <fd n="catalogContents">
+        <O ty="Array">
+          <fd n="I">
+            <V v="3" ty="ID" />
+          </fd>
+          <fd n="elem">
+            <V v="1" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="2" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="3" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="4" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="5" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="6" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="7" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="8" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="9" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="10" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="11" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="12" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="13" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="14" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="15" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="16" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="17" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="18" ty="int" />
+          </fd>
+        </O>
+      </fd>
+      <fd n="shoppingCartContents">
+        <O ty="Array">
+          <fd n="I">
+            <V v="4" ty="ID" />
+          </fd>
+        </O>
+      </fd>
+    </O>
+  </E>
+  <E t="300:1380743859258">
+    <O ty="eu.fittest.actionscript.automation::RecordEvent">
+      <fd n="I">
+        <V v="0" ty="ID" />
+      </fd>
+      <fd n="targetID">
+        <V v="&quot;TabNavigator0&quot;" ty="String" />
+      </fd>
+      <fd n="type">
+        <V v="&quot;change&quot;" ty="String" />
+      </fd>
+      <fd n="args">
+        <O ty="Array">
+          <fd n="I">
+            <V v="1" ty="ID" />
+          </fd>
+          <fd n="elem">
+            <V v="0" ty="int" />
+          </fd>
+        </O>
+      </fd>
+    </O>
+    <O ty="AppAbstractState">
+      <fd n="I">
+        <V v="2" ty="ID" />
+      </fd>
+      <fd n="numInShopCart">
+        <V v="0" ty="int" />
+      </fd>
+      <fd n="cartCurrency">
+        <V v="&quot;$&quot;" ty="String" />
+      </fd>
+      <fd n="cartTotal">
+        <V v="&quot;$0.00&quot;" ty="String" />
+      </fd>
+      <fd n="selectedProduct">
+        <V v="12" ty="int" />
+      </fd>
+      <fd n="catalogContents">
+        <O ty="Array">
+          <fd n="I">
+            <V v="3" ty="ID" />
+          </fd>
+          <fd n="elem">
+            <V v="1" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="2" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="3" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="4" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="5" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="6" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="7" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="8" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="9" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="10" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="11" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="12" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="13" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="14" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="15" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="16" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="17" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="18" ty="int" />
+          </fd>
+        </O>
+      </fd>
+      <fd n="shoppingCartContents">
+        <O ty="Array">
+          <fd n="I">
+            <V v="4" ty="ID" />
+          </fd>
+        </O>
+      </fd>
+    </O>
+  </E>
+  <E t="300:1380743862465">
+    <O ty="eu.fittest.actionscript.automation::RecordEvent">
+      <fd n="I">
+        <V v="0" ty="ID" />
+      </fd>
+      <fd n="targetID">
+        <V v="&quot;TabNavigator0&quot;" ty="String" />
+      </fd>
+      <fd n="type">
+        <V v="&quot;change&quot;" ty="String" />
+      </fd>
+      <fd n="args">
+        <O ty="Array">
+          <fd n="I">
+            <V v="1" ty="ID" />
+          </fd>
+          <fd n="elem">
+            <V v="1" ty="int" />
+          </fd>
+        </O>
+      </fd>
+    </O>
+    <O ty="AppAbstractState">
+      <fd n="I">
+        <V v="2" ty="ID" />
+      </fd>
+      <fd n="numInShopCart">
+        <V v="0" ty="int" />
+      </fd>
+      <fd n="cartCurrency">
+        <V v="&quot;$&quot;" ty="String" />
+      </fd>
+      <fd n="cartTotal">
+        <V v="&quot;$0.00&quot;" ty="String" />
+      </fd>
+      <fd n="selectedProduct">
+        <V v="12" ty="int" />
+      </fd>
+      <fd n="catalogContents">
+        <O ty="Array">
+          <fd n="I">
+            <V v="3" ty="ID" />
+          </fd>
+          <fd n="elem">
+            <V v="1" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="2" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="3" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="4" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="5" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="6" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="7" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="8" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="9" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="10" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="11" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="12" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="13" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="14" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="15" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="16" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="17" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="18" ty="int" />
+          </fd>
+        </O>
+      </fd>
+      <fd n="shoppingCartContents">
+        <O ty="Array">
+          <fd n="I">
+            <V v="4" ty="ID" />
+          </fd>
+        </O>
+      </fd>
+    </O>
+  </E>
+  <E t="300:1380743866199">
+    <O ty="eu.fittest.actionscript.automation::RecordEvent">
+      <fd n="I">
+        <V v="0" ty="ID" />
+      </fd>
+      <fd n="targetID">
+        <V v="&quot;TabNavigator0&quot;" ty="String" />
+      </fd>
+      <fd n="type">
+        <V v="&quot;change&quot;" ty="String" />
+      </fd>
+      <fd n="args">
+        <O ty="Array">
+          <fd n="I">
+            <V v="1" ty="ID" />
+          </fd>
+          <fd n="elem">
+            <V v="0" ty="int" />
+          </fd>
+        </O>
+      </fd>
+    </O>
+    <O ty="AppAbstractState">
+      <fd n="I">
+        <V v="2" ty="ID" />
+      </fd>
+      <fd n="numInShopCart">
+        <V v="0" ty="int" />
+      </fd>
+      <fd n="cartCurrency">
+        <V v="&quot;$&quot;" ty="String" />
+      </fd>
+      <fd n="cartTotal">
+        <V v="&quot;$0.00&quot;" ty="String" />
+      </fd>
+      <fd n="selectedProduct">
+        <V v="12" ty="int" />
+      </fd>
+      <fd n="catalogContents">
+        <O ty="Array">
+          <fd n="I">
+            <V v="3" ty="ID" />
+          </fd>
+          <fd n="elem">
+            <V v="1" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="2" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="3" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="4" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="5" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="6" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="7" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="8" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="9" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="10" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="11" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="12" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="13" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="14" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="15" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="16" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="17" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="18" ty="int" />
+          </fd>
+        </O>
+      </fd>
+      <fd n="shoppingCartContents">
+        <O ty="Array">
+          <fd n="I">
+            <V v="4" ty="ID" />
+          </fd>
+        </O>
+      </fd>
+    </O>
+  </E>
+  <E t="300:1380743868594">
+    <O ty="eu.fittest.actionscript.automation::RecordEvent">
+      <fd n="I">
+        <V v="0" ty="ID" />
+      </fd>
+      <fd n="targetID">
+        <V v="&quot;ButtonBar0&quot;" ty="String" />
+      </fd>
+      <fd n="type">
+        <V v="&quot;itemclick&quot;" ty="String" />
+      </fd>
+      <fd n="args">
+        <O ty="Array">
+          <fd n="I">
+            <V v="1" ty="ID" />
+          </fd>
+          <fd n="elem">
+            <V v="2" ty="int" />
+          </fd>
+        </O>
+      </fd>
+    </O>
+    <O ty="AppAbstractState">
+      <fd n="I">
+        <V v="2" ty="ID" />
+      </fd>
+      <fd n="numInShopCart">
+        <V v="0" ty="int" />
+      </fd>
+      <fd n="cartCurrency">
+        <V v="&quot;$&quot;" ty="String" />
+      </fd>
+      <fd n="cartTotal">
+        <V v="&quot;$0.00&quot;" ty="String" />
+      </fd>
+      <fd n="selectedProduct">
+        <V v="12" ty="int" />
+      </fd>
+      <fd n="catalogContents">
+        <O ty="Array">
+          <fd n="I">
+            <V v="3" ty="ID" />
+          </fd>
+          <fd n="elem">
+            <V v="1" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="2" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="3" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="4" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="5" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="6" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="7" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="8" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="9" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="10" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="11" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="12" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="13" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="14" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="15" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="16" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="17" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="18" ty="int" />
+          </fd>
+        </O>
+      </fd>
+      <fd n="shoppingCartContents">
+        <O ty="Array">
+          <fd n="I">
+            <V v="4" ty="ID" />
+          </fd>
+        </O>
+      </fd>
+    </O>
+  </E>
+  <E t="300:1380743872234">
+    <O ty="eu.fittest.actionscript.automation::RecordEvent">
+      <fd n="I">
+        <V v="0" ty="ID" />
+      </fd>
+      <fd n="targetID">
+        <V v="&quot;Image7&quot;" ty="String" />
+      </fd>
+      <fd n="type">
+        <V v="&quot;click&quot;" ty="String" />
+      </fd>
+      <fd n="args">
+        <O ty="Array">
+          <fd n="I">
+            <V v="1" ty="ID" />
+          </fd>
+        </O>
+      </fd>
+    </O>
+    <O ty="AppAbstractState">
+      <fd n="I">
+        <V v="2" ty="ID" />
+      </fd>
+      <fd n="numInShopCart">
+        <V v="0" ty="int" />
+      </fd>
+      <fd n="cartCurrency">
+        <V v="&quot;$&quot;" ty="String" />
+      </fd>
+      <fd n="cartTotal">
+        <V v="&quot;$0.00&quot;" ty="String" />
+      </fd>
+      <fd n="selectedProduct">
+        <V v="12" ty="int" />
+      </fd>
+      <fd n="catalogContents">
+        <O ty="Array">
+          <fd n="I">
+            <V v="3" ty="ID" />
+          </fd>
+          <fd n="elem">
+            <V v="1" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="2" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="3" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="4" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="5" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="6" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="7" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="8" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="9" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="10" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="11" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="12" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="13" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="14" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="15" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="16" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="17" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="18" ty="int" />
+          </fd>
+        </O>
+      </fd>
+      <fd n="shoppingCartContents">
+        <O ty="Array">
+          <fd n="I">
+            <V v="4" ty="ID" />
+          </fd>
+        </O>
+      </fd>
+    </O>
+  </E>
+  <E t="300:1380743874078">
+    <O ty="eu.fittest.actionscript.automation::RecordEvent">
+      <fd n="I">
+        <V v="0" ty="ID" />
+      </fd>
+      <fd n="targetID">
+        <V v="&quot;Image7&quot;" ty="String" />
+      </fd>
+      <fd n="type">
+        <V v="&quot;click&quot;" ty="String" />
+      </fd>
+      <fd n="args">
+        <O ty="Array">
+          <fd n="I">
+            <V v="1" ty="ID" />
+          </fd>
+        </O>
+      </fd>
+    </O>
+    <O ty="AppAbstractState">
+      <fd n="I">
+        <V v="2" ty="ID" />
+      </fd>
+      <fd n="numInShopCart">
+        <V v="0" ty="int" />
+      </fd>
+      <fd n="cartCurrency">
+        <V v="&quot;$&quot;" ty="String" />
+      </fd>
+      <fd n="cartTotal">
+        <V v="&quot;$0.00&quot;" ty="String" />
+      </fd>
+      <fd n="selectedProduct">
+        <V v="12" ty="int" />
+      </fd>
+      <fd n="catalogContents">
+        <O ty="Array">
+          <fd n="I">
+            <V v="3" ty="ID" />
+          </fd>
+          <fd n="elem">
+            <V v="1" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="2" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="3" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="4" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="5" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="6" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="7" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="8" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="9" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="10" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="11" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="12" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="13" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="14" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="15" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="16" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="17" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="18" ty="int" />
+          </fd>
+        </O>
+      </fd>
+      <fd n="shoppingCartContents">
+        <O ty="Array">
+          <fd n="I">
+            <V v="4" ty="ID" />
+          </fd>
+        </O>
+      </fd>
+    </O>
+  </E>
+  <E t="300:1380743877537">
+    <O ty="eu.fittest.actionscript.automation::RecordEvent">
+      <fd n="I">
+        <V v="0" ty="ID" />
+      </fd>
+      <fd n="targetID">
+        <V v="&quot;HID_IDY_addressState_1_button&quot;" ty="String" />
+      </fd>
+      <fd n="type">
+        <V v="&quot;click&quot;" ty="String" />
+      </fd>
+      <fd n="args">
+        <O ty="Array">
+          <fd n="I">
+            <V v="1" ty="ID" />
+          </fd>
+        </O>
+      </fd>
+    </O>
+    <O ty="AppAbstractState">
+      <fd n="I">
+        <V v="2" ty="ID" />
+      </fd>
+      <fd n="numInShopCart">
+        <V v="0" ty="int" />
+      </fd>
+      <fd n="cartCurrency">
+        <V v="&quot;$&quot;" ty="String" />
+      </fd>
+      <fd n="cartTotal">
+        <V v="&quot;$0.00&quot;" ty="String" />
+      </fd>
+      <fd n="selectedProduct">
+        <V v="12" ty="int" />
+      </fd>
+      <fd n="catalogContents">
+        <O ty="Array">
+          <fd n="I">
+            <V v="3" ty="ID" />
+          </fd>
+          <fd n="elem">
+            <V v="1" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="2" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="3" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="4" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="5" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="6" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="7" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="8" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="9" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="10" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="11" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="12" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="13" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="14" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="15" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="16" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="17" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="18" ty="int" />
+          </fd>
+        </O>
+      </fd>
+      <fd n="shoppingCartContents">
+        <O ty="Array">
+          <fd n="I">
+            <V v="4" ty="ID" />
+          </fd>
+        </O>
+      </fd>
+    </O>
+  </E>
+  <E t="300:1380743877687">
+    <O ty="eu.fittest.actionscript.automation::RecordEvent">
+      <fd n="I">
+        <V v="0" ty="ID" />
+      </fd>
+      <fd n="targetID">
+        <V v="&quot;IDY_addressState&quot;" ty="String" />
+      </fd>
+      <fd n="type">
+        <V v="&quot;open&quot;" ty="String" />
+      </fd>
+      <fd n="args">
+        <O ty="Array">
+          <fd n="I">
+            <V v="1" ty="ID" />
+          </fd>
+        </O>
+      </fd>
+    </O>
+    <O ty="AppAbstractState">
+      <fd n="I">
+        <V v="2" ty="ID" />
+      </fd>
+      <fd n="numInShopCart">
+        <V v="0" ty="int" />
+      </fd>
+      <fd n="cartCurrency">
+        <V v="&quot;$&quot;" ty="String" />
+      </fd>
+      <fd n="cartTotal">
+        <V v="&quot;$0.00&quot;" ty="String" />
+      </fd>
+      <fd n="selectedProduct">
+        <V v="12" ty="int" />
+      </fd>
+      <fd n="catalogContents">
+        <O ty="Array">
+          <fd n="I">
+            <V v="3" ty="ID" />
+          </fd>
+          <fd n="elem">
+            <V v="1" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="2" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="3" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="4" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="5" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="6" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="7" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="8" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="9" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="10" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="11" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="12" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="13" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="14" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="15" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="16" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="17" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="18" ty="int" />
+          </fd>
+        </O>
+      </fd>
+      <fd n="shoppingCartContents">
+        <O ty="Array">
+          <fd n="I">
+            <V v="4" ty="ID" />
+          </fd>
+        </O>
+      </fd>
+    </O>
+  </E>
+  <E t="300:1380743879064">
+    <O ty="eu.fittest.actionscript.automation::RecordEvent">
+      <fd n="I">
+        <V v="0" ty="ID" />
+      </fd>
+      <fd n="targetID">
+        <V v="&quot;IDY_addressState&quot;" ty="String" />
+      </fd>
+      <fd n="type">
+        <V v="&quot;change&quot;" ty="String" />
+      </fd>
+      <fd n="args">
+        <O ty="Array">
+          <fd n="I">
+            <V v="1" ty="ID" />
+          </fd>
+          <fd n="elem">
+            <V v="1" ty="int" />
+          </fd>
+        </O>
+      </fd>
+    </O>
+    <O ty="AppAbstractState">
+      <fd n="I">
+        <V v="2" ty="ID" />
+      </fd>
+      <fd n="numInShopCart">
+        <V v="0" ty="int" />
+      </fd>
+      <fd n="cartCurrency">
+        <V v="&quot;$&quot;" ty="String" />
+      </fd>
+      <fd n="cartTotal">
+        <V v="&quot;$0.00&quot;" ty="String" />
+      </fd>
+      <fd n="selectedProduct">
+        <V v="12" ty="int" />
+      </fd>
+      <fd n="catalogContents">
+        <O ty="Array">
+          <fd n="I">
+            <V v="3" ty="ID" />
+          </fd>
+          <fd n="elem">
+            <V v="1" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="2" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="3" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="4" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="5" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="6" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="7" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="8" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="9" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="10" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="11" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="12" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="13" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="14" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="15" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="16" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="17" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="18" ty="int" />
+          </fd>
+        </O>
+      </fd>
+      <fd n="shoppingCartContents">
+        <O ty="Array">
+          <fd n="I">
+            <V v="4" ty="ID" />
+          </fd>
+        </O>
+      </fd>
+    </O>
+  </E>
+  <E t="300:1380743879320">
+    <O ty="eu.fittest.actionscript.automation::RecordEvent">
+      <fd n="I">
+        <V v="0" ty="ID" />
+      </fd>
+      <fd n="targetID">
+        <V v="&quot;IDY_addressState&quot;" ty="String" />
+      </fd>
+      <fd n="type">
+        <V v="&quot;close&quot;" ty="String" />
+      </fd>
+      <fd n="args">
+        <O ty="Array">
+          <fd n="I">
+            <V v="1" ty="ID" />
+          </fd>
+        </O>
+      </fd>
+    </O>
+    <O ty="AppAbstractState">
+      <fd n="I">
+        <V v="2" ty="ID" />
+      </fd>
+      <fd n="numInShopCart">
+        <V v="0" ty="int" />
+      </fd>
+      <fd n="cartCurrency">
+        <V v="&quot;$&quot;" ty="String" />
+      </fd>
+      <fd n="cartTotal">
+        <V v="&quot;$0.00&quot;" ty="String" />
+      </fd>
+      <fd n="selectedProduct">
+        <V v="12" ty="int" />
+      </fd>
+      <fd n="catalogContents">
+        <O ty="Array">
+          <fd n="I">
+            <V v="3" ty="ID" />
+          </fd>
+          <fd n="elem">
+            <V v="1" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="2" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="3" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="4" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="5" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="6" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="7" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="8" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="9" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="10" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="11" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="12" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="13" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="14" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="15" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="16" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="17" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="18" ty="int" />
+          </fd>
+        </O>
+      </fd>
+      <fd n="shoppingCartContents">
+        <O ty="Array">
+          <fd n="I">
+            <V v="4" ty="ID" />
+          </fd>
+        </O>
+      </fd>
+    </O>
+  </E>
+  <E t="300:1380743880672">
+    <O ty="eu.fittest.actionscript.automation::RecordEvent">
+      <fd n="I">
+        <V v="0" ty="ID" />
+      </fd>
+      <fd n="targetID">
+        <V v="&quot;IDY_addressStreet&quot;" ty="String" />
+      </fd>
+      <fd n="type">
+        <V v="&quot;click&quot;" ty="String" />
+      </fd>
+      <fd n="args">
+        <O ty="Array">
+          <fd n="I">
+            <V v="1" ty="ID" />
+          </fd>
+        </O>
+      </fd>
+    </O>
+    <O ty="AppAbstractState">
+      <fd n="I">
+        <V v="2" ty="ID" />
+      </fd>
+      <fd n="numInShopCart">
+        <V v="0" ty="int" />
+      </fd>
+      <fd n="cartCurrency">
+        <V v="&quot;$&quot;" ty="String" />
+      </fd>
+      <fd n="cartTotal">
+        <V v="&quot;$0.00&quot;" ty="String" />
+      </fd>
+      <fd n="selectedProduct">
+        <V v="12" ty="int" />
+      </fd>
+      <fd n="catalogContents">
+        <O ty="Array">
+          <fd n="I">
+            <V v="3" ty="ID" />
+          </fd>
+          <fd n="elem">
+            <V v="1" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="2" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="3" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="4" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="5" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="6" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="7" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="8" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="9" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="10" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="11" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="12" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="13" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="14" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="15" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="16" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="17" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="18" ty="int" />
+          </fd>
+        </O>
+      </fd>
+      <fd n="shoppingCartContents">
+        <O ty="Array">
+          <fd n="I">
+            <V v="4" ty="ID" />
+          </fd>
+        </O>
+      </fd>
+    </O>
+  </E>
+  <E t="300:1380743885672">
+    <O ty="eu.fittest.actionscript.automation::RecordEvent">
+      <fd n="I">
+        <V v="0" ty="ID" />
+      </fd>
+      <fd n="targetID">
+        <V v="&quot;IDY_addressStreet&quot;" ty="String" />
+      </fd>
+      <fd n="type">
+        <V v="&quot;type&quot;" ty="String" />
+      </fd>
+      <fd n="args">
+        <O ty="Array">
+          <fd n="I">
+            <V v="1" ty="ID" />
+          </fd>
+          <fd n="elem">
+            <V v="&quot;was&quot;" ty="String" />
+          </fd>
+        </O>
+      </fd>
+    </O>
+    <O ty="AppAbstractState">
+      <fd n="I">
+        <V v="2" ty="ID" />
+      </fd>
+      <fd n="numInShopCart">
+        <V v="0" ty="int" />
+      </fd>
+      <fd n="cartCurrency">
+        <V v="&quot;$&quot;" ty="String" />
+      </fd>
+      <fd n="cartTotal">
+        <V v="&quot;$0.00&quot;" ty="String" />
+      </fd>
+      <fd n="selectedProduct">
+        <V v="12" ty="int" />
+      </fd>
+      <fd n="catalogContents">
+        <O ty="Array">
+          <fd n="I">
+            <V v="3" ty="ID" />
+          </fd>
+          <fd n="elem">
+            <V v="1" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="2" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="3" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="4" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="5" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="6" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="7" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="8" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="9" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="10" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="11" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="12" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="13" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="14" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="15" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="16" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="17" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="18" ty="int" />
+          </fd>
+        </O>
+      </fd>
+      <fd n="shoppingCartContents">
+        <O ty="Array">
+          <fd n="I">
+            <V v="4" ty="ID" />
+          </fd>
+        </O>
+      </fd>
+    </O>
+  </E>
+  <E t="300:1380743886770">
+    <O ty="eu.fittest.actionscript.automation::RecordEvent">
+      <fd n="I">
+        <V v="0" ty="ID" />
+      </fd>
+      <fd n="targetID">
+        <V v="&quot;IDY_addressStreet&quot;" ty="String" />
+      </fd>
+      <fd n="type">
+        <V v="&quot;type&quot;" ty="String" />
+      </fd>
+      <fd n="args">
+        <O ty="Array">
+          <fd n="I">
+            <V v="1" ty="ID" />
+          </fd>
+          <fd n="elem">
+            <V v="&quot;wash&quot;" ty="String" />
+          </fd>
+        </O>
+      </fd>
+    </O>
+    <O ty="AppAbstractState">
+      <fd n="I">
+        <V v="2" ty="ID" />
+      </fd>
+      <fd n="numInShopCart">
+        <V v="0" ty="int" />
+      </fd>
+      <fd n="cartCurrency">
+        <V v="&quot;$&quot;" ty="String" />
+      </fd>
+      <fd n="cartTotal">
+        <V v="&quot;$0.00&quot;" ty="String" />
+      </fd>
+      <fd n="selectedProduct">
+        <V v="12" ty="int" />
+      </fd>
+      <fd n="catalogContents">
+        <O ty="Array">
+          <fd n="I">
+            <V v="3" ty="ID" />
+          </fd>
+          <fd n="elem">
+            <V v="1" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="2" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="3" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="4" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="5" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="6" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="7" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="8" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="9" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="10" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="11" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="12" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="13" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="14" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="15" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="16" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="17" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="18" ty="int" />
+          </fd>
+        </O>
+      </fd>
+      <fd n="shoppingCartContents">
+        <O ty="Array">
+          <fd n="I">
+            <V v="4" ty="ID" />
+          </fd>
+        </O>
+      </fd>
+    </O>
+  </E>
+  <E t="300:1380743888208">
+    <O ty="eu.fittest.actionscript.automation::RecordEvent">
+      <fd n="I">
+        <V v="0" ty="ID" />
+      </fd>
+      <fd n="targetID">
+        <V v="&quot;IDY_buttonLocate&quot;" ty="String" />
+      </fd>
+      <fd n="type">
+        <V v="&quot;click&quot;" ty="String" />
+      </fd>
+      <fd n="args">
+        <O ty="Array">
+          <fd n="I">
+            <V v="1" ty="ID" />
+          </fd>
+        </O>
+      </fd>
+    </O>
+    <O ty="AppAbstractState">
+      <fd n="I">
+        <V v="2" ty="ID" />
+      </fd>
+      <fd n="numInShopCart">
+        <V v="0" ty="int" />
+      </fd>
+      <fd n="cartCurrency">
+        <V v="&quot;$&quot;" ty="String" />
+      </fd>
+      <fd n="cartTotal">
+        <V v="&quot;$0.00&quot;" ty="String" />
+      </fd>
+      <fd n="selectedProduct">
+        <V v="12" ty="int" />
+      </fd>
+      <fd n="catalogContents">
+        <O ty="Array">
+          <fd n="I">
+            <V v="3" ty="ID" />
+          </fd>
+          <fd n="elem">
+            <V v="1" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="2" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="3" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="4" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="5" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="6" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="7" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="8" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="9" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="10" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="11" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="12" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="13" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="14" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="15" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="16" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="17" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="18" ty="int" />
+          </fd>
+        </O>
+      </fd>
+      <fd n="shoppingCartContents">
+        <O ty="Array">
+          <fd n="I">
+            <V v="4" ty="ID" />
+          </fd>
+        </O>
+      </fd>
+    </O>
+  </E>
+  <E t="300:1380743889894">
+    <O ty="eu.fittest.actionscript.automation::RecordEvent">
+      <fd n="I">
+        <V v="0" ty="ID" />
+      </fd>
+      <fd n="targetID">
+        <V v="&quot;OK&quot;" ty="String" />
+      </fd>
+      <fd n="type">
+        <V v="&quot;click&quot;" ty="String" />
+      </fd>
+      <fd n="args">
+        <O ty="Array">
+          <fd n="I">
+            <V v="1" ty="ID" />
+          </fd>
+        </O>
+      </fd>
+    </O>
+    <O ty="AppAbstractState">
+      <fd n="I">
+        <V v="2" ty="ID" />
+      </fd>
+      <fd n="numInShopCart">
+        <V v="0" ty="int" />
+      </fd>
+      <fd n="cartCurrency">
+        <V v="&quot;$&quot;" ty="String" />
+      </fd>
+      <fd n="cartTotal">
+        <V v="&quot;$0.00&quot;" ty="String" />
+      </fd>
+      <fd n="selectedProduct">
+        <V v="12" ty="int" />
+      </fd>
+      <fd n="catalogContents">
+        <O ty="Array">
+          <fd n="I">
+            <V v="3" ty="ID" />
+          </fd>
+          <fd n="elem">
+            <V v="1" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="2" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="3" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="4" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="5" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="6" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="7" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="8" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="9" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="10" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="11" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="12" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="13" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="14" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="15" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="16" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="17" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="18" ty="int" />
+          </fd>
+        </O>
+      </fd>
+      <fd n="shoppingCartContents">
+        <O ty="Array">
+          <fd n="I">
+            <V v="4" ty="ID" />
+          </fd>
+        </O>
+      </fd>
+    </O>
+  </E>
+  <E t="300:1380743892352">
+    <O ty="eu.fittest.actionscript.automation::RecordEvent">
+      <fd n="I">
+        <V v="0" ty="ID" />
+      </fd>
+      <fd n="targetID">
+        <V v="&quot;Image7&quot;" ty="String" />
+      </fd>
+      <fd n="type">
+        <V v="&quot;click&quot;" ty="String" />
+      </fd>
+      <fd n="args">
+        <O ty="Array">
+          <fd n="I">
+            <V v="1" ty="ID" />
+          </fd>
+        </O>
+      </fd>
+    </O>
+    <O ty="AppAbstractState">
+      <fd n="I">
+        <V v="2" ty="ID" />
+      </fd>
+      <fd n="numInShopCart">
+        <V v="0" ty="int" />
+      </fd>
+      <fd n="cartCurrency">
+        <V v="&quot;$&quot;" ty="String" />
+      </fd>
+      <fd n="cartTotal">
+        <V v="&quot;$0.00&quot;" ty="String" />
+      </fd>
+      <fd n="selectedProduct">
+        <V v="12" ty="int" />
+      </fd>
+      <fd n="catalogContents">
+        <O ty="Array">
+          <fd n="I">
+            <V v="3" ty="ID" />
+          </fd>
+          <fd n="elem">
+            <V v="1" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="2" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="3" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="4" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="5" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="6" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="7" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="8" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="9" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="10" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="11" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="12" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="13" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="14" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="15" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="16" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="17" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="18" ty="int" />
+          </fd>
+        </O>
+      </fd>
+      <fd n="shoppingCartContents">
+        <O ty="Array">
+          <fd n="I">
+            <V v="4" ty="ID" />
+          </fd>
+        </O>
+      </fd>
+    </O>
+  </E>
+  <E t="300:1380743894873">
+    <O ty="eu.fittest.actionscript.automation::RecordEvent">
+      <fd n="I">
+        <V v="0" ty="ID" />
+      </fd>
+      <fd n="targetID">
+        <V v="&quot;Image7&quot;" ty="String" />
+      </fd>
+      <fd n="type">
+        <V v="&quot;click&quot;" ty="String" />
+      </fd>
+      <fd n="args">
+        <O ty="Array">
+          <fd n="I">
+            <V v="1" ty="ID" />
+          </fd>
+        </O>
+      </fd>
+    </O>
+    <O ty="AppAbstractState">
+      <fd n="I">
+        <V v="2" ty="ID" />
+      </fd>
+      <fd n="numInShopCart">
+        <V v="0" ty="int" />
+      </fd>
+      <fd n="cartCurrency">
+        <V v="&quot;$&quot;" ty="String" />
+      </fd>
+      <fd n="cartTotal">
+        <V v="&quot;$0.00&quot;" ty="String" />
+      </fd>
+      <fd n="selectedProduct">
+        <V v="12" ty="int" />
+      </fd>
+      <fd n="catalogContents">
+        <O ty="Array">
+          <fd n="I">
+            <V v="3" ty="ID" />
+          </fd>
+          <fd n="elem">
+            <V v="1" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="2" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="3" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="4" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="5" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="6" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="7" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="8" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="9" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="10" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="11" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="12" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="13" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="14" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="15" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="16" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="17" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="18" ty="int" />
+          </fd>
+        </O>
+      </fd>
+      <fd n="shoppingCartContents">
+        <O ty="Array">
+          <fd n="I">
+            <V v="4" ty="ID" />
+          </fd>
+        </O>
+      </fd>
+    </O>
+  </E>
+  <E t="300:1380743902531">
+    <O ty="eu.fittest.actionscript.automation::RecordEvent">
+      <fd n="I">
+        <V v="0" ty="ID" />
+      </fd>
+      <fd n="targetID">
+        <V v="&quot;ButtonBar0&quot;" ty="String" />
+      </fd>
+      <fd n="type">
+        <V v="&quot;itemclick&quot;" ty="String" />
+      </fd>
+      <fd n="args">
+        <O ty="Array">
+          <fd n="I">
+            <V v="1" ty="ID" />
+          </fd>
+          <fd n="elem">
+            <V v="0" ty="int" />
+          </fd>
+        </O>
+      </fd>
+    </O>
+    <O ty="AppAbstractState">
+      <fd n="I">
+        <V v="2" ty="ID" />
+      </fd>
+      <fd n="numInShopCart">
+        <V v="0" ty="int" />
+      </fd>
+      <fd n="cartCurrency">
+        <V v="&quot;$&quot;" ty="String" />
+      </fd>
+      <fd n="cartTotal">
+        <V v="&quot;$0.00&quot;" ty="String" />
+      </fd>
+      <fd n="selectedProduct">
+        <V v="12" ty="int" />
+      </fd>
+      <fd n="catalogContents">
+        <O ty="Array">
+          <fd n="I">
+            <V v="3" ty="ID" />
+          </fd>
+          <fd n="elem">
+            <V v="1" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="2" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="3" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="4" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="5" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="6" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="7" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="8" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="9" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="10" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="11" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="12" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="13" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="14" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="15" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="16" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="17" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="18" ty="int" />
+          </fd>
+        </O>
+      </fd>
+      <fd n="shoppingCartContents">
+        <O ty="Array">
+          <fd n="I">
+            <V v="4" ty="ID" />
+          </fd>
+        </O>
+      </fd>
+    </O>
+  </E>
+  <E t="300:1380743905825">
+    <O ty="eu.fittest.actionscript.automation::RecordEvent">
+      <fd n="I">
+        <V v="0" ty="ID" />
+      </fd>
+      <fd n="targetID">
+        <V v="&quot;Image2&quot;" ty="String" />
+      </fd>
+      <fd n="type">
+        <V v="&quot;click&quot;" ty="String" />
+      </fd>
+      <fd n="args">
+        <O ty="Array">
+          <fd n="I">
+            <V v="1" ty="ID" />
+          </fd>
+        </O>
+      </fd>
+    </O>
+    <O ty="AppAbstractState">
+      <fd n="I">
+        <V v="2" ty="ID" />
+      </fd>
+      <fd n="numInShopCart">
+        <V v="0" ty="int" />
+      </fd>
+      <fd n="cartCurrency">
+        <V v="&quot;$&quot;" ty="String" />
+      </fd>
+      <fd n="cartTotal">
+        <V v="&quot;$0.00&quot;" ty="String" />
+      </fd>
+      <fd n="selectedProduct">
+        <V v="12" ty="int" />
+      </fd>
+      <fd n="catalogContents">
+        <O ty="Array">
+          <fd n="I">
+            <V v="3" ty="ID" />
+          </fd>
+          <fd n="elem">
+            <V v="1" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="2" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="3" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="4" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="5" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="6" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="7" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="8" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="9" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="10" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="11" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="12" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="13" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="14" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="15" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="16" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="17" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="18" ty="int" />
+          </fd>
+        </O>
+      </fd>
+      <fd n="shoppingCartContents">
+        <O ty="Array">
+          <fd n="I">
+            <V v="4" ty="ID" />
+          </fd>
+        </O>
+      </fd>
+    </O>
+  </E>
+  <E t="300:1380743905970">
+    <O ty="eu.fittest.actionscript.automation::RecordEvent">
+      <fd n="I">
+        <V v="0" ty="ID" />
+      </fd>
+      <fd n="targetID">
+        <V v="&quot;Image2&quot;" ty="String" />
+      </fd>
+      <fd n="type">
+        <V v="&quot;click&quot;" ty="String" />
+      </fd>
+      <fd n="args">
+        <O ty="Array">
+          <fd n="I">
+            <V v="1" ty="ID" />
+          </fd>
+        </O>
+      </fd>
+    </O>
+    <O ty="AppAbstractState">
+      <fd n="I">
+        <V v="2" ty="ID" />
+      </fd>
+      <fd n="numInShopCart">
+        <V v="0" ty="int" />
+      </fd>
+      <fd n="cartCurrency">
+        <V v="&quot;$&quot;" ty="String" />
+      </fd>
+      <fd n="cartTotal">
+        <V v="&quot;$0.00&quot;" ty="String" />
+      </fd>
+      <fd n="selectedProduct">
+        <V v="12" ty="int" />
+      </fd>
+      <fd n="catalogContents">
+        <O ty="Array">
+          <fd n="I">
+            <V v="3" ty="ID" />
+          </fd>
+          <fd n="elem">
+            <V v="1" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="2" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="3" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="4" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="5" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="6" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="7" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="8" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="9" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="10" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="11" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="12" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="13" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="14" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="15" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="16" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="17" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="18" ty="int" />
+          </fd>
+        </O>
+      </fd>
+      <fd n="shoppingCartContents">
+        <O ty="Array">
+          <fd n="I">
+            <V v="4" ty="ID" />
+          </fd>
+        </O>
+      </fd>
+    </O>
+  </E>
+  <E t="300:1380743911492">
+    <O ty="eu.fittest.actionscript.automation::RecordEvent">
+      <fd n="I">
+        <V v="0" ty="ID" />
+      </fd>
+      <fd n="targetID">
+        <V v="&quot;IDY_searchproduct&quot;" ty="String" />
+      </fd>
+      <fd n="type">
+        <V v="&quot;click&quot;" ty="String" />
+      </fd>
+      <fd n="args">
+        <O ty="Array">
+          <fd n="I">
+            <V v="1" ty="ID" />
+          </fd>
+        </O>
+      </fd>
+    </O>
+    <O ty="AppAbstractState">
+      <fd n="I">
+        <V v="2" ty="ID" />
+      </fd>
+      <fd n="numInShopCart">
+        <V v="0" ty="int" />
+      </fd>
+      <fd n="cartCurrency">
+        <V v="&quot;$&quot;" ty="String" />
+      </fd>
+      <fd n="cartTotal">
+        <V v="&quot;$0.00&quot;" ty="String" />
+      </fd>
+      <fd n="selectedProduct">
+        <V v="12" ty="int" />
+      </fd>
+      <fd n="catalogContents">
+        <O ty="Array">
+          <fd n="I">
+            <V v="3" ty="ID" />
+          </fd>
+          <fd n="elem">
+            <V v="1" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="2" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="3" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="4" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="5" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="6" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="7" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="8" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="9" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="10" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="11" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="12" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="13" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="14" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="15" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="16" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="17" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="18" ty="int" />
+          </fd>
+        </O>
+      </fd>
+      <fd n="shoppingCartContents">
+        <O ty="Array">
+          <fd n="I">
+            <V v="4" ty="ID" />
+          </fd>
+        </O>
+      </fd>
+    </O>
+  </E>
+  <E t="300:1380743914269">
+    <O ty="eu.fittest.actionscript.automation::RecordEvent">
+      <fd n="I">
+        <V v="0" ty="ID" />
+      </fd>
+      <fd n="targetID">
+        <V v="&quot;IDY_searchproduct&quot;" ty="String" />
+      </fd>
+      <fd n="type">
+        <V v="&quot;type&quot;" ty="String" />
+      </fd>
+      <fd n="args">
+        <O ty="Array">
+          <fd n="I">
+            <V v="1" ty="ID" />
+          </fd>
+          <fd n="elem">
+            <V v="&quot;nokia&quot;" ty="String" />
+          </fd>
+        </O>
+      </fd>
+    </O>
+    <O ty="AppAbstractState">
+      <fd n="I">
+        <V v="2" ty="ID" />
+      </fd>
+      <fd n="numInShopCart">
+        <V v="0" ty="int" />
+      </fd>
+      <fd n="cartCurrency">
+        <V v="&quot;$&quot;" ty="String" />
+      </fd>
+      <fd n="cartTotal">
+        <V v="&quot;$0.00&quot;" ty="String" />
+      </fd>
+      <fd n="selectedProduct">
+        <V v="12" ty="int" />
+      </fd>
+      <fd n="catalogContents">
+        <O ty="Array">
+          <fd n="I">
+            <V v="3" ty="ID" />
+          </fd>
+          <fd n="elem">
+            <V v="1" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="2" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="3" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="4" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="5" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="6" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="7" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="8" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="9" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="10" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="11" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="12" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="13" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="14" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="15" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="16" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="17" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="18" ty="int" />
+          </fd>
+        </O>
+      </fd>
+      <fd n="shoppingCartContents">
+        <O ty="Array">
+          <fd n="I">
+            <V v="4" ty="ID" />
+          </fd>
+        </O>
+      </fd>
+    </O>
+  </E>
+  <E t="300:1380743915367">
+    <O ty="eu.fittest.actionscript.automation::RecordEvent">
+      <fd n="I">
+        <V v="0" ty="ID" />
+      </fd>
+      <fd n="targetID">
+        <V v="&quot;IDY_buttonSearch&quot;" ty="String" />
+      </fd>
+      <fd n="type">
+        <V v="&quot;click&quot;" ty="String" />
+      </fd>
+      <fd n="args">
+        <O ty="Array">
+          <fd n="I">
+            <V v="1" ty="ID" />
+          </fd>
+        </O>
+      </fd>
+    </O>
+    <O ty="AppAbstractState">
+      <fd n="I">
+        <V v="2" ty="ID" />
+      </fd>
+      <fd n="numInShopCart">
+        <V v="0" ty="int" />
+      </fd>
+      <fd n="cartCurrency">
+        <V v="&quot;$&quot;" ty="String" />
+      </fd>
+      <fd n="cartTotal">
+        <V v="&quot;$0.00&quot;" ty="String" />
+      </fd>
+      <fd n="selectedProduct">
+        <V v="12" ty="int" />
+      </fd>
+      <fd n="catalogContents">
+        <O ty="Array">
+          <fd n="I">
+            <V v="3" ty="ID" />
+          </fd>
+          <fd n="elem">
+            <V v="1" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="2" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="3" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="4" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="5" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="6" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="7" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="8" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="9" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="10" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="11" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="12" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="13" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="14" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="15" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="16" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="17" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="18" ty="int" />
+          </fd>
+        </O>
+      </fd>
+      <fd n="shoppingCartContents">
+        <O ty="Array">
+          <fd n="I">
+            <V v="4" ty="ID" />
+          </fd>
+        </O>
+      </fd>
+    </O>
+  </E>
+  <E t="300:1380743917052">
+    <O ty="eu.fittest.actionscript.automation::RecordEvent">
+      <fd n="I">
+        <V v="0" ty="ID" />
+      </fd>
+      <fd n="targetID">
+        <V v="&quot;OK&quot;" ty="String" />
+      </fd>
+      <fd n="type">
+        <V v="&quot;click&quot;" ty="String" />
+      </fd>
+      <fd n="args">
+        <O ty="Array">
+          <fd n="I">
+            <V v="1" ty="ID" />
+          </fd>
+        </O>
+      </fd>
+    </O>
+    <O ty="AppAbstractState">
+      <fd n="I">
+        <V v="2" ty="ID" />
+      </fd>
+      <fd n="numInShopCart">
+        <V v="0" ty="int" />
+      </fd>
+      <fd n="cartCurrency">
+        <V v="&quot;$&quot;" ty="String" />
+      </fd>
+      <fd n="cartTotal">
+        <V v="&quot;$0.00&quot;" ty="String" />
+      </fd>
+      <fd n="selectedProduct">
+        <V v="12" ty="int" />
+      </fd>
+      <fd n="catalogContents">
+        <O ty="Array">
+          <fd n="I">
+            <V v="3" ty="ID" />
+          </fd>
+          <fd n="elem">
+            <V v="1" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="2" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="3" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="4" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="5" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="6" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="7" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="8" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="9" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="10" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="11" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="12" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="13" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="14" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="15" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="16" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="17" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="18" ty="int" />
+          </fd>
+        </O>
+      </fd>
+      <fd n="shoppingCartContents">
+        <O ty="Array">
+          <fd n="I">
+            <V v="4" ty="ID" />
+          </fd>
+        </O>
+      </fd>
+    </O>
+  </E>
+  <E t="300:1380743920638">
+    <O ty="eu.fittest.actionscript.automation::RecordEvent">
+      <fd n="I">
+        <V v="0" ty="ID" />
+      </fd>
+      <fd n="targetID">
+        <V v="&quot;ButtonBar0&quot;" ty="String" />
+      </fd>
+      <fd n="type">
+        <V v="&quot;itemclick&quot;" ty="String" />
+      </fd>
+      <fd n="args">
+        <O ty="Array">
+          <fd n="I">
+            <V v="1" ty="ID" />
+          </fd>
+          <fd n="elem">
+            <V v="1" ty="int" />
+          </fd>
+        </O>
+      </fd>
+    </O>
+    <O ty="AppAbstractState">
+      <fd n="I">
+        <V v="2" ty="ID" />
+      </fd>
+      <fd n="numInShopCart">
+        <V v="0" ty="int" />
+      </fd>
+      <fd n="cartCurrency">
+        <V v="&quot;$&quot;" ty="String" />
+      </fd>
+      <fd n="cartTotal">
+        <V v="&quot;$0.00&quot;" ty="String" />
+      </fd>
+      <fd n="selectedProduct">
+        <V v="12" ty="int" />
+      </fd>
+      <fd n="catalogContents">
+        <O ty="Array">
+          <fd n="I">
+            <V v="3" ty="ID" />
+          </fd>
+          <fd n="elem">
+            <V v="1" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="2" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="3" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="4" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="5" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="6" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="7" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="8" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="9" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="10" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="11" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="12" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="13" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="14" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="15" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="16" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="17" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="18" ty="int" />
+          </fd>
+        </O>
+      </fd>
+      <fd n="shoppingCartContents">
+        <O ty="Array">
+          <fd n="I">
+            <V v="4" ty="ID" />
+          </fd>
+        </O>
+      </fd>
+    </O>
+  </E>
+  <E t="300:1380743926123">
+    <O ty="eu.fittest.actionscript.automation::RecordEvent">
+      <fd n="I">
+        <V v="0" ty="ID" />
+      </fd>
+      <fd n="targetID">
+        <V v="&quot;IDY_labelPrice_15&quot;" ty="String" />
+      </fd>
+      <fd n="type">
+        <V v="&quot;click&quot;" ty="String" />
+      </fd>
+      <fd n="args">
+        <O ty="Array">
+          <fd n="I">
+            <V v="1" ty="ID" />
+          </fd>
+        </O>
+      </fd>
+    </O>
+    <O ty="AppAbstractState">
+      <fd n="I">
+        <V v="2" ty="ID" />
+      </fd>
+      <fd n="numInShopCart">
+        <V v="0" ty="int" />
+      </fd>
+      <fd n="cartCurrency">
+        <V v="&quot;$&quot;" ty="String" />
+      </fd>
+      <fd n="cartTotal">
+        <V v="&quot;$0.00&quot;" ty="String" />
+      </fd>
+      <fd n="selectedProduct">
+        <V v="12" ty="int" />
+      </fd>
+      <fd n="catalogContents">
+        <O ty="Array">
+          <fd n="I">
+            <V v="3" ty="ID" />
+          </fd>
+          <fd n="elem">
+            <V v="1" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="2" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="3" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="4" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="5" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="6" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="7" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="8" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="9" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="10" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="11" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="12" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="13" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="14" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="15" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="16" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="17" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="18" ty="int" />
+          </fd>
+        </O>
+      </fd>
+      <fd n="shoppingCartContents">
+        <O ty="Array">
+          <fd n="I">
+            <V v="4" ty="ID" />
+          </fd>
+        </O>
+      </fd>
+    </O>
+  </E>
+  <E t="300:1380743926125">
+    <O ty="eu.fittest.actionscript.automation::RecordEvent">
+      <fd n="I">
+        <V v="0" ty="ID" />
+      </fd>
+      <fd n="targetID">
+        <V v="&quot;IDY_cancas_15&quot;" ty="String" />
+      </fd>
+      <fd n="type">
+        <V v="&quot;click&quot;" ty="String" />
+      </fd>
+      <fd n="args">
+        <O ty="Array">
+          <fd n="I">
+            <V v="1" ty="ID" />
+          </fd>
+        </O>
+      </fd>
+    </O>
+    <O ty="AppAbstractState">
+      <fd n="I">
+        <V v="2" ty="ID" />
+      </fd>
+      <fd n="numInShopCart">
+        <V v="0" ty="int" />
+      </fd>
+      <fd n="cartCurrency">
+        <V v="&quot;$&quot;" ty="String" />
+      </fd>
+      <fd n="cartTotal">
+        <V v="&quot;$0.00&quot;" ty="String" />
+      </fd>
+      <fd n="selectedProduct">
+        <V v="15" ty="int" />
+      </fd>
+      <fd n="catalogContents">
+        <O ty="Array">
+          <fd n="I">
+            <V v="3" ty="ID" />
+          </fd>
+          <fd n="elem">
+            <V v="1" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="2" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="3" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="4" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="5" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="6" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="7" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="8" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="9" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="10" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="11" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="12" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="13" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="14" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="15" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="16" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="17" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="18" ty="int" />
+          </fd>
+        </O>
+      </fd>
+      <fd n="shoppingCartContents">
+        <O ty="Array">
+          <fd n="I">
+            <V v="4" ty="ID" />
+          </fd>
+        </O>
+      </fd>
+    </O>
+  </E>
+  <E t="300:1380743928506">
+    <O ty="eu.fittest.actionscript.automation::RecordEvent">
+      <fd n="I">
+        <V v="0" ty="ID" />
+      </fd>
+      <fd n="targetID">
+        <V v="&quot;IDY_purchase_15&quot;" ty="String" />
+      </fd>
+      <fd n="type">
+        <V v="&quot;click&quot;" ty="String" />
+      </fd>
+      <fd n="args">
+        <O ty="Array">
+          <fd n="I">
+            <V v="1" ty="ID" />
+          </fd>
+        </O>
+      </fd>
+    </O>
+    <O ty="AppAbstractState">
+      <fd n="I">
+        <V v="2" ty="ID" />
+      </fd>
+      <fd n="numInShopCart">
+        <V v="1" ty="int" />
+      </fd>
+      <fd n="cartCurrency">
+        <V v="&quot;$&quot;" ty="String" />
+      </fd>
+      <fd n="cartTotal">
+        <V v="&quot;$510.99&quot;" ty="String" />
+      </fd>
+      <fd n="selectedProduct">
+        <V v="15" ty="int" />
+      </fd>
+      <fd n="catalogContents">
+        <O ty="Array">
+          <fd n="I">
+            <V v="3" ty="ID" />
+          </fd>
+          <fd n="elem">
+            <V v="1" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="2" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="3" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="4" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="5" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="6" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="7" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="8" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="9" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="10" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="11" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="12" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="13" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="14" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="15" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="16" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="17" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="18" ty="int" />
+          </fd>
+        </O>
+      </fd>
+      <fd n="shoppingCartContents">
+        <O ty="Array">
+          <fd n="I">
+            <V v="4" ty="ID" />
+          </fd>
+          <fd n="elem">
+            <V v="15" ty="int" />
+          </fd>
+        </O>
+      </fd>
+    </O>
+  </E>
+  <E t="300:1380743928506">
+    <O ty="eu.fittest.actionscript.automation::RecordEvent">
+      <fd n="I">
+        <V v="0" ty="ID" />
+      </fd>
+      <fd n="targetID">
+        <V v="&quot;IDY_cancas_15&quot;" ty="String" />
+      </fd>
+      <fd n="type">
+        <V v="&quot;click&quot;" ty="String" />
+      </fd>
+      <fd n="args">
+        <O ty="Array">
+          <fd n="I">
+            <V v="1" ty="ID" />
+          </fd>
+        </O>
+      </fd>
+    </O>
+    <O ty="AppAbstractState">
+      <fd n="I">
+        <V v="2" ty="ID" />
+      </fd>
+      <fd n="numInShopCart">
+        <V v="1" ty="int" />
+      </fd>
+      <fd n="cartCurrency">
+        <V v="&quot;$&quot;" ty="String" />
+      </fd>
+      <fd n="cartTotal">
+        <V v="&quot;$510.99&quot;" ty="String" />
+      </fd>
+      <fd n="selectedProduct">
+        <V v="15" ty="int" />
+      </fd>
+      <fd n="catalogContents">
+        <O ty="Array">
+          <fd n="I">
+            <V v="3" ty="ID" />
+          </fd>
+          <fd n="elem">
+            <V v="1" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="2" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="3" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="4" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="5" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="6" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="7" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="8" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="9" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="10" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="11" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="12" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="13" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="14" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="15" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="16" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="17" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="18" ty="int" />
+          </fd>
+        </O>
+      </fd>
+      <fd n="shoppingCartContents">
+        <O ty="Array">
+          <fd n="I">
+            <V v="4" ty="ID" />
+          </fd>
+          <fd n="elem">
+            <V v="15" ty="int" />
+          </fd>
+        </O>
+      </fd>
+    </O>
+  </E>
+  <E t="300:1380743930806">
+    <O ty="eu.fittest.actionscript.automation::RecordEvent">
+      <fd n="I">
+        <V v="0" ty="ID" />
+      </fd>
+      <fd n="targetID">
+        <V v="&quot;IDY_textFeature_13&quot;" ty="String" />
+      </fd>
+      <fd n="type">
+        <V v="&quot;click&quot;" ty="String" />
+      </fd>
+      <fd n="args">
+        <O ty="Array">
+          <fd n="I">
+            <V v="1" ty="ID" />
+          </fd>
+        </O>
+      </fd>
+    </O>
+    <O ty="AppAbstractState">
+      <fd n="I">
+        <V v="2" ty="ID" />
+      </fd>
+      <fd n="numInShopCart">
+        <V v="1" ty="int" />
+      </fd>
+      <fd n="cartCurrency">
+        <V v="&quot;$&quot;" ty="String" />
+      </fd>
+      <fd n="cartTotal">
+        <V v="&quot;$510.99&quot;" ty="String" />
+      </fd>
+      <fd n="selectedProduct">
+        <V v="15" ty="int" />
+      </fd>
+      <fd n="catalogContents">
+        <O ty="Array">
+          <fd n="I">
+            <V v="3" ty="ID" />
+          </fd>
+          <fd n="elem">
+            <V v="1" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="2" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="3" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="4" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="5" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="6" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="7" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="8" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="9" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="10" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="11" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="12" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="13" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="14" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="15" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="16" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="17" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="18" ty="int" />
+          </fd>
+        </O>
+      </fd>
+      <fd n="shoppingCartContents">
+        <O ty="Array">
+          <fd n="I">
+            <V v="4" ty="ID" />
+          </fd>
+          <fd n="elem">
+            <V v="15" ty="int" />
+          </fd>
+        </O>
+      </fd>
+    </O>
+  </E>
+  <E t="300:1380743930808">
+    <O ty="eu.fittest.actionscript.automation::RecordEvent">
+      <fd n="I">
+        <V v="0" ty="ID" />
+      </fd>
+      <fd n="targetID">
+        <V v="&quot;IDY_cancas_13&quot;" ty="String" />
+      </fd>
+      <fd n="type">
+        <V v="&quot;click&quot;" ty="String" />
+      </fd>
+      <fd n="args">
+        <O ty="Array">
+          <fd n="I">
+            <V v="1" ty="ID" />
+          </fd>
+        </O>
+      </fd>
+    </O>
+    <O ty="AppAbstractState">
+      <fd n="I">
+        <V v="2" ty="ID" />
+      </fd>
+      <fd n="numInShopCart">
+        <V v="1" ty="int" />
+      </fd>
+      <fd n="cartCurrency">
+        <V v="&quot;$&quot;" ty="String" />
+      </fd>
+      <fd n="cartTotal">
+        <V v="&quot;$510.99&quot;" ty="String" />
+      </fd>
+      <fd n="selectedProduct">
+        <V v="13" ty="int" />
+      </fd>
+      <fd n="catalogContents">
+        <O ty="Array">
+          <fd n="I">
+            <V v="3" ty="ID" />
+          </fd>
+          <fd n="elem">
+            <V v="1" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="2" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="3" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="4" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="5" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="6" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="7" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="8" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="9" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="10" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="11" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="12" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="13" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="14" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="15" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="16" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="17" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="18" ty="int" />
+          </fd>
+        </O>
+      </fd>
+      <fd n="shoppingCartContents">
+        <O ty="Array">
+          <fd n="I">
+            <V v="4" ty="ID" />
+          </fd>
+          <fd n="elem">
+            <V v="15" ty="int" />
+          </fd>
+        </O>
+      </fd>
+    </O>
+  </E>
+  <E t="300:1380743932190">
+    <O ty="eu.fittest.actionscript.automation::RecordEvent">
+      <fd n="I">
+        <V v="0" ty="ID" />
+      </fd>
+      <fd n="targetID">
+        <V v="&quot;IDY_purchase_13&quot;" ty="String" />
+      </fd>
+      <fd n="type">
+        <V v="&quot;click&quot;" ty="String" />
+      </fd>
+      <fd n="args">
+        <O ty="Array">
+          <fd n="I">
+            <V v="1" ty="ID" />
+          </fd>
+        </O>
+      </fd>
+    </O>
+    <O ty="AppAbstractState">
+      <fd n="I">
+        <V v="2" ty="ID" />
+      </fd>
+      <fd n="numInShopCart">
+        <V v="2" ty="int" />
+      </fd>
+      <fd n="cartCurrency">
+        <V v="&quot;$&quot;" ty="String" />
+      </fd>
+      <fd n="cartTotal">
+        <V v="&quot;$912.97&quot;" ty="String" />
+      </fd>
+      <fd n="selectedProduct">
+        <V v="13" ty="int" />
+      </fd>
+      <fd n="catalogContents">
+        <O ty="Array">
+          <fd n="I">
+            <V v="3" ty="ID" />
+          </fd>
+          <fd n="elem">
+            <V v="1" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="2" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="3" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="4" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="5" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="6" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="7" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="8" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="9" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="10" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="11" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="12" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="13" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="14" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="15" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="16" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="17" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="18" ty="int" />
+          </fd>
+        </O>
+      </fd>
+      <fd n="shoppingCartContents">
+        <O ty="Array">
+          <fd n="I">
+            <V v="4" ty="ID" />
+          </fd>
+          <fd n="elem">
+            <V v="15" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="13" ty="int" />
+          </fd>
+        </O>
+      </fd>
+    </O>
+  </E>
+  <E t="300:1380743932190">
+    <O ty="eu.fittest.actionscript.automation::RecordEvent">
+      <fd n="I">
+        <V v="0" ty="ID" />
+      </fd>
+      <fd n="targetID">
+        <V v="&quot;IDY_cancas_13&quot;" ty="String" />
+      </fd>
+      <fd n="type">
+        <V v="&quot;click&quot;" ty="String" />
+      </fd>
+      <fd n="args">
+        <O ty="Array">
+          <fd n="I">
+            <V v="1" ty="ID" />
+          </fd>
+        </O>
+      </fd>
+    </O>
+    <O ty="AppAbstractState">
+      <fd n="I">
+        <V v="2" ty="ID" />
+      </fd>
+      <fd n="numInShopCart">
+        <V v="2" ty="int" />
+      </fd>
+      <fd n="cartCurrency">
+        <V v="&quot;$&quot;" ty="String" />
+      </fd>
+      <fd n="cartTotal">
+        <V v="&quot;$912.97&quot;" ty="String" />
+      </fd>
+      <fd n="selectedProduct">
+        <V v="13" ty="int" />
+      </fd>
+      <fd n="catalogContents">
+        <O ty="Array">
+          <fd n="I">
+            <V v="3" ty="ID" />
+          </fd>
+          <fd n="elem">
+            <V v="1" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="2" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="3" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="4" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="5" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="6" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="7" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="8" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="9" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="10" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="11" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="12" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="13" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="14" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="15" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="16" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="17" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="18" ty="int" />
+          </fd>
+        </O>
+      </fd>
+      <fd n="shoppingCartContents">
+        <O ty="Array">
+          <fd n="I">
+            <V v="4" ty="ID" />
+          </fd>
+          <fd n="elem">
+            <V v="15" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="13" ty="int" />
+          </fd>
+        </O>
+      </fd>
+    </O>
+  </E>
+  <E t="300:1380743933872">
+    <O ty="eu.fittest.actionscript.automation::RecordEvent">
+      <fd n="I">
+        <V v="0" ty="ID" />
+      </fd>
+      <fd n="targetID">
+        <V v="&quot;IDY_img_14&quot;" ty="String" />
+      </fd>
+      <fd n="type">
+        <V v="&quot;click&quot;" ty="String" />
+      </fd>
+      <fd n="args">
+        <O ty="Array">
+          <fd n="I">
+            <V v="1" ty="ID" />
+          </fd>
+        </O>
+      </fd>
+    </O>
+    <O ty="AppAbstractState">
+      <fd n="I">
+        <V v="2" ty="ID" />
+      </fd>
+      <fd n="numInShopCart">
+        <V v="2" ty="int" />
+      </fd>
+      <fd n="cartCurrency">
+        <V v="&quot;$&quot;" ty="String" />
+      </fd>
+      <fd n="cartTotal">
+        <V v="&quot;$912.97&quot;" ty="String" />
+      </fd>
+      <fd n="selectedProduct">
+        <V v="13" ty="int" />
+      </fd>
+      <fd n="catalogContents">
+        <O ty="Array">
+          <fd n="I">
+            <V v="3" ty="ID" />
+          </fd>
+          <fd n="elem">
+            <V v="1" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="2" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="3" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="4" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="5" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="6" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="7" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="8" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="9" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="10" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="11" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="12" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="13" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="14" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="15" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="16" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="17" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="18" ty="int" />
+          </fd>
+        </O>
+      </fd>
+      <fd n="shoppingCartContents">
+        <O ty="Array">
+          <fd n="I">
+            <V v="4" ty="ID" />
+          </fd>
+          <fd n="elem">
+            <V v="15" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="13" ty="int" />
+          </fd>
+        </O>
+      </fd>
+    </O>
+  </E>
+  <E t="300:1380743933874">
+    <O ty="eu.fittest.actionscript.automation::RecordEvent">
+      <fd n="I">
+        <V v="0" ty="ID" />
+      </fd>
+      <fd n="targetID">
+        <V v="&quot;IDY_cancas_14&quot;" ty="String" />
+      </fd>
+      <fd n="type">
+        <V v="&quot;click&quot;" ty="String" />
+      </fd>
+      <fd n="args">
+        <O ty="Array">
+          <fd n="I">
+            <V v="1" ty="ID" />
+          </fd>
+        </O>
+      </fd>
+    </O>
+    <O ty="AppAbstractState">
+      <fd n="I">
+        <V v="2" ty="ID" />
+      </fd>
+      <fd n="numInShopCart">
+        <V v="2" ty="int" />
+      </fd>
+      <fd n="cartCurrency">
+        <V v="&quot;$&quot;" ty="String" />
+      </fd>
+      <fd n="cartTotal">
+        <V v="&quot;$912.97&quot;" ty="String" />
+      </fd>
+      <fd n="selectedProduct">
+        <V v="14" ty="int" />
+      </fd>
+      <fd n="catalogContents">
+        <O ty="Array">
+          <fd n="I">
+            <V v="3" ty="ID" />
+          </fd>
+          <fd n="elem">
+            <V v="1" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="2" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="3" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="4" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="5" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="6" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="7" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="8" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="9" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="10" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="11" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="12" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="13" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="14" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="15" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="16" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="17" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="18" ty="int" />
+          </fd>
+        </O>
+      </fd>
+      <fd n="shoppingCartContents">
+        <O ty="Array">
+          <fd n="I">
+            <V v="4" ty="ID" />
+          </fd>
+          <fd n="elem">
+            <V v="15" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="13" ty="int" />
+          </fd>
+        </O>
+      </fd>
+    </O>
+  </E>
+  <E t="300:1380743941126">
+    <O ty="eu.fittest.actionscript.automation::RecordEvent">
+      <fd n="I">
+        <V v="0" ty="ID" />
+      </fd>
+      <fd n="targetID">
+        <V v="&quot;IDY_purchase_14&quot;" ty="String" />
+      </fd>
+      <fd n="type">
+        <V v="&quot;click&quot;" ty="String" />
+      </fd>
+      <fd n="args">
+        <O ty="Array">
+          <fd n="I">
+            <V v="1" ty="ID" />
+          </fd>
+        </O>
+      </fd>
+    </O>
+    <O ty="AppAbstractState">
+      <fd n="I">
+        <V v="2" ty="ID" />
+      </fd>
+      <fd n="numInShopCart">
+        <V v="3" ty="int" />
+      </fd>
+      <fd n="cartCurrency">
+        <V v="&quot;$&quot;" ty="String" />
+      </fd>
+      <fd n="cartTotal">
+        <V v="&quot;$1,314.95&quot;" ty="String" />
+      </fd>
+      <fd n="selectedProduct">
+        <V v="14" ty="int" />
+      </fd>
+      <fd n="catalogContents">
+        <O ty="Array">
+          <fd n="I">
+            <V v="3" ty="ID" />
+          </fd>
+          <fd n="elem">
+            <V v="1" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="2" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="3" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="4" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="5" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="6" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="7" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="8" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="9" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="10" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="11" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="12" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="13" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="14" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="15" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="16" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="17" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="18" ty="int" />
+          </fd>
+        </O>
+      </fd>
+      <fd n="shoppingCartContents">
+        <O ty="Array">
+          <fd n="I">
+            <V v="4" ty="ID" />
+          </fd>
+          <fd n="elem">
+            <V v="15" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="13" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="14" ty="int" />
+          </fd>
+        </O>
+      </fd>
+    </O>
+  </E>
+  <E t="300:1380743941126">
+    <O ty="eu.fittest.actionscript.automation::RecordEvent">
+      <fd n="I">
+        <V v="0" ty="ID" />
+      </fd>
+      <fd n="targetID">
+        <V v="&quot;IDY_cancas_14&quot;" ty="String" />
+      </fd>
+      <fd n="type">
+        <V v="&quot;click&quot;" ty="String" />
+      </fd>
+      <fd n="args">
+        <O ty="Array">
+          <fd n="I">
+            <V v="1" ty="ID" />
+          </fd>
+        </O>
+      </fd>
+    </O>
+    <O ty="AppAbstractState">
+      <fd n="I">
+        <V v="2" ty="ID" />
+      </fd>
+      <fd n="numInShopCart">
+        <V v="3" ty="int" />
+      </fd>
+      <fd n="cartCurrency">
+        <V v="&quot;$&quot;" ty="String" />
+      </fd>
+      <fd n="cartTotal">
+        <V v="&quot;$1,314.95&quot;" ty="String" />
+      </fd>
+      <fd n="selectedProduct">
+        <V v="14" ty="int" />
+      </fd>
+      <fd n="catalogContents">
+        <O ty="Array">
+          <fd n="I">
+            <V v="3" ty="ID" />
+          </fd>
+          <fd n="elem">
+            <V v="1" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="2" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="3" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="4" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="5" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="6" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="7" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="8" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="9" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="10" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="11" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="12" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="13" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="14" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="15" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="16" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="17" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="18" ty="int" />
+          </fd>
+        </O>
+      </fd>
+      <fd n="shoppingCartContents">
+        <O ty="Array">
+          <fd n="I">
+            <V v="4" ty="ID" />
+          </fd>
+          <fd n="elem">
+            <V v="15" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="13" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="14" ty="int" />
+          </fd>
+        </O>
+      </fd>
+    </O>
+  </E>
+</body>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mx:Canvas xmlns:mx="http://www.adobe.com/2006/mxml" width="990" height="550">
+	<mx:Style>       
+		.myFormItemLabelStyle {
+			color: #333399;
+			fontSize: 13;
+		}
+		
+	</mx:Style>
+	
+	<mx:Script>
+		<![CDATA[
+			import mx.controls.Alert;
+			private function checkOut(fullName:String):void {
+				if (fullName != null && fullName.length > 0){
+					Alert.show('Thank you ' + fullName + '\n your order will be processed!', 'Check out done')
+				}
+			}
+		]]>
+	</mx:Script>
+	
+	<mx:Form id="checkoutForm" width="600" height="100%" defaultButton="{submitButton}">
+		<mx:FormHeading automationName="IDY_checkout_title" label="Billing Information"/>
+		
+		<mx:FormItem label="Full Name" 
+					 labelStyleName="myFormItemLabelStyle">
+			<mx:TextInput automationName="IDY_checkout_fullname" id="fullName"/>
+		</mx:FormItem>
+		
+		<mx:FormItem label="Address" 
+					 labelStyleName="myFormItemLabelStyle">
+			<mx:TextInput automationName="IDY_checkout_address" id="address"/>
+		</mx:FormItem>
+		
+		<mx:FormItem label="Zip Code" 
+					 labelStyleName="myFormItemLabelStyle">
+			<mx:TextInput automationName="IDY_checkout_zipcode" id="zipCode"/>
+		</mx:FormItem>
+		
+		<mx:FormItem label="Phone Number" labelStyleName="myFormItemLabelStyle">
+			<mx:TextInput automationName="IDY_checkout_phonenr" id="phoneNumber"/>
+		</mx:FormItem>
+		
+		<mx:FormItem>
+			<mx:Button label="Submit" id="submitButton" automationName="IDY_checkout_submit"
+					   click="checkOut(fullName.text);"/>
+		</mx:FormItem>
+		
+	</mx:Form>
+</mx:Canvas>

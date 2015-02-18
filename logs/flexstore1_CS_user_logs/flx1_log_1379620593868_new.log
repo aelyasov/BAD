@@ -1,0 +1,2571 @@
+%<S -120:1379620599408 "E"
+%<S "O:eu.fittest.actionscript.automation::RecordEvent"
+%<P
+%<{ I=0:ID }%>
+%<{ targetID="Image4":String }%>
+%<{ type="click":String }%>
+%<{ args=> }%>
+%>
+%<S "O:Array"
+%<P
+%<{ I=1:ID }%>
+%>
+%>
+%>
+%<S "O:AppAbstractState"
+%<P
+%<{ I=2:ID }%>
+%<{ selectedProduct=-1:int }%>
+%<{ catalogContents=> }%>
+%>
+%<S "O:Array"
+%<P
+%<{ I=3:ID }%>
+%<{ elem=1:int }%>
+%<{ elem=2:int }%>
+%<{ elem=3:int }%>
+%<{ elem=4:int }%>
+%<{ elem=5:int }%>
+%<{ elem=6:int }%>
+%<{ elem=7:int }%>
+%<{ elem=8:int }%>
+%<{ elem=9:int }%>
+%<{ elem=10:int }%>
+%<{ elem=11:int }%>
+%<{ elem=12:int }%>
+%<{ elem=13:int }%>
+%<{ elem=14:int }%>
+%<{ elem=15:int }%>
+%<{ elem=16:int }%>
+%<{ elem=17:int }%>
+%<{ elem=18:int }%>
+%>
+%>
+%>
+%>
+%<S -120:1379620600201 "E"
+%<S "O:eu.fittest.actionscript.automation::RecordEvent"
+%<P
+%<{ I=0:ID }%>
+%<{ targetID="Image4":String }%>
+%<{ type="click":String }%>
+%<{ args=> }%>
+%>
+%<S "O:Array"
+%<P
+%<{ I=1:ID }%>
+%>
+%>
+%>
+%<S "O:AppAbstractState"
+%<P
+%<{ I=2:ID }%>
+%<{ selectedProduct=-1:int }%>
+%<{ catalogContents=> }%>
+%>
+%<S "O:Array"
+%<P
+%<{ I=3:ID }%>
+%<{ elem=1:int }%>
+%<{ elem=2:int }%>
+%<{ elem=3:int }%>
+%<{ elem=4:int }%>
+%<{ elem=5:int }%>
+%<{ elem=6:int }%>
+%<{ elem=7:int }%>
+%<{ elem=8:int }%>
+%<{ elem=9:int }%>
+%<{ elem=10:int }%>
+%<{ elem=11:int }%>
+%<{ elem=12:int }%>
+%<{ elem=13:int }%>
+%<{ elem=14:int }%>
+%<{ elem=15:int }%>
+%<{ elem=16:int }%>
+%<{ elem=17:int }%>
+%<{ elem=18:int }%>
+%>
+%>
+%>
+%>
+%<S -120:1379620601406 "E"
+%<S "O:eu.fittest.actionscript.automation::RecordEvent"
+%<P
+%<{ I=0:ID }%>
+%<{ targetID="feat_prod_1":String }%>
+%<{ type="click":String }%>
+%<{ args=> }%>
+%>
+%<S "O:Array"
+%<P
+%<{ I=1:ID }%>
+%>
+%>
+%>
+%<S "O:AppAbstractState"
+%<P
+%<{ I=2:ID }%>
+%<{ selectedProduct=-1:int }%>
+%<{ catalogContents=> }%>
+%>
+%<S "O:Array"
+%<P
+%<{ I=3:ID }%>
+%<{ elem=1:int }%>
+%<{ elem=2:int }%>
+%<{ elem=3:int }%>
+%<{ elem=4:int }%>
+%<{ elem=5:int }%>
+%<{ elem=6:int }%>
+%<{ elem=7:int }%>
+%<{ elem=8:int }%>
+%<{ elem=9:int }%>
+%<{ elem=10:int }%>
+%<{ elem=11:int }%>
+%<{ elem=12:int }%>
+%<{ elem=13:int }%>
+%<{ elem=14:int }%>
+%<{ elem=15:int }%>
+%<{ elem=16:int }%>
+%<{ elem=17:int }%>
+%<{ elem=18:int }%>
+%>
+%>
+%>
+%>
+%<S -120:1379620605775 "E"
+%<S "O:eu.fittest.actionscript.automation::RecordEvent"
+%<P
+%<{ I=0:ID }%>
+%<{ targetID="ButtonBar0":String }%>
+%<{ type="itemclick":String }%>
+%<{ args=> }%>
+%>
+%<S "O:Array"
+%<P
+%<{ I=1:ID }%>
+%<{ elem=1:int }%>
+%>
+%>
+%>
+%<S "O:AppAbstractState"
+%<P
+%<{ I=2:ID }%>
+%<{ selectedProduct=-1:int }%>
+%<{ catalogContents=> }%>
+%>
+%<S "O:Array"
+%<P
+%<{ I=3:ID }%>
+%<{ elem=1:int }%>
+%<{ elem=2:int }%>
+%<{ elem=3:int }%>
+%<{ elem=4:int }%>
+%<{ elem=5:int }%>
+%<{ elem=6:int }%>
+%<{ elem=7:int }%>
+%<{ elem=8:int }%>
+%<{ elem=9:int }%>
+%<{ elem=10:int }%>
+%<{ elem=11:int }%>
+%<{ elem=12:int }%>
+%<{ elem=13:int }%>
+%<{ elem=14:int }%>
+%<{ elem=15:int }%>
+%<{ elem=16:int }%>
+%<{ elem=17:int }%>
+%<{ elem=18:int }%>
+%>
+%>
+%>
+%>
+%<S -120:1379620614029 "E"
+%<S "O:eu.fittest.actionscript.automation::RecordEvent"
+%<P
+%<{ I=0:ID }%>
+%<{ targetID="IDY_details_1":String }%>
+%<{ type="click":String }%>
+%<{ args=> }%>
+%>
+%<S "O:Array"
+%<P
+%<{ I=1:ID }%>
+%>
+%>
+%>
+%<S "O:AppAbstractState"
+%<P
+%<{ I=2:ID }%>
+%<{ selectedProduct=-1:int }%>
+%<{ catalogContents=> }%>
+%>
+%<S "O:Array"
+%<P
+%<{ I=3:ID }%>
+%<{ elem=1:int }%>
+%<{ elem=2:int }%>
+%<{ elem=3:int }%>
+%<{ elem=4:int }%>
+%<{ elem=5:int }%>
+%<{ elem=6:int }%>
+%<{ elem=7:int }%>
+%<{ elem=8:int }%>
+%<{ elem=9:int }%>
+%<{ elem=10:int }%>
+%<{ elem=11:int }%>
+%<{ elem=12:int }%>
+%<{ elem=13:int }%>
+%<{ elem=14:int }%>
+%<{ elem=15:int }%>
+%<{ elem=16:int }%>
+%<{ elem=17:int }%>
+%<{ elem=18:int }%>
+%>
+%>
+%>
+%>
+%<S -120:1379620614030 "E"
+%<S "O:eu.fittest.actionscript.automation::RecordEvent"
+%<P
+%<{ I=0:ID }%>
+%<{ targetID="IDY_cancas_1":String }%>
+%<{ type="click":String }%>
+%<{ args=> }%>
+%>
+%<S "O:Array"
+%<P
+%<{ I=1:ID }%>
+%>
+%>
+%>
+%<S "O:AppAbstractState"
+%<P
+%<{ I=2:ID }%>
+%<{ selectedProduct=-1:int }%>
+%<{ catalogContents=> }%>
+%>
+%<S "O:Array"
+%<P
+%<{ I=3:ID }%>
+%<{ elem=1:int }%>
+%<{ elem=2:int }%>
+%<{ elem=3:int }%>
+%<{ elem=4:int }%>
+%<{ elem=5:int }%>
+%<{ elem=6:int }%>
+%<{ elem=7:int }%>
+%<{ elem=8:int }%>
+%<{ elem=9:int }%>
+%<{ elem=10:int }%>
+%<{ elem=11:int }%>
+%<{ elem=12:int }%>
+%<{ elem=13:int }%>
+%<{ elem=14:int }%>
+%<{ elem=15:int }%>
+%<{ elem=16:int }%>
+%<{ elem=17:int }%>
+%<{ elem=18:int }%>
+%>
+%>
+%>
+%>
+%<S -120:1379620617950 "E"
+%<S "O:eu.fittest.actionscript.automation::RecordEvent"
+%<P
+%<{ I=0:ID }%>
+%<{ targetID="ButtonBar0":String }%>
+%<{ type="itemclick":String }%>
+%<{ args=> }%>
+%>
+%<S "O:Array"
+%<P
+%<{ I=1:ID }%>
+%<{ elem=0:int }%>
+%>
+%>
+%>
+%<S "O:AppAbstractState"
+%<P
+%<{ I=2:ID }%>
+%<{ selectedProduct=1:int }%>
+%<{ catalogContents=> }%>
+%>
+%<S "O:Array"
+%<P
+%<{ I=3:ID }%>
+%<{ elem=1:int }%>
+%<{ elem=2:int }%>
+%<{ elem=3:int }%>
+%<{ elem=4:int }%>
+%<{ elem=5:int }%>
+%<{ elem=6:int }%>
+%<{ elem=7:int }%>
+%<{ elem=8:int }%>
+%<{ elem=9:int }%>
+%<{ elem=10:int }%>
+%<{ elem=11:int }%>
+%<{ elem=12:int }%>
+%<{ elem=13:int }%>
+%<{ elem=14:int }%>
+%<{ elem=15:int }%>
+%<{ elem=16:int }%>
+%<{ elem=17:int }%>
+%<{ elem=18:int }%>
+%>
+%>
+%>
+%>
+%<S -120:1379620621969 "E"
+%<S "O:eu.fittest.actionscript.automation::RecordEvent"
+%<P
+%<{ I=0:ID }%>
+%<{ targetID="IDY_searchproduct":String }%>
+%<{ type="click":String }%>
+%<{ args=> }%>
+%>
+%<S "O:Array"
+%<P
+%<{ I=1:ID }%>
+%>
+%>
+%>
+%<S "O:AppAbstractState"
+%<P
+%<{ I=2:ID }%>
+%<{ selectedProduct=1:int }%>
+%<{ catalogContents=> }%>
+%>
+%<S "O:Array"
+%<P
+%<{ I=3:ID }%>
+%<{ elem=1:int }%>
+%<{ elem=2:int }%>
+%<{ elem=3:int }%>
+%<{ elem=4:int }%>
+%<{ elem=5:int }%>
+%<{ elem=6:int }%>
+%<{ elem=7:int }%>
+%<{ elem=8:int }%>
+%<{ elem=9:int }%>
+%<{ elem=10:int }%>
+%<{ elem=11:int }%>
+%<{ elem=12:int }%>
+%<{ elem=13:int }%>
+%<{ elem=14:int }%>
+%<{ elem=15:int }%>
+%<{ elem=16:int }%>
+%<{ elem=17:int }%>
+%<{ elem=18:int }%>
+%>
+%>
+%>
+%>
+%<S -120:1379620624305 "E"
+%<S "O:eu.fittest.actionscript.automation::RecordEvent"
+%<P
+%<{ I=0:ID }%>
+%<{ targetID="IDY_searchproduct":String }%>
+%<{ type="type":String }%>
+%<{ args=> }%>
+%>
+%<S "O:Array"
+%<P
+%<{ I=1:ID }%>
+%<{ elem="nnn":String }%>
+%>
+%>
+%>
+%<S "O:AppAbstractState"
+%<P
+%<{ I=2:ID }%>
+%<{ selectedProduct=1:int }%>
+%<{ catalogContents=> }%>
+%>
+%<S "O:Array"
+%<P
+%<{ I=3:ID }%>
+%<{ elem=1:int }%>
+%<{ elem=2:int }%>
+%<{ elem=3:int }%>
+%<{ elem=4:int }%>
+%<{ elem=5:int }%>
+%<{ elem=6:int }%>
+%<{ elem=7:int }%>
+%<{ elem=8:int }%>
+%<{ elem=9:int }%>
+%<{ elem=10:int }%>
+%<{ elem=11:int }%>
+%<{ elem=12:int }%>
+%<{ elem=13:int }%>
+%<{ elem=14:int }%>
+%<{ elem=15:int }%>
+%<{ elem=16:int }%>
+%<{ elem=17:int }%>
+%<{ elem=18:int }%>
+%>
+%>
+%>
+%>
+%<S -120:1379620625305 "E"
+%<S "O:eu.fittest.actionscript.automation::RecordEvent"
+%<P
+%<{ I=0:ID }%>
+%<{ targetID="IDY_buttonSearch":String }%>
+%<{ type="click":String }%>
+%<{ args=> }%>
+%>
+%<S "O:Array"
+%<P
+%<{ I=1:ID }%>
+%>
+%>
+%>
+%<S "O:AppAbstractState"
+%<P
+%<{ I=2:ID }%>
+%<{ selectedProduct=1:int }%>
+%<{ catalogContents=> }%>
+%>
+%<S "O:Array"
+%<P
+%<{ I=3:ID }%>
+%<{ elem=1:int }%>
+%<{ elem=2:int }%>
+%<{ elem=3:int }%>
+%<{ elem=4:int }%>
+%<{ elem=5:int }%>
+%<{ elem=6:int }%>
+%<{ elem=7:int }%>
+%<{ elem=8:int }%>
+%<{ elem=9:int }%>
+%<{ elem=10:int }%>
+%<{ elem=11:int }%>
+%<{ elem=12:int }%>
+%<{ elem=13:int }%>
+%<{ elem=14:int }%>
+%<{ elem=15:int }%>
+%<{ elem=16:int }%>
+%<{ elem=17:int }%>
+%<{ elem=18:int }%>
+%>
+%>
+%>
+%>
+%<S -120:1379620627975 "E"
+%<S "O:eu.fittest.actionscript.automation::RecordEvent"
+%<P
+%<{ I=0:ID }%>
+%<{ targetID="OK":String }%>
+%<{ type="click":String }%>
+%<{ args=> }%>
+%>
+%<S "O:Array"
+%<P
+%<{ I=1:ID }%>
+%>
+%>
+%>
+%<S "O:AppAbstractState"
+%<P
+%<{ I=2:ID }%>
+%<{ selectedProduct=1:int }%>
+%<{ catalogContents=> }%>
+%>
+%<S "O:Array"
+%<P
+%<{ I=3:ID }%>
+%<{ elem=1:int }%>
+%<{ elem=2:int }%>
+%<{ elem=3:int }%>
+%<{ elem=4:int }%>
+%<{ elem=5:int }%>
+%<{ elem=6:int }%>
+%<{ elem=7:int }%>
+%<{ elem=8:int }%>
+%<{ elem=9:int }%>
+%<{ elem=10:int }%>
+%<{ elem=11:int }%>
+%<{ elem=12:int }%>
+%<{ elem=13:int }%>
+%<{ elem=14:int }%>
+%<{ elem=15:int }%>
+%<{ elem=16:int }%>
+%<{ elem=17:int }%>
+%<{ elem=18:int }%>
+%>
+%>
+%>
+%>
+%<S -120:1379620631306 "E"
+%<S "O:eu.fittest.actionscript.automation::RecordEvent"
+%<P
+%<{ I=0:ID }%>
+%<{ targetID="ButtonBar0":String }%>
+%<{ type="itemclick":String }%>
+%<{ args=> }%>
+%>
+%<S "O:Array"
+%<P
+%<{ I=1:ID }%>
+%<{ elem=1:int }%>
+%>
+%>
+%>
+%<S "O:AppAbstractState"
+%<P
+%<{ I=2:ID }%>
+%<{ selectedProduct=1:int }%>
+%<{ catalogContents=> }%>
+%>
+%<S "O:Array"
+%<P
+%<{ I=3:ID }%>
+%<{ elem=1:int }%>
+%<{ elem=2:int }%>
+%<{ elem=3:int }%>
+%<{ elem=4:int }%>
+%<{ elem=5:int }%>
+%<{ elem=6:int }%>
+%<{ elem=7:int }%>
+%<{ elem=8:int }%>
+%<{ elem=9:int }%>
+%<{ elem=10:int }%>
+%<{ elem=11:int }%>
+%<{ elem=12:int }%>
+%<{ elem=13:int }%>
+%<{ elem=14:int }%>
+%<{ elem=15:int }%>
+%<{ elem=16:int }%>
+%<{ elem=17:int }%>
+%<{ elem=18:int }%>
+%>
+%>
+%>
+%>
+%<S -120:1379620634860 "E"
+%<S "O:eu.fittest.actionscript.automation::RecordEvent"
+%<P
+%<{ I=0:ID }%>
+%<{ targetID="back_thumb":String }%>
+%<{ type="click":String }%>
+%<{ args=> }%>
+%>
+%<S "O:Array"
+%<P
+%<{ I=1:ID }%>
+%>
+%>
+%>
+%<S "O:AppAbstractState"
+%<P
+%<{ I=2:ID }%>
+%<{ selectedProduct=1:int }%>
+%<{ catalogContents=> }%>
+%>
+%<S "O:Array"
+%<P
+%<{ I=3:ID }%>
+%<{ elem=1:int }%>
+%<{ elem=2:int }%>
+%<{ elem=3:int }%>
+%<{ elem=4:int }%>
+%<{ elem=5:int }%>
+%<{ elem=6:int }%>
+%<{ elem=7:int }%>
+%<{ elem=8:int }%>
+%<{ elem=9:int }%>
+%<{ elem=10:int }%>
+%<{ elem=11:int }%>
+%<{ elem=12:int }%>
+%<{ elem=13:int }%>
+%<{ elem=14:int }%>
+%<{ elem=15:int }%>
+%<{ elem=16:int }%>
+%<{ elem=17:int }%>
+%<{ elem=18:int }%>
+%>
+%>
+%>
+%>
+%<S -120:1379620640593 "E"
+%<S "O:eu.fittest.actionscript.automation::RecordEvent"
+%<P
+%<{ I=0:ID }%>
+%<{ targetID="IDY_img_18":String }%>
+%<{ type="click":String }%>
+%<{ args=> }%>
+%>
+%<S "O:Array"
+%<P
+%<{ I=1:ID }%>
+%>
+%>
+%>
+%<S "O:AppAbstractState"
+%<P
+%<{ I=2:ID }%>
+%<{ selectedProduct=1:int }%>
+%<{ catalogContents=> }%>
+%>
+%<S "O:Array"
+%<P
+%<{ I=3:ID }%>
+%<{ elem=1:int }%>
+%<{ elem=2:int }%>
+%<{ elem=3:int }%>
+%<{ elem=4:int }%>
+%<{ elem=5:int }%>
+%<{ elem=6:int }%>
+%<{ elem=7:int }%>
+%<{ elem=8:int }%>
+%<{ elem=9:int }%>
+%<{ elem=10:int }%>
+%<{ elem=11:int }%>
+%<{ elem=12:int }%>
+%<{ elem=13:int }%>
+%<{ elem=14:int }%>
+%<{ elem=15:int }%>
+%<{ elem=16:int }%>
+%<{ elem=17:int }%>
+%<{ elem=18:int }%>
+%>
+%>
+%>
+%>
+%<S -120:1379620640606 "E"
+%<S "O:eu.fittest.actionscript.automation::RecordEvent"
+%<P
+%<{ I=0:ID }%>
+%<{ targetID="IDY_cancas_18":String }%>
+%<{ type="click":String }%>
+%<{ args=> }%>
+%>
+%<S "O:Array"
+%<P
+%<{ I=1:ID }%>
+%>
+%>
+%>
+%<S "O:AppAbstractState"
+%<P
+%<{ I=2:ID }%>
+%<{ selectedProduct=1:int }%>
+%<{ catalogContents=> }%>
+%>
+%<S "O:Array"
+%<P
+%<{ I=3:ID }%>
+%<{ elem=1:int }%>
+%<{ elem=2:int }%>
+%<{ elem=3:int }%>
+%<{ elem=4:int }%>
+%<{ elem=5:int }%>
+%<{ elem=6:int }%>
+%<{ elem=7:int }%>
+%<{ elem=8:int }%>
+%<{ elem=9:int }%>
+%<{ elem=10:int }%>
+%<{ elem=11:int }%>
+%<{ elem=12:int }%>
+%<{ elem=13:int }%>
+%<{ elem=14:int }%>
+%<{ elem=15:int }%>
+%<{ elem=16:int }%>
+%<{ elem=17:int }%>
+%<{ elem=18:int }%>
+%>
+%>
+%>
+%>
+%<S -120:1379620643490 "E"
+%<S "O:eu.fittest.actionscript.automation::RecordEvent"
+%<P
+%<{ I=0:ID }%>
+%<{ targetID="back_thumb":String }%>
+%<{ type="click":String }%>
+%<{ args=> }%>
+%>
+%<S "O:Array"
+%<P
+%<{ I=1:ID }%>
+%>
+%>
+%>
+%<S "O:AppAbstractState"
+%<P
+%<{ I=2:ID }%>
+%<{ selectedProduct=18:int }%>
+%<{ catalogContents=> }%>
+%>
+%<S "O:Array"
+%<P
+%<{ I=3:ID }%>
+%<{ elem=1:int }%>
+%<{ elem=2:int }%>
+%<{ elem=3:int }%>
+%<{ elem=4:int }%>
+%<{ elem=5:int }%>
+%<{ elem=6:int }%>
+%<{ elem=7:int }%>
+%<{ elem=8:int }%>
+%<{ elem=9:int }%>
+%<{ elem=10:int }%>
+%<{ elem=11:int }%>
+%<{ elem=12:int }%>
+%<{ elem=13:int }%>
+%<{ elem=14:int }%>
+%<{ elem=15:int }%>
+%<{ elem=16:int }%>
+%<{ elem=17:int }%>
+%<{ elem=18:int }%>
+%>
+%>
+%>
+%>
+%<S -120:1379620650720 "E"
+%<S "O:eu.fittest.actionscript.automation::RecordEvent"
+%<P
+%<{ I=0:ID }%>
+%<{ targetID="IDY_details_18":String }%>
+%<{ type="click":String }%>
+%<{ args=> }%>
+%>
+%<S "O:Array"
+%<P
+%<{ I=1:ID }%>
+%>
+%>
+%>
+%<S "O:AppAbstractState"
+%<P
+%<{ I=2:ID }%>
+%<{ selectedProduct=18:int }%>
+%<{ catalogContents=> }%>
+%>
+%<S "O:Array"
+%<P
+%<{ I=3:ID }%>
+%<{ elem=1:int }%>
+%<{ elem=2:int }%>
+%<{ elem=3:int }%>
+%<{ elem=4:int }%>
+%<{ elem=5:int }%>
+%<{ elem=6:int }%>
+%<{ elem=7:int }%>
+%<{ elem=8:int }%>
+%<{ elem=9:int }%>
+%<{ elem=10:int }%>
+%<{ elem=11:int }%>
+%<{ elem=12:int }%>
+%<{ elem=13:int }%>
+%<{ elem=14:int }%>
+%<{ elem=15:int }%>
+%<{ elem=16:int }%>
+%<{ elem=17:int }%>
+%<{ elem=18:int }%>
+%>
+%>
+%>
+%>
+%<S -120:1379620650721 "E"
+%<S "O:eu.fittest.actionscript.automation::RecordEvent"
+%<P
+%<{ I=0:ID }%>
+%<{ targetID="IDY_cancas_18":String }%>
+%<{ type="click":String }%>
+%<{ args=> }%>
+%>
+%<S "O:Array"
+%<P
+%<{ I=1:ID }%>
+%>
+%>
+%>
+%<S "O:AppAbstractState"
+%<P
+%<{ I=2:ID }%>
+%<{ selectedProduct=18:int }%>
+%<{ catalogContents=> }%>
+%>
+%<S "O:Array"
+%<P
+%<{ I=3:ID }%>
+%<{ elem=1:int }%>
+%<{ elem=2:int }%>
+%<{ elem=3:int }%>
+%<{ elem=4:int }%>
+%<{ elem=5:int }%>
+%<{ elem=6:int }%>
+%<{ elem=7:int }%>
+%<{ elem=8:int }%>
+%<{ elem=9:int }%>
+%<{ elem=10:int }%>
+%<{ elem=11:int }%>
+%<{ elem=12:int }%>
+%<{ elem=13:int }%>
+%<{ elem=14:int }%>
+%<{ elem=15:int }%>
+%<{ elem=16:int }%>
+%<{ elem=17:int }%>
+%<{ elem=18:int }%>
+%>
+%>
+%>
+%>
+%<S -120:1379620655002 "E"
+%<S "O:eu.fittest.actionscript.automation::RecordEvent"
+%<P
+%<{ I=0:ID }%>
+%<{ targetID="back_thumb":String }%>
+%<{ type="click":String }%>
+%<{ args=> }%>
+%>
+%<S "O:Array"
+%<P
+%<{ I=1:ID }%>
+%>
+%>
+%>
+%<S "O:AppAbstractState"
+%<P
+%<{ I=2:ID }%>
+%<{ selectedProduct=18:int }%>
+%<{ catalogContents=> }%>
+%>
+%<S "O:Array"
+%<P
+%<{ I=3:ID }%>
+%<{ elem=1:int }%>
+%<{ elem=2:int }%>
+%<{ elem=3:int }%>
+%<{ elem=4:int }%>
+%<{ elem=5:int }%>
+%<{ elem=6:int }%>
+%<{ elem=7:int }%>
+%<{ elem=8:int }%>
+%<{ elem=9:int }%>
+%<{ elem=10:int }%>
+%<{ elem=11:int }%>
+%<{ elem=12:int }%>
+%<{ elem=13:int }%>
+%<{ elem=14:int }%>
+%<{ elem=15:int }%>
+%<{ elem=16:int }%>
+%<{ elem=17:int }%>
+%<{ elem=18:int }%>
+%>
+%>
+%>
+%>
+%<S -120:1379620656732 "E"
+%<S "O:eu.fittest.actionscript.automation::RecordEvent"
+%<P
+%<{ I=0:ID }%>
+%<{ targetID="IDY_textFeature_11":String }%>
+%<{ type="click":String }%>
+%<{ args=> }%>
+%>
+%<S "O:Array"
+%<P
+%<{ I=1:ID }%>
+%>
+%>
+%>
+%<S "O:AppAbstractState"
+%<P
+%<{ I=2:ID }%>
+%<{ selectedProduct=18:int }%>
+%<{ catalogContents=> }%>
+%>
+%<S "O:Array"
+%<P
+%<{ I=3:ID }%>
+%<{ elem=1:int }%>
+%<{ elem=2:int }%>
+%<{ elem=3:int }%>
+%<{ elem=4:int }%>
+%<{ elem=5:int }%>
+%<{ elem=6:int }%>
+%<{ elem=7:int }%>
+%<{ elem=8:int }%>
+%<{ elem=9:int }%>
+%<{ elem=10:int }%>
+%<{ elem=11:int }%>
+%<{ elem=12:int }%>
+%<{ elem=13:int }%>
+%<{ elem=14:int }%>
+%<{ elem=15:int }%>
+%<{ elem=16:int }%>
+%<{ elem=17:int }%>
+%<{ elem=18:int }%>
+%>
+%>
+%>
+%>
+%<S -120:1379620656746 "E"
+%<S "O:eu.fittest.actionscript.automation::RecordEvent"
+%<P
+%<{ I=0:ID }%>
+%<{ targetID="IDY_cancas_11":String }%>
+%<{ type="click":String }%>
+%<{ args=> }%>
+%>
+%<S "O:Array"
+%<P
+%<{ I=1:ID }%>
+%>
+%>
+%>
+%<S "O:AppAbstractState"
+%<P
+%<{ I=2:ID }%>
+%<{ selectedProduct=18:int }%>
+%<{ catalogContents=> }%>
+%>
+%<S "O:Array"
+%<P
+%<{ I=3:ID }%>
+%<{ elem=1:int }%>
+%<{ elem=2:int }%>
+%<{ elem=3:int }%>
+%<{ elem=4:int }%>
+%<{ elem=5:int }%>
+%<{ elem=6:int }%>
+%<{ elem=7:int }%>
+%<{ elem=8:int }%>
+%<{ elem=9:int }%>
+%<{ elem=10:int }%>
+%<{ elem=11:int }%>
+%<{ elem=12:int }%>
+%<{ elem=13:int }%>
+%<{ elem=14:int }%>
+%<{ elem=15:int }%>
+%<{ elem=16:int }%>
+%<{ elem=17:int }%>
+%<{ elem=18:int }%>
+%>
+%>
+%>
+%>
+%<S -120:1379620660064 "E"
+%<S "O:eu.fittest.actionscript.automation::RecordEvent"
+%<P
+%<{ I=0:ID }%>
+%<{ targetID="TabNavigator0":String }%>
+%<{ type="change":String }%>
+%<{ args=> }%>
+%>
+%<S "O:Array"
+%<P
+%<{ I=1:ID }%>
+%<{ elem=1:int }%>
+%>
+%>
+%>
+%<S "O:AppAbstractState"
+%<P
+%<{ I=2:ID }%>
+%<{ selectedProduct=11:int }%>
+%<{ catalogContents=> }%>
+%>
+%<S "O:Array"
+%<P
+%<{ I=3:ID }%>
+%<{ elem=1:int }%>
+%<{ elem=2:int }%>
+%<{ elem=3:int }%>
+%<{ elem=4:int }%>
+%<{ elem=5:int }%>
+%<{ elem=6:int }%>
+%<{ elem=7:int }%>
+%<{ elem=8:int }%>
+%<{ elem=9:int }%>
+%<{ elem=10:int }%>
+%<{ elem=11:int }%>
+%<{ elem=12:int }%>
+%<{ elem=13:int }%>
+%<{ elem=14:int }%>
+%<{ elem=15:int }%>
+%<{ elem=16:int }%>
+%<{ elem=17:int }%>
+%<{ elem=18:int }%>
+%>
+%>
+%>
+%>
+%<S -120:1379620663244 "E"
+%<S "O:eu.fittest.actionscript.automation::RecordEvent"
+%<P
+%<{ I=0:ID }%>
+%<{ targetID="IDY_VideoButton":String }%>
+%<{ type="click":String }%>
+%<{ args=> }%>
+%>
+%<S "O:Array"
+%<P
+%<{ I=1:ID }%>
+%>
+%>
+%>
+%<S "O:AppAbstractState"
+%<P
+%<{ I=2:ID }%>
+%<{ selectedProduct=11:int }%>
+%<{ catalogContents=> }%>
+%>
+%<S "O:Array"
+%<P
+%<{ I=3:ID }%>
+%<{ elem=1:int }%>
+%<{ elem=2:int }%>
+%<{ elem=3:int }%>
+%<{ elem=4:int }%>
+%<{ elem=5:int }%>
+%<{ elem=6:int }%>
+%<{ elem=7:int }%>
+%<{ elem=8:int }%>
+%<{ elem=9:int }%>
+%<{ elem=10:int }%>
+%<{ elem=11:int }%>
+%<{ elem=12:int }%>
+%<{ elem=13:int }%>
+%<{ elem=14:int }%>
+%<{ elem=15:int }%>
+%<{ elem=16:int }%>
+%<{ elem=17:int }%>
+%<{ elem=18:int }%>
+%>
+%>
+%>
+%>
+%<S -120:1379620665913 "E"
+%<S "O:eu.fittest.actionscript.automation::RecordEvent"
+%<P
+%<{ I=0:ID }%>
+%<{ targetID="IDY_VideoButton":String }%>
+%<{ type="click":String }%>
+%<{ args=> }%>
+%>
+%<S "O:Array"
+%<P
+%<{ I=1:ID }%>
+%>
+%>
+%>
+%<S "O:AppAbstractState"
+%<P
+%<{ I=2:ID }%>
+%<{ selectedProduct=11:int }%>
+%<{ catalogContents=> }%>
+%>
+%<S "O:Array"
+%<P
+%<{ I=3:ID }%>
+%<{ elem=1:int }%>
+%<{ elem=2:int }%>
+%<{ elem=3:int }%>
+%<{ elem=4:int }%>
+%<{ elem=5:int }%>
+%<{ elem=6:int }%>
+%<{ elem=7:int }%>
+%<{ elem=8:int }%>
+%<{ elem=9:int }%>
+%<{ elem=10:int }%>
+%<{ elem=11:int }%>
+%<{ elem=12:int }%>
+%<{ elem=13:int }%>
+%<{ elem=14:int }%>
+%<{ elem=15:int }%>
+%<{ elem=16:int }%>
+%<{ elem=17:int }%>
+%<{ elem=18:int }%>
+%>
+%>
+%>
+%>
+%<S -120:1379620669857 "E"
+%<S "O:eu.fittest.actionscript.automation::RecordEvent"
+%<P
+%<{ I=0:ID }%>
+%<{ targetID="TabNavigator0":String }%>
+%<{ type="change":String }%>
+%<{ args=> }%>
+%>
+%<S "O:Array"
+%<P
+%<{ I=1:ID }%>
+%<{ elem=0:int }%>
+%>
+%>
+%>
+%<S "O:AppAbstractState"
+%<P
+%<{ I=2:ID }%>
+%<{ selectedProduct=11:int }%>
+%<{ catalogContents=> }%>
+%>
+%<S "O:Array"
+%<P
+%<{ I=3:ID }%>
+%<{ elem=1:int }%>
+%<{ elem=2:int }%>
+%<{ elem=3:int }%>
+%<{ elem=4:int }%>
+%<{ elem=5:int }%>
+%<{ elem=6:int }%>
+%<{ elem=7:int }%>
+%<{ elem=8:int }%>
+%<{ elem=9:int }%>
+%<{ elem=10:int }%>
+%<{ elem=11:int }%>
+%<{ elem=12:int }%>
+%<{ elem=13:int }%>
+%<{ elem=14:int }%>
+%<{ elem=15:int }%>
+%<{ elem=16:int }%>
+%<{ elem=17:int }%>
+%<{ elem=18:int }%>
+%>
+%>
+%>
+%>
+%<S -120:1379620674356 "E"
+%<S "O:eu.fittest.actionscript.automation::RecordEvent"
+%<P
+%<{ I=0:ID }%>
+%<{ targetID="IDY_textFeature_10":String }%>
+%<{ type="click":String }%>
+%<{ args=> }%>
+%>
+%<S "O:Array"
+%<P
+%<{ I=1:ID }%>
+%>
+%>
+%>
+%<S "O:AppAbstractState"
+%<P
+%<{ I=2:ID }%>
+%<{ selectedProduct=11:int }%>
+%<{ catalogContents=> }%>
+%>
+%<S "O:Array"
+%<P
+%<{ I=3:ID }%>
+%<{ elem=1:int }%>
+%<{ elem=2:int }%>
+%<{ elem=3:int }%>
+%<{ elem=4:int }%>
+%<{ elem=5:int }%>
+%<{ elem=6:int }%>
+%<{ elem=7:int }%>
+%<{ elem=8:int }%>
+%<{ elem=9:int }%>
+%<{ elem=10:int }%>
+%<{ elem=11:int }%>
+%<{ elem=12:int }%>
+%<{ elem=13:int }%>
+%<{ elem=14:int }%>
+%<{ elem=15:int }%>
+%<{ elem=16:int }%>
+%<{ elem=17:int }%>
+%<{ elem=18:int }%>
+%>
+%>
+%>
+%>
+%<S -120:1379620674358 "E"
+%<S "O:eu.fittest.actionscript.automation::RecordEvent"
+%<P
+%<{ I=0:ID }%>
+%<{ targetID="IDY_cancas_10":String }%>
+%<{ type="click":String }%>
+%<{ args=> }%>
+%>
+%<S "O:Array"
+%<P
+%<{ I=1:ID }%>
+%>
+%>
+%>
+%<S "O:AppAbstractState"
+%<P
+%<{ I=2:ID }%>
+%<{ selectedProduct=10:int }%>
+%<{ catalogContents=> }%>
+%>
+%<S "O:Array"
+%<P
+%<{ I=3:ID }%>
+%<{ elem=1:int }%>
+%<{ elem=2:int }%>
+%<{ elem=3:int }%>
+%<{ elem=4:int }%>
+%<{ elem=5:int }%>
+%<{ elem=6:int }%>
+%<{ elem=7:int }%>
+%<{ elem=8:int }%>
+%<{ elem=9:int }%>
+%<{ elem=10:int }%>
+%<{ elem=11:int }%>
+%<{ elem=12:int }%>
+%<{ elem=13:int }%>
+%<{ elem=14:int }%>
+%<{ elem=15:int }%>
+%<{ elem=16:int }%>
+%<{ elem=17:int }%>
+%<{ elem=18:int }%>
+%>
+%>
+%>
+%>
+%<S -120:1379620679384 "E"
+%<S "O:eu.fittest.actionscript.automation::RecordEvent"
+%<P
+%<{ I=0:ID }%>
+%<{ targetID="IDY_details_17":String }%>
+%<{ type="click":String }%>
+%<{ args=> }%>
+%>
+%<S "O:Array"
+%<P
+%<{ I=1:ID }%>
+%>
+%>
+%>
+%<S "O:AppAbstractState"
+%<P
+%<{ I=2:ID }%>
+%<{ selectedProduct=17:int }%>
+%<{ catalogContents=> }%>
+%>
+%<S "O:Array"
+%<P
+%<{ I=3:ID }%>
+%<{ elem=1:int }%>
+%<{ elem=2:int }%>
+%<{ elem=3:int }%>
+%<{ elem=4:int }%>
+%<{ elem=5:int }%>
+%<{ elem=6:int }%>
+%<{ elem=7:int }%>
+%<{ elem=8:int }%>
+%<{ elem=9:int }%>
+%<{ elem=10:int }%>
+%<{ elem=11:int }%>
+%<{ elem=12:int }%>
+%<{ elem=13:int }%>
+%<{ elem=14:int }%>
+%<{ elem=15:int }%>
+%<{ elem=16:int }%>
+%<{ elem=17:int }%>
+%<{ elem=18:int }%>
+%>
+%>
+%>
+%>
+%<S -120:1379620679384 "E"
+%<S "O:eu.fittest.actionscript.automation::RecordEvent"
+%<P
+%<{ I=0:ID }%>
+%<{ targetID="IDY_cancas_17":String }%>
+%<{ type="click":String }%>
+%<{ args=> }%>
+%>
+%<S "O:Array"
+%<P
+%<{ I=1:ID }%>
+%>
+%>
+%>
+%<S "O:AppAbstractState"
+%<P
+%<{ I=2:ID }%>
+%<{ selectedProduct=17:int }%>
+%<{ catalogContents=> }%>
+%>
+%<S "O:Array"
+%<P
+%<{ I=3:ID }%>
+%<{ elem=1:int }%>
+%<{ elem=2:int }%>
+%<{ elem=3:int }%>
+%<{ elem=4:int }%>
+%<{ elem=5:int }%>
+%<{ elem=6:int }%>
+%<{ elem=7:int }%>
+%<{ elem=8:int }%>
+%<{ elem=9:int }%>
+%<{ elem=10:int }%>
+%<{ elem=11:int }%>
+%<{ elem=12:int }%>
+%<{ elem=13:int }%>
+%<{ elem=14:int }%>
+%<{ elem=15:int }%>
+%<{ elem=16:int }%>
+%<{ elem=17:int }%>
+%<{ elem=18:int }%>
+%>
+%>
+%>
+%>
+%<S -120:1379620692439 "E"
+%<S "O:eu.fittest.actionscript.automation::RecordEvent"
+%<P
+%<{ I=0:ID }%>
+%<{ targetID="IDY_cancas_1":String }%>
+%<{ type="click":String }%>
+%<{ args=> }%>
+%>
+%<S "O:Array"
+%<P
+%<{ I=1:ID }%>
+%>
+%>
+%>
+%<S "O:AppAbstractState"
+%<P
+%<{ I=2:ID }%>
+%<{ selectedProduct=1:int }%>
+%<{ catalogContents=> }%>
+%>
+%<S "O:Array"
+%<P
+%<{ I=3:ID }%>
+%<{ elem=1:int }%>
+%<{ elem=2:int }%>
+%<{ elem=3:int }%>
+%<{ elem=4:int }%>
+%<{ elem=5:int }%>
+%<{ elem=6:int }%>
+%<{ elem=7:int }%>
+%<{ elem=8:int }%>
+%<{ elem=9:int }%>
+%<{ elem=10:int }%>
+%<{ elem=11:int }%>
+%<{ elem=12:int }%>
+%<{ elem=13:int }%>
+%<{ elem=14:int }%>
+%<{ elem=15:int }%>
+%<{ elem=16:int }%>
+%<{ elem=17:int }%>
+%<{ elem=18:int }%>
+%>
+%>
+%>
+%>
+%<S -120:1379620693815 "E"
+%<S "O:eu.fittest.actionscript.automation::RecordEvent"
+%<P
+%<{ I=0:ID }%>
+%<{ targetID="IDY_labelName_2":String }%>
+%<{ type="click":String }%>
+%<{ args=> }%>
+%>
+%<S "O:Array"
+%<P
+%<{ I=1:ID }%>
+%>
+%>
+%>
+%<S "O:AppAbstractState"
+%<P
+%<{ I=2:ID }%>
+%<{ selectedProduct=1:int }%>
+%<{ catalogContents=> }%>
+%>
+%<S "O:Array"
+%<P
+%<{ I=3:ID }%>
+%<{ elem=1:int }%>
+%<{ elem=2:int }%>
+%<{ elem=3:int }%>
+%<{ elem=4:int }%>
+%<{ elem=5:int }%>
+%<{ elem=6:int }%>
+%<{ elem=7:int }%>
+%<{ elem=8:int }%>
+%<{ elem=9:int }%>
+%<{ elem=10:int }%>
+%<{ elem=11:int }%>
+%<{ elem=12:int }%>
+%<{ elem=13:int }%>
+%<{ elem=14:int }%>
+%<{ elem=15:int }%>
+%<{ elem=16:int }%>
+%<{ elem=17:int }%>
+%<{ elem=18:int }%>
+%>
+%>
+%>
+%>
+%<S -120:1379620693817 "E"
+%<S "O:eu.fittest.actionscript.automation::RecordEvent"
+%<P
+%<{ I=0:ID }%>
+%<{ targetID="IDY_cancas_2":String }%>
+%<{ type="click":String }%>
+%<{ args=> }%>
+%>
+%<S "O:Array"
+%<P
+%<{ I=1:ID }%>
+%>
+%>
+%>
+%<S "O:AppAbstractState"
+%<P
+%<{ I=2:ID }%>
+%<{ selectedProduct=2:int }%>
+%<{ catalogContents=> }%>
+%>
+%<S "O:Array"
+%<P
+%<{ I=3:ID }%>
+%<{ elem=1:int }%>
+%<{ elem=2:int }%>
+%<{ elem=3:int }%>
+%<{ elem=4:int }%>
+%<{ elem=5:int }%>
+%<{ elem=6:int }%>
+%<{ elem=7:int }%>
+%<{ elem=8:int }%>
+%<{ elem=9:int }%>
+%<{ elem=10:int }%>
+%<{ elem=11:int }%>
+%<{ elem=12:int }%>
+%<{ elem=13:int }%>
+%<{ elem=14:int }%>
+%<{ elem=15:int }%>
+%<{ elem=16:int }%>
+%<{ elem=17:int }%>
+%<{ elem=18:int }%>
+%>
+%>
+%>
+%>
+%<S -120:1379620697009 "E"
+%<S "O:eu.fittest.actionscript.automation::RecordEvent"
+%<P
+%<{ I=0:ID }%>
+%<{ targetID="back_thumb":String }%>
+%<{ type="click":String }%>
+%<{ args=> }%>
+%>
+%<S "O:Array"
+%<P
+%<{ I=1:ID }%>
+%>
+%>
+%>
+%<S "O:AppAbstractState"
+%<P
+%<{ I=2:ID }%>
+%<{ selectedProduct=2:int }%>
+%<{ catalogContents=> }%>
+%>
+%<S "O:Array"
+%<P
+%<{ I=3:ID }%>
+%<{ elem=1:int }%>
+%<{ elem=2:int }%>
+%<{ elem=3:int }%>
+%<{ elem=4:int }%>
+%<{ elem=5:int }%>
+%<{ elem=6:int }%>
+%<{ elem=7:int }%>
+%<{ elem=8:int }%>
+%<{ elem=9:int }%>
+%<{ elem=10:int }%>
+%<{ elem=11:int }%>
+%<{ elem=12:int }%>
+%<{ elem=13:int }%>
+%<{ elem=14:int }%>
+%<{ elem=15:int }%>
+%<{ elem=16:int }%>
+%<{ elem=17:int }%>
+%<{ elem=18:int }%>
+%>
+%>
+%>
+%>
+%<S -120:1379620700425 "E"
+%<S "O:eu.fittest.actionscript.automation::RecordEvent"
+%<P
+%<{ I=0:ID }%>
+%<{ targetID="IDY_textFeature_16":String }%>
+%<{ type="click":String }%>
+%<{ args=> }%>
+%>
+%<S "O:Array"
+%<P
+%<{ I=1:ID }%>
+%>
+%>
+%>
+%<S "O:AppAbstractState"
+%<P
+%<{ I=2:ID }%>
+%<{ selectedProduct=2:int }%>
+%<{ catalogContents=> }%>
+%>
+%<S "O:Array"
+%<P
+%<{ I=3:ID }%>
+%<{ elem=1:int }%>
+%<{ elem=2:int }%>
+%<{ elem=3:int }%>
+%<{ elem=4:int }%>
+%<{ elem=5:int }%>
+%<{ elem=6:int }%>
+%<{ elem=7:int }%>
+%<{ elem=8:int }%>
+%<{ elem=9:int }%>
+%<{ elem=10:int }%>
+%<{ elem=11:int }%>
+%<{ elem=12:int }%>
+%<{ elem=13:int }%>
+%<{ elem=14:int }%>
+%<{ elem=15:int }%>
+%<{ elem=16:int }%>
+%<{ elem=17:int }%>
+%<{ elem=18:int }%>
+%>
+%>
+%>
+%>
+%<S -120:1379620700437 "E"
+%<S "O:eu.fittest.actionscript.automation::RecordEvent"
+%<P
+%<{ I=0:ID }%>
+%<{ targetID="IDY_cancas_16":String }%>
+%<{ type="click":String }%>
+%<{ args=> }%>
+%>
+%<S "O:Array"
+%<P
+%<{ I=1:ID }%>
+%>
+%>
+%>
+%<S "O:AppAbstractState"
+%<P
+%<{ I=2:ID }%>
+%<{ selectedProduct=2:int }%>
+%<{ catalogContents=> }%>
+%>
+%<S "O:Array"
+%<P
+%<{ I=3:ID }%>
+%<{ elem=1:int }%>
+%<{ elem=2:int }%>
+%<{ elem=3:int }%>
+%<{ elem=4:int }%>
+%<{ elem=5:int }%>
+%<{ elem=6:int }%>
+%<{ elem=7:int }%>
+%<{ elem=8:int }%>
+%<{ elem=9:int }%>
+%<{ elem=10:int }%>
+%<{ elem=11:int }%>
+%<{ elem=12:int }%>
+%<{ elem=13:int }%>
+%<{ elem=14:int }%>
+%<{ elem=15:int }%>
+%<{ elem=16:int }%>
+%<{ elem=17:int }%>
+%<{ elem=18:int }%>
+%>
+%>
+%>
+%>
+%<S -120:1379620701528 "E"
+%<S "O:eu.fittest.actionscript.automation::RecordEvent"
+%<P
+%<{ I=0:ID }%>
+%<{ targetID="IDY_textFeature_15":String }%>
+%<{ type="click":String }%>
+%<{ args=> }%>
+%>
+%<S "O:Array"
+%<P
+%<{ I=1:ID }%>
+%>
+%>
+%>
+%<S "O:AppAbstractState"
+%<P
+%<{ I=2:ID }%>
+%<{ selectedProduct=16:int }%>
+%<{ catalogContents=> }%>
+%>
+%<S "O:Array"
+%<P
+%<{ I=3:ID }%>
+%<{ elem=1:int }%>
+%<{ elem=2:int }%>
+%<{ elem=3:int }%>
+%<{ elem=4:int }%>
+%<{ elem=5:int }%>
+%<{ elem=6:int }%>
+%<{ elem=7:int }%>
+%<{ elem=8:int }%>
+%<{ elem=9:int }%>
+%<{ elem=10:int }%>
+%<{ elem=11:int }%>
+%<{ elem=12:int }%>
+%<{ elem=13:int }%>
+%<{ elem=14:int }%>
+%<{ elem=15:int }%>
+%<{ elem=16:int }%>
+%<{ elem=17:int }%>
+%<{ elem=18:int }%>
+%>
+%>
+%>
+%>
+%<S -120:1379620701531 "E"
+%<S "O:eu.fittest.actionscript.automation::RecordEvent"
+%<P
+%<{ I=0:ID }%>
+%<{ targetID="IDY_cancas_15":String }%>
+%<{ type="click":String }%>
+%<{ args=> }%>
+%>
+%<S "O:Array"
+%<P
+%<{ I=1:ID }%>
+%>
+%>
+%>
+%<S "O:AppAbstractState"
+%<P
+%<{ I=2:ID }%>
+%<{ selectedProduct=15:int }%>
+%<{ catalogContents=> }%>
+%>
+%<S "O:Array"
+%<P
+%<{ I=3:ID }%>
+%<{ elem=1:int }%>
+%<{ elem=2:int }%>
+%<{ elem=3:int }%>
+%<{ elem=4:int }%>
+%<{ elem=5:int }%>
+%<{ elem=6:int }%>
+%<{ elem=7:int }%>
+%<{ elem=8:int }%>
+%<{ elem=9:int }%>
+%<{ elem=10:int }%>
+%<{ elem=11:int }%>
+%<{ elem=12:int }%>
+%<{ elem=13:int }%>
+%<{ elem=14:int }%>
+%<{ elem=15:int }%>
+%<{ elem=16:int }%>
+%<{ elem=17:int }%>
+%<{ elem=18:int }%>
+%>
+%>
+%>
+%>
+%<S -120:1379620702347 "E"
+%<S "O:eu.fittest.actionscript.automation::RecordEvent"
+%<P
+%<{ I=0:ID }%>
+%<{ targetID="IDY_textFeature_15":String }%>
+%<{ type="click":String }%>
+%<{ args=> }%>
+%>
+%<S "O:Array"
+%<P
+%<{ I=1:ID }%>
+%>
+%>
+%>
+%<S "O:AppAbstractState"
+%<P
+%<{ I=2:ID }%>
+%<{ selectedProduct=15:int }%>
+%<{ catalogContents=> }%>
+%>
+%<S "O:Array"
+%<P
+%<{ I=3:ID }%>
+%<{ elem=1:int }%>
+%<{ elem=2:int }%>
+%<{ elem=3:int }%>
+%<{ elem=4:int }%>
+%<{ elem=5:int }%>
+%<{ elem=6:int }%>
+%<{ elem=7:int }%>
+%<{ elem=8:int }%>
+%<{ elem=9:int }%>
+%<{ elem=10:int }%>
+%<{ elem=11:int }%>
+%<{ elem=12:int }%>
+%<{ elem=13:int }%>
+%<{ elem=14:int }%>
+%<{ elem=15:int }%>
+%<{ elem=16:int }%>
+%<{ elem=17:int }%>
+%<{ elem=18:int }%>
+%>
+%>
+%>
+%>
+%<S -120:1379620702349 "E"
+%<S "O:eu.fittest.actionscript.automation::RecordEvent"
+%<P
+%<{ I=0:ID }%>
+%<{ targetID="IDY_cancas_15":String }%>
+%<{ type="click":String }%>
+%<{ args=> }%>
+%>
+%<S "O:Array"
+%<P
+%<{ I=1:ID }%>
+%>
+%>
+%>
+%<S "O:AppAbstractState"
+%<P
+%<{ I=2:ID }%>
+%<{ selectedProduct=15:int }%>
+%<{ catalogContents=> }%>
+%>
+%<S "O:Array"
+%<P
+%<{ I=3:ID }%>
+%<{ elem=1:int }%>
+%<{ elem=2:int }%>
+%<{ elem=3:int }%>
+%<{ elem=4:int }%>
+%<{ elem=5:int }%>
+%<{ elem=6:int }%>
+%<{ elem=7:int }%>
+%<{ elem=8:int }%>
+%<{ elem=9:int }%>
+%<{ elem=10:int }%>
+%<{ elem=11:int }%>
+%<{ elem=12:int }%>
+%<{ elem=13:int }%>
+%<{ elem=14:int }%>
+%<{ elem=15:int }%>
+%<{ elem=16:int }%>
+%<{ elem=17:int }%>
+%<{ elem=18:int }%>
+%>
+%>
+%>
+%>
+%<S -120:1379620703872 "E"
+%<S "O:eu.fittest.actionscript.automation::RecordEvent"
+%<P
+%<{ I=0:ID }%>
+%<{ targetID="IDY_textFeature_15":String }%>
+%<{ type="click":String }%>
+%<{ args=> }%>
+%>
+%<S "O:Array"
+%<P
+%<{ I=1:ID }%>
+%>
+%>
+%>
+%<S "O:AppAbstractState"
+%<P
+%<{ I=2:ID }%>
+%<{ selectedProduct=15:int }%>
+%<{ catalogContents=> }%>
+%>
+%<S "O:Array"
+%<P
+%<{ I=3:ID }%>
+%<{ elem=1:int }%>
+%<{ elem=2:int }%>
+%<{ elem=3:int }%>
+%<{ elem=4:int }%>
+%<{ elem=5:int }%>
+%<{ elem=6:int }%>
+%<{ elem=7:int }%>
+%<{ elem=8:int }%>
+%<{ elem=9:int }%>
+%<{ elem=10:int }%>
+%<{ elem=11:int }%>
+%<{ elem=12:int }%>
+%<{ elem=13:int }%>
+%<{ elem=14:int }%>
+%<{ elem=15:int }%>
+%<{ elem=16:int }%>
+%<{ elem=17:int }%>
+%<{ elem=18:int }%>
+%>
+%>
+%>
+%>
+%<S -120:1379620703874 "E"
+%<S "O:eu.fittest.actionscript.automation::RecordEvent"
+%<P
+%<{ I=0:ID }%>
+%<{ targetID="IDY_cancas_15":String }%>
+%<{ type="click":String }%>
+%<{ args=> }%>
+%>
+%<S "O:Array"
+%<P
+%<{ I=1:ID }%>
+%>
+%>
+%>
+%<S "O:AppAbstractState"
+%<P
+%<{ I=2:ID }%>
+%<{ selectedProduct=15:int }%>
+%<{ catalogContents=> }%>
+%>
+%<S "O:Array"
+%<P
+%<{ I=3:ID }%>
+%<{ elem=1:int }%>
+%<{ elem=2:int }%>
+%<{ elem=3:int }%>
+%<{ elem=4:int }%>
+%<{ elem=5:int }%>
+%<{ elem=6:int }%>
+%<{ elem=7:int }%>
+%<{ elem=8:int }%>
+%<{ elem=9:int }%>
+%<{ elem=10:int }%>
+%<{ elem=11:int }%>
+%<{ elem=12:int }%>
+%<{ elem=13:int }%>
+%<{ elem=14:int }%>
+%<{ elem=15:int }%>
+%<{ elem=16:int }%>
+%<{ elem=17:int }%>
+%<{ elem=18:int }%>
+%>
+%>
+%>
+%>
+%<S -120:1379620707206 "E"
+%<S "O:eu.fittest.actionscript.automation::RecordEvent"
+%<P
+%<{ I=0:ID }%>
+%<{ targetID="IDY_textFeature_13":String }%>
+%<{ type="click":String }%>
+%<{ args=> }%>
+%>
+%<S "O:Array"
+%<P
+%<{ I=1:ID }%>
+%>
+%>
+%>
+%<S "O:AppAbstractState"
+%<P
+%<{ I=2:ID }%>
+%<{ selectedProduct=15:int }%>
+%<{ catalogContents=> }%>
+%>
+%<S "O:Array"
+%<P
+%<{ I=3:ID }%>
+%<{ elem=1:int }%>
+%<{ elem=2:int }%>
+%<{ elem=3:int }%>
+%<{ elem=4:int }%>
+%<{ elem=5:int }%>
+%<{ elem=6:int }%>
+%<{ elem=7:int }%>
+%<{ elem=8:int }%>
+%<{ elem=9:int }%>
+%<{ elem=10:int }%>
+%<{ elem=11:int }%>
+%<{ elem=12:int }%>
+%<{ elem=13:int }%>
+%<{ elem=14:int }%>
+%<{ elem=15:int }%>
+%<{ elem=16:int }%>
+%<{ elem=17:int }%>
+%<{ elem=18:int }%>
+%>
+%>
+%>
+%>
+%<S -120:1379620707209 "E"
+%<S "O:eu.fittest.actionscript.automation::RecordEvent"
+%<P
+%<{ I=0:ID }%>
+%<{ targetID="IDY_cancas_13":String }%>
+%<{ type="click":String }%>
+%<{ args=> }%>
+%>
+%<S "O:Array"
+%<P
+%<{ I=1:ID }%>
+%>
+%>
+%>
+%<S "O:AppAbstractState"
+%<P
+%<{ I=2:ID }%>
+%<{ selectedProduct=13:int }%>
+%<{ catalogContents=> }%>
+%>
+%<S "O:Array"
+%<P
+%<{ I=3:ID }%>
+%<{ elem=1:int }%>
+%<{ elem=2:int }%>
+%<{ elem=3:int }%>
+%<{ elem=4:int }%>
+%<{ elem=5:int }%>
+%<{ elem=6:int }%>
+%<{ elem=7:int }%>
+%<{ elem=8:int }%>
+%<{ elem=9:int }%>
+%<{ elem=10:int }%>
+%<{ elem=11:int }%>
+%<{ elem=12:int }%>
+%<{ elem=13:int }%>
+%<{ elem=14:int }%>
+%<{ elem=15:int }%>
+%<{ elem=16:int }%>
+%<{ elem=17:int }%>
+%<{ elem=18:int }%>
+%>
+%>
+%>
+%>
+%<S -120:1379620709104 "E"
+%<S "O:eu.fittest.actionscript.automation::RecordEvent"
+%<P
+%<{ I=0:ID }%>
+%<{ targetID="IDY_img_16":String }%>
+%<{ type="click":String }%>
+%<{ args=> }%>
+%>
+%<S "O:Array"
+%<P
+%<{ I=1:ID }%>
+%>
+%>
+%>
+%<S "O:AppAbstractState"
+%<P
+%<{ I=2:ID }%>
+%<{ selectedProduct=13:int }%>
+%<{ catalogContents=> }%>
+%>
+%<S "O:Array"
+%<P
+%<{ I=3:ID }%>
+%<{ elem=1:int }%>
+%<{ elem=2:int }%>
+%<{ elem=3:int }%>
+%<{ elem=4:int }%>
+%<{ elem=5:int }%>
+%<{ elem=6:int }%>
+%<{ elem=7:int }%>
+%<{ elem=8:int }%>
+%<{ elem=9:int }%>
+%<{ elem=10:int }%>
+%<{ elem=11:int }%>
+%<{ elem=12:int }%>
+%<{ elem=13:int }%>
+%<{ elem=14:int }%>
+%<{ elem=15:int }%>
+%<{ elem=16:int }%>
+%<{ elem=17:int }%>
+%<{ elem=18:int }%>
+%>
+%>
+%>
+%>
+%<S -120:1379620709107 "E"
+%<S "O:eu.fittest.actionscript.automation::RecordEvent"
+%<P
+%<{ I=0:ID }%>
+%<{ targetID="IDY_cancas_16":String }%>
+%<{ type="click":String }%>
+%<{ args=> }%>
+%>
+%<S "O:Array"
+%<P
+%<{ I=1:ID }%>
+%>
+%>
+%>
+%<S "O:AppAbstractState"
+%<P
+%<{ I=2:ID }%>
+%<{ selectedProduct=16:int }%>
+%<{ catalogContents=> }%>
+%>
+%<S "O:Array"
+%<P
+%<{ I=3:ID }%>
+%<{ elem=1:int }%>
+%<{ elem=2:int }%>
+%<{ elem=3:int }%>
+%<{ elem=4:int }%>
+%<{ elem=5:int }%>
+%<{ elem=6:int }%>
+%<{ elem=7:int }%>
+%<{ elem=8:int }%>
+%<{ elem=9:int }%>
+%<{ elem=10:int }%>
+%<{ elem=11:int }%>
+%<{ elem=12:int }%>
+%<{ elem=13:int }%>
+%<{ elem=14:int }%>
+%<{ elem=15:int }%>
+%<{ elem=16:int }%>
+%<{ elem=17:int }%>
+%<{ elem=18:int }%>
+%>
+%>
+%>
+%>
+%<S -120:1379620734193 "E"
+%<S "O:eu.fittest.actionscript.automation::RecordEvent"
+%<P
+%<{ I=0:ID }%>
+%<{ targetID="IDY_textFeature_2":String }%>
+%<{ type="click":String }%>
+%<{ args=> }%>
+%>
+%<S "O:Array"
+%<P
+%<{ I=1:ID }%>
+%>
+%>
+%>
+%<S "O:AppAbstractState"
+%<P
+%<{ I=2:ID }%>
+%<{ selectedProduct=16:int }%>
+%<{ catalogContents=> }%>
+%>
+%<S "O:Array"
+%<P
+%<{ I=3:ID }%>
+%<{ elem=1:int }%>
+%<{ elem=2:int }%>
+%<{ elem=3:int }%>
+%<{ elem=4:int }%>
+%<{ elem=5:int }%>
+%<{ elem=6:int }%>
+%<{ elem=7:int }%>
+%<{ elem=8:int }%>
+%<{ elem=9:int }%>
+%<{ elem=10:int }%>
+%<{ elem=11:int }%>
+%<{ elem=12:int }%>
+%<{ elem=13:int }%>
+%<{ elem=14:int }%>
+%<{ elem=15:int }%>
+%<{ elem=16:int }%>
+%<{ elem=17:int }%>
+%<{ elem=18:int }%>
+%>
+%>
+%>
+%>
+%<S -120:1379620734195 "E"
+%<S "O:eu.fittest.actionscript.automation::RecordEvent"
+%<P
+%<{ I=0:ID }%>
+%<{ targetID="IDY_cancas_2":String }%>
+%<{ type="click":String }%>
+%<{ args=> }%>
+%>
+%<S "O:Array"
+%<P
+%<{ I=1:ID }%>
+%>
+%>
+%>
+%<S "O:AppAbstractState"
+%<P
+%<{ I=2:ID }%>
+%<{ selectedProduct=2:int }%>
+%<{ catalogContents=> }%>
+%>
+%<S "O:Array"
+%<P
+%<{ I=3:ID }%>
+%<{ elem=1:int }%>
+%<{ elem=2:int }%>
+%<{ elem=3:int }%>
+%<{ elem=4:int }%>
+%<{ elem=5:int }%>
+%<{ elem=6:int }%>
+%<{ elem=7:int }%>
+%<{ elem=8:int }%>
+%<{ elem=9:int }%>
+%<{ elem=10:int }%>
+%<{ elem=11:int }%>
+%<{ elem=12:int }%>
+%<{ elem=13:int }%>
+%<{ elem=14:int }%>
+%<{ elem=15:int }%>
+%<{ elem=16:int }%>
+%<{ elem=17:int }%>
+%<{ elem=18:int }%>
+%>
+%>
+%>
+%>
+%<S -120:1379620735382 "E"
+%<S "O:eu.fittest.actionscript.automation::RecordEvent"
+%<P
+%<{ I=0:ID }%>
+%<{ targetID="IDY_img_3":String }%>
+%<{ type="click":String }%>
+%<{ args=> }%>
+%>
+%<S "O:Array"
+%<P
+%<{ I=1:ID }%>
+%>
+%>
+%>
+%<S "O:AppAbstractState"
+%<P
+%<{ I=2:ID }%>
+%<{ selectedProduct=2:int }%>
+%<{ catalogContents=> }%>
+%>
+%<S "O:Array"
+%<P
+%<{ I=3:ID }%>
+%<{ elem=1:int }%>
+%<{ elem=2:int }%>
+%<{ elem=3:int }%>
+%<{ elem=4:int }%>
+%<{ elem=5:int }%>
+%<{ elem=6:int }%>
+%<{ elem=7:int }%>
+%<{ elem=8:int }%>
+%<{ elem=9:int }%>
+%<{ elem=10:int }%>
+%<{ elem=11:int }%>
+%<{ elem=12:int }%>
+%<{ elem=13:int }%>
+%<{ elem=14:int }%>
+%<{ elem=15:int }%>
+%<{ elem=16:int }%>
+%<{ elem=17:int }%>
+%<{ elem=18:int }%>
+%>
+%>
+%>
+%>
+%<S -120:1379620735384 "E"
+%<S "O:eu.fittest.actionscript.automation::RecordEvent"
+%<P
+%<{ I=0:ID }%>
+%<{ targetID="IDY_cancas_3":String }%>
+%<{ type="click":String }%>
+%<{ args=> }%>
+%>
+%<S "O:Array"
+%<P
+%<{ I=1:ID }%>
+%>
+%>
+%>
+%<S "O:AppAbstractState"
+%<P
+%<{ I=2:ID }%>
+%<{ selectedProduct=3:int }%>
+%<{ catalogContents=> }%>
+%>
+%<S "O:Array"
+%<P
+%<{ I=3:ID }%>
+%<{ elem=1:int }%>
+%<{ elem=2:int }%>
+%<{ elem=3:int }%>
+%<{ elem=4:int }%>
+%<{ elem=5:int }%>
+%<{ elem=6:int }%>
+%<{ elem=7:int }%>
+%<{ elem=8:int }%>
+%<{ elem=9:int }%>
+%<{ elem=10:int }%>
+%<{ elem=11:int }%>
+%<{ elem=12:int }%>
+%<{ elem=13:int }%>
+%<{ elem=14:int }%>
+%<{ elem=15:int }%>
+%<{ elem=16:int }%>
+%<{ elem=17:int }%>
+%<{ elem=18:int }%>
+%>
+%>
+%>
+%>
+%<S -120:1379620737731 "E"
+%<S "O:eu.fittest.actionscript.automation::RecordEvent"
+%<P
+%<{ I=0:ID }%>
+%<{ targetID="IDY_details_3":String }%>
+%<{ type="click":String }%>
+%<{ args=> }%>
+%>
+%<S "O:Array"
+%<P
+%<{ I=1:ID }%>
+%>
+%>
+%>
+%<S "O:AppAbstractState"
+%<P
+%<{ I=2:ID }%>
+%<{ selectedProduct=3:int }%>
+%<{ catalogContents=> }%>
+%>
+%<S "O:Array"
+%<P
+%<{ I=3:ID }%>
+%<{ elem=1:int }%>
+%<{ elem=2:int }%>
+%<{ elem=3:int }%>
+%<{ elem=4:int }%>
+%<{ elem=5:int }%>
+%<{ elem=6:int }%>
+%<{ elem=7:int }%>
+%<{ elem=8:int }%>
+%<{ elem=9:int }%>
+%<{ elem=10:int }%>
+%<{ elem=11:int }%>
+%<{ elem=12:int }%>
+%<{ elem=13:int }%>
+%<{ elem=14:int }%>
+%<{ elem=15:int }%>
+%<{ elem=16:int }%>
+%<{ elem=17:int }%>
+%<{ elem=18:int }%>
+%>
+%>
+%>
+%>
+%<S -120:1379620737732 "E"
+%<S "O:eu.fittest.actionscript.automation::RecordEvent"
+%<P
+%<{ I=0:ID }%>
+%<{ targetID="IDY_cancas_3":String }%>
+%<{ type="click":String }%>
+%<{ args=> }%>
+%>
+%<S "O:Array"
+%<P
+%<{ I=1:ID }%>
+%>
+%>
+%>
+%<S "O:AppAbstractState"
+%<P
+%<{ I=2:ID }%>
+%<{ selectedProduct=3:int }%>
+%<{ catalogContents=> }%>
+%>
+%<S "O:Array"
+%<P
+%<{ I=3:ID }%>
+%<{ elem=1:int }%>
+%<{ elem=2:int }%>
+%<{ elem=3:int }%>
+%<{ elem=4:int }%>
+%<{ elem=5:int }%>
+%<{ elem=6:int }%>
+%<{ elem=7:int }%>
+%<{ elem=8:int }%>
+%<{ elem=9:int }%>
+%<{ elem=10:int }%>
+%<{ elem=11:int }%>
+%<{ elem=12:int }%>
+%<{ elem=13:int }%>
+%<{ elem=14:int }%>
+%<{ elem=15:int }%>
+%<{ elem=16:int }%>
+%<{ elem=17:int }%>
+%<{ elem=18:int }%>
+%>
+%>
+%>
+%>
+%<S -120:1379620739071 "E"
+%<S "O:eu.fittest.actionscript.automation::RecordEvent"
+%<P
+%<{ I=0:ID }%>
+%<{ targetID="IDY_details_3":String }%>
+%<{ type="click":String }%>
+%<{ args=> }%>
+%>
+%<S "O:Array"
+%<P
+%<{ I=1:ID }%>
+%>
+%>
+%>
+%<S "O:AppAbstractState"
+%<P
+%<{ I=2:ID }%>
+%<{ selectedProduct=3:int }%>
+%<{ catalogContents=> }%>
+%>
+%<S "O:Array"
+%<P
+%<{ I=3:ID }%>
+%<{ elem=1:int }%>
+%<{ elem=2:int }%>
+%<{ elem=3:int }%>
+%<{ elem=4:int }%>
+%<{ elem=5:int }%>
+%<{ elem=6:int }%>
+%<{ elem=7:int }%>
+%<{ elem=8:int }%>
+%<{ elem=9:int }%>
+%<{ elem=10:int }%>
+%<{ elem=11:int }%>
+%<{ elem=12:int }%>
+%<{ elem=13:int }%>
+%<{ elem=14:int }%>
+%<{ elem=15:int }%>
+%<{ elem=16:int }%>
+%<{ elem=17:int }%>
+%<{ elem=18:int }%>
+%>
+%>
+%>
+%>
+%<S -120:1379620739071 "E"
+%<S "O:eu.fittest.actionscript.automation::RecordEvent"
+%<P
+%<{ I=0:ID }%>
+%<{ targetID="IDY_cancas_3":String }%>
+%<{ type="click":String }%>
+%<{ args=> }%>
+%>
+%<S "O:Array"
+%<P
+%<{ I=1:ID }%>
+%>
+%>
+%>
+%<S "O:AppAbstractState"
+%<P
+%<{ I=2:ID }%>
+%<{ selectedProduct=3:int }%>
+%<{ catalogContents=> }%>
+%>
+%<S "O:Array"
+%<P
+%<{ I=3:ID }%>
+%<{ elem=1:int }%>
+%<{ elem=2:int }%>
+%<{ elem=3:int }%>
+%<{ elem=4:int }%>
+%<{ elem=5:int }%>
+%<{ elem=6:int }%>
+%<{ elem=7:int }%>
+%<{ elem=8:int }%>
+%<{ elem=9:int }%>
+%<{ elem=10:int }%>
+%<{ elem=11:int }%>
+%<{ elem=12:int }%>
+%<{ elem=13:int }%>
+%<{ elem=14:int }%>
+%<{ elem=15:int }%>
+%<{ elem=16:int }%>
+%<{ elem=17:int }%>
+%<{ elem=18:int }%>
+%>
+%>
+%>
+%>
+%<S -120:1379620740634 "E"
+%<S "O:eu.fittest.actionscript.automation::RecordEvent"
+%<P
+%<{ I=0:ID }%>
+%<{ targetID="IDY_details_2":String }%>
+%<{ type="click":String }%>
+%<{ args=> }%>
+%>
+%<S "O:Array"
+%<P
+%<{ I=1:ID }%>
+%>
+%>
+%>
+%<S "O:AppAbstractState"
+%<P
+%<{ I=2:ID }%>
+%<{ selectedProduct=2:int }%>
+%<{ catalogContents=> }%>
+%>
+%<S "O:Array"
+%<P
+%<{ I=3:ID }%>
+%<{ elem=1:int }%>
+%<{ elem=2:int }%>
+%<{ elem=3:int }%>
+%<{ elem=4:int }%>
+%<{ elem=5:int }%>
+%<{ elem=6:int }%>
+%<{ elem=7:int }%>
+%<{ elem=8:int }%>
+%<{ elem=9:int }%>
+%<{ elem=10:int }%>
+%<{ elem=11:int }%>
+%<{ elem=12:int }%>
+%<{ elem=13:int }%>
+%<{ elem=14:int }%>
+%<{ elem=15:int }%>
+%<{ elem=16:int }%>
+%<{ elem=17:int }%>
+%<{ elem=18:int }%>
+%>
+%>
+%>
+%>
+%<S -120:1379620740635 "E"
+%<S "O:eu.fittest.actionscript.automation::RecordEvent"
+%<P
+%<{ I=0:ID }%>
+%<{ targetID="IDY_cancas_2":String }%>
+%<{ type="click":String }%>
+%<{ args=> }%>
+%>
+%<S "O:Array"
+%<P
+%<{ I=1:ID }%>
+%>
+%>
+%>
+%<S "O:AppAbstractState"
+%<P
+%<{ I=2:ID }%>
+%<{ selectedProduct=2:int }%>
+%<{ catalogContents=> }%>
+%>
+%<S "O:Array"
+%<P
+%<{ I=3:ID }%>
+%<{ elem=1:int }%>
+%<{ elem=2:int }%>
+%<{ elem=3:int }%>
+%<{ elem=4:int }%>
+%<{ elem=5:int }%>
+%<{ elem=6:int }%>
+%<{ elem=7:int }%>
+%<{ elem=8:int }%>
+%<{ elem=9:int }%>
+%<{ elem=10:int }%>
+%<{ elem=11:int }%>
+%<{ elem=12:int }%>
+%<{ elem=13:int }%>
+%<{ elem=14:int }%>
+%<{ elem=15:int }%>
+%<{ elem=16:int }%>
+%<{ elem=17:int }%>
+%<{ elem=18:int }%>
+%>
+%>
+%>
+%>
+%<S -120:1379620744055 "E"
+%<S "O:eu.fittest.actionscript.automation::RecordEvent"
+%<P
+%<{ I=0:ID }%>
+%<{ targetID="IDY_details_17":String }%>
+%<{ type="click":String }%>
+%<{ args=> }%>
+%>
+%<S "O:Array"
+%<P
+%<{ I=1:ID }%>
+%>
+%>
+%>
+%<S "O:AppAbstractState"
+%<P
+%<{ I=2:ID }%>
+%<{ selectedProduct=17:int }%>
+%<{ catalogContents=> }%>
+%>
+%<S "O:Array"
+%<P
+%<{ I=3:ID }%>
+%<{ elem=1:int }%>
+%<{ elem=2:int }%>
+%<{ elem=3:int }%>
+%<{ elem=4:int }%>
+%<{ elem=5:int }%>
+%<{ elem=6:int }%>
+%<{ elem=7:int }%>
+%<{ elem=8:int }%>
+%<{ elem=9:int }%>
+%<{ elem=10:int }%>
+%<{ elem=11:int }%>
+%<{ elem=12:int }%>
+%<{ elem=13:int }%>
+%<{ elem=14:int }%>
+%<{ elem=15:int }%>
+%<{ elem=16:int }%>
+%<{ elem=17:int }%>
+%<{ elem=18:int }%>
+%>
+%>
+%>
+%>
+%<S -120:1379620744056 "E"
+%<S "O:eu.fittest.actionscript.automation::RecordEvent"
+%<P
+%<{ I=0:ID }%>
+%<{ targetID="IDY_cancas_17":String }%>
+%<{ type="click":String }%>
+%<{ args=> }%>
+%>
+%<S "O:Array"
+%<P
+%<{ I=1:ID }%>
+%>
+%>
+%>
+%<S "O:AppAbstractState"
+%<P
+%<{ I=2:ID }%>
+%<{ selectedProduct=17:int }%>
+%<{ catalogContents=> }%>
+%>
+%<S "O:Array"
+%<P
+%<{ I=3:ID }%>
+%<{ elem=1:int }%>
+%<{ elem=2:int }%>
+%<{ elem=3:int }%>
+%<{ elem=4:int }%>
+%<{ elem=5:int }%>
+%<{ elem=6:int }%>
+%<{ elem=7:int }%>
+%<{ elem=8:int }%>
+%<{ elem=9:int }%>
+%<{ elem=10:int }%>
+%<{ elem=11:int }%>
+%<{ elem=12:int }%>
+%<{ elem=13:int }%>
+%<{ elem=14:int }%>
+%<{ elem=15:int }%>
+%<{ elem=16:int }%>
+%<{ elem=17:int }%>
+%<{ elem=18:int }%>
+%>
+%>
+%>
+%>

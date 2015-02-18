@@ -1,0 +1,35 @@
+.bbwebApp *{font: 11px Tahoma;}
+.bbwebApp.bbwrapper{position:fixed;left:50;top:150;background:url("bbwebApp.png") repeat scroll 0 0 transparent;min-width:400px;z-index: 999999;} /* max-width:710px; */
+.bbwebApp .bbheader{float:left;width:100%;}
+.bbwebApp .bbtitle{width:370px;float:left;margin-bottom:10px;margin:0 auto;text-align:center;color:#fff;cursor:move;}
+.bbwebApp #bbmin, .bbwebApp #bbclose{color:#fff;cursor:pointer;padding-right:10px;float:left;}
+.bbwebApp .bbcontent{background: url("bbwebApp.png") repeat scroll 0 0 transparent;color: #FFFFFF;float: left; height: 265px;margin-bottom: 5px;margin-left: 5px;margin-right: 5px;width: 390px;}
+.bbwebApp .bbcontent ul{float:left;}
+.bbwebApp .bbcontent li{float:left;clear:both;padding-bottom: 5px;cursor:pointer;}
+.bbwebApp .bbcontent li span{cursor:pointer;}
+.bbwebApp .bbcontent input{background: none repeat scroll 0 0 transparent;border: 1px solid #DADADA;color: #FFFFFF;margin-left: 10px;padding: 0 0 0 5px;}
+.bbwebApp .bbcontent .bbdebugger{float:left;width:99%;padding-left:2px;height:160px;overflow-y:scroll;overflow-x: hidden;}
+.bbwebApp .bbcontent .bbdebugger .bbevent{float:left;width:100%;clear:both;text-align:left;display:block;}
+.bbwebApp .bbcontent .bbdebugger .bbevent span{cursor:pointer;}
+.bbwebApp .bblcontainer{float:left;width:400px;}
+.bbwebApp .bbrcontainer {background: url("bbwebApp.png") repeat scroll 0 0 transparent;float: right;height: 285px;width:500px;margin-right: 8px;display:none;color:#fff;text-align:left;overflow-x: hidden;overflow-y: scroll;z-index: 999999;min-width:500px;}
+.bbwebApp .bbrcontainer p{padding-left:5px;word-wrap:break-word;}
+.bbwebApp .bbrcontainer p.error{color:red;}
+.bbwebApp .bbrcontainer p.warning{color:orange;}
+.bbwebApp .bbrcontainer p.result{color:green;}
+.bbwebApp .bbrcontainer p.done{color:white;}
+.bbwebApp .bbrcontainer p.notification{color:green;}
+
+.bbwebApp .bbselectors{float:left;width:100%;text-align: left;}
+.bbwebApp .bbselectors span{float:left;}
+
+.bbwebApp .bbselectors .bbrun,.bbwebApp .bbselectors .bbstop{float:left;margin-left:10px;cursor:pointer;text-decoration:underline;}
+.bbwebApp .bbselectors .bbddmin{float:left;margin-left:10px;cursor:pointer;text-decoration:underline;}
+.bbwebApp .bbselectors .bbddminr{float:left;margin-left:10px;cursor:pointer;text-decoration:underline;}
+.bbwebApp .bbselectors .bbballbreaks{float:left;margin-left: 12px;}
+.bbwebApp .bbselectors .bballinvokes{float:left;}
+.bbwebApp .bbdelay{float:left;margin-left:5px;}
+.bbwebApp .bbdelay input{width:25px;margin-left:0px;}
+
+.bbwebApp .bbreloadflash{width:15px;height:15px;float:left;color:green;cursor:pointer;margin-left:5px;font-size:15px;line-height:15px;}
+.bbwebApp .bbcurrent{background-color:#77371e;}

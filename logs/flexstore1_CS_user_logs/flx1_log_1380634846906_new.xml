@@ -1,0 +1,3842 @@
+<?xml version='1.0' ?>
+<body>
+  <E t="300:1380634861814">
+    <O ty="eu.fittest.actionscript.automation::RecordEvent">
+      <fd n="I">
+        <V v="0" ty="ID" />
+      </fd>
+      <fd n="targetID">
+        <V v="&quot;feat_prod_3&quot;" ty="String" />
+      </fd>
+      <fd n="type">
+        <V v="&quot;click&quot;" ty="String" />
+      </fd>
+      <fd n="args">
+        <O ty="Array">
+          <fd n="I">
+            <V v="1" ty="ID" />
+          </fd>
+        </O>
+      </fd>
+    </O>
+    <O ty="AppAbstractState">
+      <fd n="I">
+        <V v="2" ty="ID" />
+      </fd>
+      <fd n="selectedProduct">
+        <V v="-1" ty="int" />
+      </fd>
+      <fd n="catalogContents">
+        <O ty="Array">
+          <fd n="I">
+            <V v="3" ty="ID" />
+          </fd>
+          <fd n="elem">
+            <V v="1" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="2" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="3" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="4" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="5" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="6" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="7" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="8" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="9" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="10" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="11" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="12" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="13" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="14" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="15" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="16" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="17" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="18" ty="int" />
+          </fd>
+        </O>
+      </fd>
+    </O>
+  </E>
+  <E t="300:1380634862180">
+    <O ty="eu.fittest.actionscript.automation::RecordEvent">
+      <fd n="I">
+        <V v="0" ty="ID" />
+      </fd>
+      <fd n="targetID">
+        <V v="&quot;Image4&quot;" ty="String" />
+      </fd>
+      <fd n="type">
+        <V v="&quot;click&quot;" ty="String" />
+      </fd>
+      <fd n="args">
+        <O ty="Array">
+          <fd n="I">
+            <V v="1" ty="ID" />
+          </fd>
+        </O>
+      </fd>
+    </O>
+    <O ty="AppAbstractState">
+      <fd n="I">
+        <V v="2" ty="ID" />
+      </fd>
+      <fd n="selectedProduct">
+        <V v="-1" ty="int" />
+      </fd>
+      <fd n="catalogContents">
+        <O ty="Array">
+          <fd n="I">
+            <V v="3" ty="ID" />
+          </fd>
+          <fd n="elem">
+            <V v="1" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="2" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="3" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="4" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="5" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="6" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="7" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="8" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="9" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="10" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="11" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="12" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="13" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="14" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="15" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="16" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="17" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="18" ty="int" />
+          </fd>
+        </O>
+      </fd>
+    </O>
+  </E>
+  <E t="300:1380634865038">
+    <O ty="eu.fittest.actionscript.automation::RecordEvent">
+      <fd n="I">
+        <V v="0" ty="ID" />
+      </fd>
+      <fd n="targetID">
+        <V v="&quot;ButtonBar0&quot;" ty="String" />
+      </fd>
+      <fd n="type">
+        <V v="&quot;itemclick&quot;" ty="String" />
+      </fd>
+      <fd n="args">
+        <O ty="Array">
+          <fd n="I">
+            <V v="1" ty="ID" />
+          </fd>
+          <fd n="elem">
+            <V v="1" ty="int" />
+          </fd>
+        </O>
+      </fd>
+    </O>
+    <O ty="AppAbstractState">
+      <fd n="I">
+        <V v="2" ty="ID" />
+      </fd>
+      <fd n="selectedProduct">
+        <V v="-1" ty="int" />
+      </fd>
+      <fd n="catalogContents">
+        <O ty="Array">
+          <fd n="I">
+            <V v="3" ty="ID" />
+          </fd>
+          <fd n="elem">
+            <V v="1" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="2" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="3" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="4" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="5" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="6" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="7" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="8" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="9" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="10" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="11" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="12" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="13" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="14" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="15" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="16" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="17" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="18" ty="int" />
+          </fd>
+        </O>
+      </fd>
+    </O>
+  </E>
+  <E t="300:1380634867526">
+    <O ty="eu.fittest.actionscript.automation::RecordEvent">
+      <fd n="I">
+        <V v="0" ty="ID" />
+      </fd>
+      <fd n="targetID">
+        <V v="&quot;IDY_details_8&quot;" ty="String" />
+      </fd>
+      <fd n="type">
+        <V v="&quot;click&quot;" ty="String" />
+      </fd>
+      <fd n="args">
+        <O ty="Array">
+          <fd n="I">
+            <V v="1" ty="ID" />
+          </fd>
+        </O>
+      </fd>
+    </O>
+    <O ty="AppAbstractState">
+      <fd n="I">
+        <V v="2" ty="ID" />
+      </fd>
+      <fd n="selectedProduct">
+        <V v="-1" ty="int" />
+      </fd>
+      <fd n="catalogContents">
+        <O ty="Array">
+          <fd n="I">
+            <V v="3" ty="ID" />
+          </fd>
+          <fd n="elem">
+            <V v="1" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="2" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="3" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="4" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="5" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="6" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="7" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="8" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="9" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="10" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="11" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="12" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="13" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="14" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="15" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="16" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="17" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="18" ty="int" />
+          </fd>
+        </O>
+      </fd>
+    </O>
+  </E>
+  <E t="300:1380634867527">
+    <O ty="eu.fittest.actionscript.automation::RecordEvent">
+      <fd n="I">
+        <V v="0" ty="ID" />
+      </fd>
+      <fd n="targetID">
+        <V v="&quot;IDY_cancas_8&quot;" ty="String" />
+      </fd>
+      <fd n="type">
+        <V v="&quot;click&quot;" ty="String" />
+      </fd>
+      <fd n="args">
+        <O ty="Array">
+          <fd n="I">
+            <V v="1" ty="ID" />
+          </fd>
+        </O>
+      </fd>
+    </O>
+    <O ty="AppAbstractState">
+      <fd n="I">
+        <V v="2" ty="ID" />
+      </fd>
+      <fd n="selectedProduct">
+        <V v="-1" ty="int" />
+      </fd>
+      <fd n="catalogContents">
+        <O ty="Array">
+          <fd n="I">
+            <V v="3" ty="ID" />
+          </fd>
+          <fd n="elem">
+            <V v="1" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="2" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="3" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="4" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="5" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="6" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="7" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="8" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="9" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="10" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="11" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="12" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="13" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="14" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="15" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="16" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="17" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="18" ty="int" />
+          </fd>
+        </O>
+      </fd>
+    </O>
+  </E>
+  <E t="300:1380634868698">
+    <O ty="eu.fittest.actionscript.automation::RecordEvent">
+      <fd n="I">
+        <V v="0" ty="ID" />
+      </fd>
+      <fd n="targetID">
+        <V v="&quot;IDY_textFeature_6&quot;" ty="String" />
+      </fd>
+      <fd n="type">
+        <V v="&quot;click&quot;" ty="String" />
+      </fd>
+      <fd n="args">
+        <O ty="Array">
+          <fd n="I">
+            <V v="1" ty="ID" />
+          </fd>
+        </O>
+      </fd>
+    </O>
+    <O ty="AppAbstractState">
+      <fd n="I">
+        <V v="2" ty="ID" />
+      </fd>
+      <fd n="selectedProduct">
+        <V v="8" ty="int" />
+      </fd>
+      <fd n="catalogContents">
+        <O ty="Array">
+          <fd n="I">
+            <V v="3" ty="ID" />
+          </fd>
+          <fd n="elem">
+            <V v="1" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="2" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="3" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="4" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="5" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="6" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="7" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="8" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="9" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="10" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="11" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="12" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="13" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="14" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="15" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="16" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="17" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="18" ty="int" />
+          </fd>
+        </O>
+      </fd>
+    </O>
+  </E>
+  <E t="300:1380634868700">
+    <O ty="eu.fittest.actionscript.automation::RecordEvent">
+      <fd n="I">
+        <V v="0" ty="ID" />
+      </fd>
+      <fd n="targetID">
+        <V v="&quot;IDY_cancas_6&quot;" ty="String" />
+      </fd>
+      <fd n="type">
+        <V v="&quot;click&quot;" ty="String" />
+      </fd>
+      <fd n="args">
+        <O ty="Array">
+          <fd n="I">
+            <V v="1" ty="ID" />
+          </fd>
+        </O>
+      </fd>
+    </O>
+    <O ty="AppAbstractState">
+      <fd n="I">
+        <V v="2" ty="ID" />
+      </fd>
+      <fd n="selectedProduct">
+        <V v="6" ty="int" />
+      </fd>
+      <fd n="catalogContents">
+        <O ty="Array">
+          <fd n="I">
+            <V v="3" ty="ID" />
+          </fd>
+          <fd n="elem">
+            <V v="1" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="2" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="3" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="4" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="5" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="6" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="7" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="8" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="9" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="10" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="11" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="12" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="13" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="14" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="15" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="16" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="17" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="18" ty="int" />
+          </fd>
+        </O>
+      </fd>
+    </O>
+  </E>
+  <E t="300:1380634869818">
+    <O ty="eu.fittest.actionscript.automation::RecordEvent">
+      <fd n="I">
+        <V v="0" ty="ID" />
+      </fd>
+      <fd n="targetID">
+        <V v="&quot;IDY_img_7&quot;" ty="String" />
+      </fd>
+      <fd n="type">
+        <V v="&quot;click&quot;" ty="String" />
+      </fd>
+      <fd n="args">
+        <O ty="Array">
+          <fd n="I">
+            <V v="1" ty="ID" />
+          </fd>
+        </O>
+      </fd>
+    </O>
+    <O ty="AppAbstractState">
+      <fd n="I">
+        <V v="2" ty="ID" />
+      </fd>
+      <fd n="selectedProduct">
+        <V v="6" ty="int" />
+      </fd>
+      <fd n="catalogContents">
+        <O ty="Array">
+          <fd n="I">
+            <V v="3" ty="ID" />
+          </fd>
+          <fd n="elem">
+            <V v="1" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="2" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="3" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="4" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="5" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="6" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="7" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="8" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="9" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="10" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="11" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="12" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="13" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="14" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="15" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="16" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="17" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="18" ty="int" />
+          </fd>
+        </O>
+      </fd>
+    </O>
+  </E>
+  <E t="300:1380634869820">
+    <O ty="eu.fittest.actionscript.automation::RecordEvent">
+      <fd n="I">
+        <V v="0" ty="ID" />
+      </fd>
+      <fd n="targetID">
+        <V v="&quot;IDY_cancas_7&quot;" ty="String" />
+      </fd>
+      <fd n="type">
+        <V v="&quot;click&quot;" ty="String" />
+      </fd>
+      <fd n="args">
+        <O ty="Array">
+          <fd n="I">
+            <V v="1" ty="ID" />
+          </fd>
+        </O>
+      </fd>
+    </O>
+    <O ty="AppAbstractState">
+      <fd n="I">
+        <V v="2" ty="ID" />
+      </fd>
+      <fd n="selectedProduct">
+        <V v="7" ty="int" />
+      </fd>
+      <fd n="catalogContents">
+        <O ty="Array">
+          <fd n="I">
+            <V v="3" ty="ID" />
+          </fd>
+          <fd n="elem">
+            <V v="1" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="2" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="3" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="4" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="5" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="6" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="7" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="8" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="9" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="10" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="11" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="12" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="13" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="14" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="15" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="16" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="17" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="18" ty="int" />
+          </fd>
+        </O>
+      </fd>
+    </O>
+  </E>
+  <E t="300:1380634870081">
+    <O ty="eu.fittest.actionscript.automation::RecordEvent">
+      <fd n="I">
+        <V v="0" ty="ID" />
+      </fd>
+      <fd n="targetID">
+        <V v="&quot;IDY_labelName_8&quot;" ty="String" />
+      </fd>
+      <fd n="type">
+        <V v="&quot;click&quot;" ty="String" />
+      </fd>
+      <fd n="args">
+        <O ty="Array">
+          <fd n="I">
+            <V v="1" ty="ID" />
+          </fd>
+        </O>
+      </fd>
+    </O>
+    <O ty="AppAbstractState">
+      <fd n="I">
+        <V v="2" ty="ID" />
+      </fd>
+      <fd n="selectedProduct">
+        <V v="7" ty="int" />
+      </fd>
+      <fd n="catalogContents">
+        <O ty="Array">
+          <fd n="I">
+            <V v="3" ty="ID" />
+          </fd>
+          <fd n="elem">
+            <V v="1" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="2" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="3" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="4" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="5" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="6" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="7" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="8" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="9" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="10" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="11" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="12" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="13" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="14" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="15" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="16" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="17" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="18" ty="int" />
+          </fd>
+        </O>
+      </fd>
+    </O>
+  </E>
+  <E t="300:1380634870082">
+    <O ty="eu.fittest.actionscript.automation::RecordEvent">
+      <fd n="I">
+        <V v="0" ty="ID" />
+      </fd>
+      <fd n="targetID">
+        <V v="&quot;IDY_cancas_8&quot;" ty="String" />
+      </fd>
+      <fd n="type">
+        <V v="&quot;click&quot;" ty="String" />
+      </fd>
+      <fd n="args">
+        <O ty="Array">
+          <fd n="I">
+            <V v="1" ty="ID" />
+          </fd>
+        </O>
+      </fd>
+    </O>
+    <O ty="AppAbstractState">
+      <fd n="I">
+        <V v="2" ty="ID" />
+      </fd>
+      <fd n="selectedProduct">
+        <V v="8" ty="int" />
+      </fd>
+      <fd n="catalogContents">
+        <O ty="Array">
+          <fd n="I">
+            <V v="3" ty="ID" />
+          </fd>
+          <fd n="elem">
+            <V v="1" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="2" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="3" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="4" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="5" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="6" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="7" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="8" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="9" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="10" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="11" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="12" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="13" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="14" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="15" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="16" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="17" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="18" ty="int" />
+          </fd>
+        </O>
+      </fd>
+    </O>
+  </E>
+  <E t="300:1380634870426">
+    <O ty="eu.fittest.actionscript.automation::RecordEvent">
+      <fd n="I">
+        <V v="0" ty="ID" />
+      </fd>
+      <fd n="targetID">
+        <V v="&quot;IDY_labelName_6&quot;" ty="String" />
+      </fd>
+      <fd n="type">
+        <V v="&quot;click&quot;" ty="String" />
+      </fd>
+      <fd n="args">
+        <O ty="Array">
+          <fd n="I">
+            <V v="1" ty="ID" />
+          </fd>
+        </O>
+      </fd>
+    </O>
+    <O ty="AppAbstractState">
+      <fd n="I">
+        <V v="2" ty="ID" />
+      </fd>
+      <fd n="selectedProduct">
+        <V v="8" ty="int" />
+      </fd>
+      <fd n="catalogContents">
+        <O ty="Array">
+          <fd n="I">
+            <V v="3" ty="ID" />
+          </fd>
+          <fd n="elem">
+            <V v="1" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="2" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="3" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="4" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="5" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="6" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="7" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="8" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="9" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="10" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="11" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="12" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="13" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="14" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="15" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="16" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="17" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="18" ty="int" />
+          </fd>
+        </O>
+      </fd>
+    </O>
+  </E>
+  <E t="300:1380634870427">
+    <O ty="eu.fittest.actionscript.automation::RecordEvent">
+      <fd n="I">
+        <V v="0" ty="ID" />
+      </fd>
+      <fd n="targetID">
+        <V v="&quot;IDY_cancas_6&quot;" ty="String" />
+      </fd>
+      <fd n="type">
+        <V v="&quot;click&quot;" ty="String" />
+      </fd>
+      <fd n="args">
+        <O ty="Array">
+          <fd n="I">
+            <V v="1" ty="ID" />
+          </fd>
+        </O>
+      </fd>
+    </O>
+    <O ty="AppAbstractState">
+      <fd n="I">
+        <V v="2" ty="ID" />
+      </fd>
+      <fd n="selectedProduct">
+        <V v="6" ty="int" />
+      </fd>
+      <fd n="catalogContents">
+        <O ty="Array">
+          <fd n="I">
+            <V v="3" ty="ID" />
+          </fd>
+          <fd n="elem">
+            <V v="1" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="2" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="3" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="4" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="5" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="6" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="7" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="8" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="9" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="10" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="11" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="12" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="13" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="14" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="15" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="16" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="17" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="18" ty="int" />
+          </fd>
+        </O>
+      </fd>
+    </O>
+  </E>
+  <E t="300:1380634870705">
+    <O ty="eu.fittest.actionscript.automation::RecordEvent">
+      <fd n="I">
+        <V v="0" ty="ID" />
+      </fd>
+      <fd n="targetID">
+        <V v="&quot;IDY_img_5&quot;" ty="String" />
+      </fd>
+      <fd n="type">
+        <V v="&quot;click&quot;" ty="String" />
+      </fd>
+      <fd n="args">
+        <O ty="Array">
+          <fd n="I">
+            <V v="1" ty="ID" />
+          </fd>
+        </O>
+      </fd>
+    </O>
+    <O ty="AppAbstractState">
+      <fd n="I">
+        <V v="2" ty="ID" />
+      </fd>
+      <fd n="selectedProduct">
+        <V v="6" ty="int" />
+      </fd>
+      <fd n="catalogContents">
+        <O ty="Array">
+          <fd n="I">
+            <V v="3" ty="ID" />
+          </fd>
+          <fd n="elem">
+            <V v="1" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="2" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="3" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="4" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="5" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="6" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="7" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="8" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="9" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="10" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="11" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="12" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="13" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="14" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="15" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="16" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="17" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="18" ty="int" />
+          </fd>
+        </O>
+      </fd>
+    </O>
+  </E>
+  <E t="300:1380634870706">
+    <O ty="eu.fittest.actionscript.automation::RecordEvent">
+      <fd n="I">
+        <V v="0" ty="ID" />
+      </fd>
+      <fd n="targetID">
+        <V v="&quot;IDY_cancas_5&quot;" ty="String" />
+      </fd>
+      <fd n="type">
+        <V v="&quot;click&quot;" ty="String" />
+      </fd>
+      <fd n="args">
+        <O ty="Array">
+          <fd n="I">
+            <V v="1" ty="ID" />
+          </fd>
+        </O>
+      </fd>
+    </O>
+    <O ty="AppAbstractState">
+      <fd n="I">
+        <V v="2" ty="ID" />
+      </fd>
+      <fd n="selectedProduct">
+        <V v="5" ty="int" />
+      </fd>
+      <fd n="catalogContents">
+        <O ty="Array">
+          <fd n="I">
+            <V v="3" ty="ID" />
+          </fd>
+          <fd n="elem">
+            <V v="1" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="2" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="3" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="4" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="5" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="6" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="7" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="8" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="9" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="10" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="11" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="12" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="13" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="14" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="15" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="16" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="17" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="18" ty="int" />
+          </fd>
+        </O>
+      </fd>
+    </O>
+  </E>
+  <E t="300:1380634871434">
+    <O ty="eu.fittest.actionscript.automation::RecordEvent">
+      <fd n="I">
+        <V v="0" ty="ID" />
+      </fd>
+      <fd n="targetID">
+        <V v="&quot;IDY_img_6&quot;" ty="String" />
+      </fd>
+      <fd n="type">
+        <V v="&quot;click&quot;" ty="String" />
+      </fd>
+      <fd n="args">
+        <O ty="Array">
+          <fd n="I">
+            <V v="1" ty="ID" />
+          </fd>
+        </O>
+      </fd>
+    </O>
+    <O ty="AppAbstractState">
+      <fd n="I">
+        <V v="2" ty="ID" />
+      </fd>
+      <fd n="selectedProduct">
+        <V v="5" ty="int" />
+      </fd>
+      <fd n="catalogContents">
+        <O ty="Array">
+          <fd n="I">
+            <V v="3" ty="ID" />
+          </fd>
+          <fd n="elem">
+            <V v="1" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="2" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="3" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="4" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="5" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="6" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="7" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="8" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="9" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="10" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="11" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="12" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="13" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="14" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="15" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="16" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="17" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="18" ty="int" />
+          </fd>
+        </O>
+      </fd>
+    </O>
+  </E>
+  <E t="300:1380634871435">
+    <O ty="eu.fittest.actionscript.automation::RecordEvent">
+      <fd n="I">
+        <V v="0" ty="ID" />
+      </fd>
+      <fd n="targetID">
+        <V v="&quot;IDY_cancas_6&quot;" ty="String" />
+      </fd>
+      <fd n="type">
+        <V v="&quot;click&quot;" ty="String" />
+      </fd>
+      <fd n="args">
+        <O ty="Array">
+          <fd n="I">
+            <V v="1" ty="ID" />
+          </fd>
+        </O>
+      </fd>
+    </O>
+    <O ty="AppAbstractState">
+      <fd n="I">
+        <V v="2" ty="ID" />
+      </fd>
+      <fd n="selectedProduct">
+        <V v="6" ty="int" />
+      </fd>
+      <fd n="catalogContents">
+        <O ty="Array">
+          <fd n="I">
+            <V v="3" ty="ID" />
+          </fd>
+          <fd n="elem">
+            <V v="1" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="2" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="3" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="4" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="5" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="6" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="7" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="8" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="9" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="10" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="11" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="12" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="13" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="14" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="15" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="16" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="17" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="18" ty="int" />
+          </fd>
+        </O>
+      </fd>
+    </O>
+  </E>
+  <E t="300:1380634871851">
+    <O ty="eu.fittest.actionscript.automation::RecordEvent">
+      <fd n="I">
+        <V v="0" ty="ID" />
+      </fd>
+      <fd n="targetID">
+        <V v="&quot;IDY_cancas_7&quot;" ty="String" />
+      </fd>
+      <fd n="type">
+        <V v="&quot;click&quot;" ty="String" />
+      </fd>
+      <fd n="args">
+        <O ty="Array">
+          <fd n="I">
+            <V v="1" ty="ID" />
+          </fd>
+        </O>
+      </fd>
+    </O>
+    <O ty="AppAbstractState">
+      <fd n="I">
+        <V v="2" ty="ID" />
+      </fd>
+      <fd n="selectedProduct">
+        <V v="7" ty="int" />
+      </fd>
+      <fd n="catalogContents">
+        <O ty="Array">
+          <fd n="I">
+            <V v="3" ty="ID" />
+          </fd>
+          <fd n="elem">
+            <V v="1" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="2" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="3" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="4" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="5" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="6" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="7" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="8" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="9" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="10" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="11" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="12" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="13" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="14" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="15" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="16" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="17" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="18" ty="int" />
+          </fd>
+        </O>
+      </fd>
+    </O>
+  </E>
+  <E t="300:1380634872170">
+    <O ty="eu.fittest.actionscript.automation::RecordEvent">
+      <fd n="I">
+        <V v="0" ty="ID" />
+      </fd>
+      <fd n="targetID">
+        <V v="&quot;IDY_img_6&quot;" ty="String" />
+      </fd>
+      <fd n="type">
+        <V v="&quot;click&quot;" ty="String" />
+      </fd>
+      <fd n="args">
+        <O ty="Array">
+          <fd n="I">
+            <V v="1" ty="ID" />
+          </fd>
+        </O>
+      </fd>
+    </O>
+    <O ty="AppAbstractState">
+      <fd n="I">
+        <V v="2" ty="ID" />
+      </fd>
+      <fd n="selectedProduct">
+        <V v="7" ty="int" />
+      </fd>
+      <fd n="catalogContents">
+        <O ty="Array">
+          <fd n="I">
+            <V v="3" ty="ID" />
+          </fd>
+          <fd n="elem">
+            <V v="1" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="2" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="3" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="4" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="5" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="6" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="7" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="8" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="9" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="10" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="11" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="12" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="13" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="14" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="15" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="16" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="17" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="18" ty="int" />
+          </fd>
+        </O>
+      </fd>
+    </O>
+  </E>
+  <E t="300:1380634872171">
+    <O ty="eu.fittest.actionscript.automation::RecordEvent">
+      <fd n="I">
+        <V v="0" ty="ID" />
+      </fd>
+      <fd n="targetID">
+        <V v="&quot;IDY_cancas_6&quot;" ty="String" />
+      </fd>
+      <fd n="type">
+        <V v="&quot;click&quot;" ty="String" />
+      </fd>
+      <fd n="args">
+        <O ty="Array">
+          <fd n="I">
+            <V v="1" ty="ID" />
+          </fd>
+        </O>
+      </fd>
+    </O>
+    <O ty="AppAbstractState">
+      <fd n="I">
+        <V v="2" ty="ID" />
+      </fd>
+      <fd n="selectedProduct">
+        <V v="6" ty="int" />
+      </fd>
+      <fd n="catalogContents">
+        <O ty="Array">
+          <fd n="I">
+            <V v="3" ty="ID" />
+          </fd>
+          <fd n="elem">
+            <V v="1" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="2" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="3" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="4" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="5" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="6" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="7" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="8" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="9" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="10" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="11" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="12" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="13" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="14" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="15" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="16" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="17" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="18" ty="int" />
+          </fd>
+        </O>
+      </fd>
+    </O>
+  </E>
+  <E t="300:1380634873578">
+    <O ty="eu.fittest.actionscript.automation::RecordEvent">
+      <fd n="I">
+        <V v="0" ty="ID" />
+      </fd>
+      <fd n="targetID">
+        <V v="&quot;IDY_labelPrice_8&quot;" ty="String" />
+      </fd>
+      <fd n="type">
+        <V v="&quot;click&quot;" ty="String" />
+      </fd>
+      <fd n="args">
+        <O ty="Array">
+          <fd n="I">
+            <V v="1" ty="ID" />
+          </fd>
+        </O>
+      </fd>
+    </O>
+    <O ty="AppAbstractState">
+      <fd n="I">
+        <V v="2" ty="ID" />
+      </fd>
+      <fd n="selectedProduct">
+        <V v="6" ty="int" />
+      </fd>
+      <fd n="catalogContents">
+        <O ty="Array">
+          <fd n="I">
+            <V v="3" ty="ID" />
+          </fd>
+          <fd n="elem">
+            <V v="1" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="2" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="3" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="4" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="5" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="6" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="7" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="8" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="9" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="10" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="11" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="12" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="13" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="14" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="15" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="16" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="17" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="18" ty="int" />
+          </fd>
+        </O>
+      </fd>
+    </O>
+  </E>
+  <E t="300:1380634873579">
+    <O ty="eu.fittest.actionscript.automation::RecordEvent">
+      <fd n="I">
+        <V v="0" ty="ID" />
+      </fd>
+      <fd n="targetID">
+        <V v="&quot;IDY_cancas_8&quot;" ty="String" />
+      </fd>
+      <fd n="type">
+        <V v="&quot;click&quot;" ty="String" />
+      </fd>
+      <fd n="args">
+        <O ty="Array">
+          <fd n="I">
+            <V v="1" ty="ID" />
+          </fd>
+        </O>
+      </fd>
+    </O>
+    <O ty="AppAbstractState">
+      <fd n="I">
+        <V v="2" ty="ID" />
+      </fd>
+      <fd n="selectedProduct">
+        <V v="8" ty="int" />
+      </fd>
+      <fd n="catalogContents">
+        <O ty="Array">
+          <fd n="I">
+            <V v="3" ty="ID" />
+          </fd>
+          <fd n="elem">
+            <V v="1" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="2" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="3" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="4" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="5" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="6" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="7" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="8" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="9" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="10" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="11" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="12" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="13" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="14" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="15" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="16" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="17" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="18" ty="int" />
+          </fd>
+        </O>
+      </fd>
+    </O>
+  </E>
+  <E t="300:1380634874089">
+    <O ty="eu.fittest.actionscript.automation::RecordEvent">
+      <fd n="I">
+        <V v="0" ty="ID" />
+      </fd>
+      <fd n="targetID">
+        <V v="&quot;IDY_img_9&quot;" ty="String" />
+      </fd>
+      <fd n="type">
+        <V v="&quot;click&quot;" ty="String" />
+      </fd>
+      <fd n="args">
+        <O ty="Array">
+          <fd n="I">
+            <V v="1" ty="ID" />
+          </fd>
+        </O>
+      </fd>
+    </O>
+    <O ty="AppAbstractState">
+      <fd n="I">
+        <V v="2" ty="ID" />
+      </fd>
+      <fd n="selectedProduct">
+        <V v="8" ty="int" />
+      </fd>
+      <fd n="catalogContents">
+        <O ty="Array">
+          <fd n="I">
+            <V v="3" ty="ID" />
+          </fd>
+          <fd n="elem">
+            <V v="1" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="2" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="3" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="4" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="5" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="6" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="7" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="8" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="9" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="10" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="11" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="12" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="13" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="14" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="15" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="16" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="17" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="18" ty="int" />
+          </fd>
+        </O>
+      </fd>
+    </O>
+  </E>
+  <E t="300:1380634874091">
+    <O ty="eu.fittest.actionscript.automation::RecordEvent">
+      <fd n="I">
+        <V v="0" ty="ID" />
+      </fd>
+      <fd n="targetID">
+        <V v="&quot;IDY_cancas_9&quot;" ty="String" />
+      </fd>
+      <fd n="type">
+        <V v="&quot;click&quot;" ty="String" />
+      </fd>
+      <fd n="args">
+        <O ty="Array">
+          <fd n="I">
+            <V v="1" ty="ID" />
+          </fd>
+        </O>
+      </fd>
+    </O>
+    <O ty="AppAbstractState">
+      <fd n="I">
+        <V v="2" ty="ID" />
+      </fd>
+      <fd n="selectedProduct">
+        <V v="9" ty="int" />
+      </fd>
+      <fd n="catalogContents">
+        <O ty="Array">
+          <fd n="I">
+            <V v="3" ty="ID" />
+          </fd>
+          <fd n="elem">
+            <V v="1" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="2" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="3" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="4" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="5" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="6" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="7" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="8" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="9" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="10" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="11" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="12" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="13" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="14" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="15" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="16" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="17" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="18" ty="int" />
+          </fd>
+        </O>
+      </fd>
+    </O>
+  </E>
+  <E t="300:1380634874578">
+    <O ty="eu.fittest.actionscript.automation::RecordEvent">
+      <fd n="I">
+        <V v="0" ty="ID" />
+      </fd>
+      <fd n="targetID">
+        <V v="&quot;IDY_textFeature_8&quot;" ty="String" />
+      </fd>
+      <fd n="type">
+        <V v="&quot;click&quot;" ty="String" />
+      </fd>
+      <fd n="args">
+        <O ty="Array">
+          <fd n="I">
+            <V v="1" ty="ID" />
+          </fd>
+        </O>
+      </fd>
+    </O>
+    <O ty="AppAbstractState">
+      <fd n="I">
+        <V v="2" ty="ID" />
+      </fd>
+      <fd n="selectedProduct">
+        <V v="9" ty="int" />
+      </fd>
+      <fd n="catalogContents">
+        <O ty="Array">
+          <fd n="I">
+            <V v="3" ty="ID" />
+          </fd>
+          <fd n="elem">
+            <V v="1" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="2" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="3" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="4" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="5" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="6" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="7" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="8" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="9" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="10" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="11" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="12" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="13" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="14" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="15" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="16" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="17" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="18" ty="int" />
+          </fd>
+        </O>
+      </fd>
+    </O>
+  </E>
+  <E t="300:1380634874579">
+    <O ty="eu.fittest.actionscript.automation::RecordEvent">
+      <fd n="I">
+        <V v="0" ty="ID" />
+      </fd>
+      <fd n="targetID">
+        <V v="&quot;IDY_cancas_8&quot;" ty="String" />
+      </fd>
+      <fd n="type">
+        <V v="&quot;click&quot;" ty="String" />
+      </fd>
+      <fd n="args">
+        <O ty="Array">
+          <fd n="I">
+            <V v="1" ty="ID" />
+          </fd>
+        </O>
+      </fd>
+    </O>
+    <O ty="AppAbstractState">
+      <fd n="I">
+        <V v="2" ty="ID" />
+      </fd>
+      <fd n="selectedProduct">
+        <V v="8" ty="int" />
+      </fd>
+      <fd n="catalogContents">
+        <O ty="Array">
+          <fd n="I">
+            <V v="3" ty="ID" />
+          </fd>
+          <fd n="elem">
+            <V v="1" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="2" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="3" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="4" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="5" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="6" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="7" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="8" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="9" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="10" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="11" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="12" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="13" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="14" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="15" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="16" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="17" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="18" ty="int" />
+          </fd>
+        </O>
+      </fd>
+    </O>
+  </E>
+  <E t="300:1380634876314">
+    <O ty="eu.fittest.actionscript.automation::RecordEvent">
+      <fd n="I">
+        <V v="0" ty="ID" />
+      </fd>
+      <fd n="targetID">
+        <V v="&quot;ButtonBar0&quot;" ty="String" />
+      </fd>
+      <fd n="type">
+        <V v="&quot;itemclick&quot;" ty="String" />
+      </fd>
+      <fd n="args">
+        <O ty="Array">
+          <fd n="I">
+            <V v="1" ty="ID" />
+          </fd>
+          <fd n="elem">
+            <V v="0" ty="int" />
+          </fd>
+        </O>
+      </fd>
+    </O>
+    <O ty="AppAbstractState">
+      <fd n="I">
+        <V v="2" ty="ID" />
+      </fd>
+      <fd n="selectedProduct">
+        <V v="8" ty="int" />
+      </fd>
+      <fd n="catalogContents">
+        <O ty="Array">
+          <fd n="I">
+            <V v="3" ty="ID" />
+          </fd>
+          <fd n="elem">
+            <V v="1" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="2" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="3" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="4" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="5" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="6" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="7" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="8" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="9" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="10" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="11" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="12" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="13" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="14" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="15" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="16" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="17" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="18" ty="int" />
+          </fd>
+        </O>
+      </fd>
+    </O>
+  </E>
+  <E t="300:1380634876940">
+    <O ty="eu.fittest.actionscript.automation::RecordEvent">
+      <fd n="I">
+        <V v="0" ty="ID" />
+      </fd>
+      <fd n="targetID">
+        <V v="&quot;ButtonBar0&quot;" ty="String" />
+      </fd>
+      <fd n="type">
+        <V v="&quot;itemclick&quot;" ty="String" />
+      </fd>
+      <fd n="args">
+        <O ty="Array">
+          <fd n="I">
+            <V v="1" ty="ID" />
+          </fd>
+          <fd n="elem">
+            <V v="2" ty="int" />
+          </fd>
+        </O>
+      </fd>
+    </O>
+    <O ty="AppAbstractState">
+      <fd n="I">
+        <V v="2" ty="ID" />
+      </fd>
+      <fd n="selectedProduct">
+        <V v="8" ty="int" />
+      </fd>
+      <fd n="catalogContents">
+        <O ty="Array">
+          <fd n="I">
+            <V v="3" ty="ID" />
+          </fd>
+          <fd n="elem">
+            <V v="1" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="2" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="3" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="4" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="5" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="6" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="7" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="8" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="9" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="10" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="11" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="12" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="13" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="14" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="15" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="16" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="17" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="18" ty="int" />
+          </fd>
+        </O>
+      </fd>
+    </O>
+  </E>
+  <E t="300:1380634879194">
+    <O ty="eu.fittest.actionscript.automation::RecordEvent">
+      <fd n="I">
+        <V v="0" ty="ID" />
+      </fd>
+      <fd n="targetID">
+        <V v="&quot;Image7&quot;" ty="String" />
+      </fd>
+      <fd n="type">
+        <V v="&quot;click&quot;" ty="String" />
+      </fd>
+      <fd n="args">
+        <O ty="Array">
+          <fd n="I">
+            <V v="1" ty="ID" />
+          </fd>
+        </O>
+      </fd>
+    </O>
+    <O ty="AppAbstractState">
+      <fd n="I">
+        <V v="2" ty="ID" />
+      </fd>
+      <fd n="selectedProduct">
+        <V v="8" ty="int" />
+      </fd>
+      <fd n="catalogContents">
+        <O ty="Array">
+          <fd n="I">
+            <V v="3" ty="ID" />
+          </fd>
+          <fd n="elem">
+            <V v="1" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="2" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="3" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="4" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="5" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="6" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="7" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="8" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="9" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="10" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="11" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="12" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="13" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="14" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="15" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="16" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="17" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="18" ty="int" />
+          </fd>
+        </O>
+      </fd>
+    </O>
+  </E>
+  <E t="300:1380634879690">
+    <O ty="eu.fittest.actionscript.automation::RecordEvent">
+      <fd n="I">
+        <V v="0" ty="ID" />
+      </fd>
+      <fd n="targetID">
+        <V v="&quot;Image7&quot;" ty="String" />
+      </fd>
+      <fd n="type">
+        <V v="&quot;click&quot;" ty="String" />
+      </fd>
+      <fd n="args">
+        <O ty="Array">
+          <fd n="I">
+            <V v="1" ty="ID" />
+          </fd>
+        </O>
+      </fd>
+    </O>
+    <O ty="AppAbstractState">
+      <fd n="I">
+        <V v="2" ty="ID" />
+      </fd>
+      <fd n="selectedProduct">
+        <V v="8" ty="int" />
+      </fd>
+      <fd n="catalogContents">
+        <O ty="Array">
+          <fd n="I">
+            <V v="3" ty="ID" />
+          </fd>
+          <fd n="elem">
+            <V v="1" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="2" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="3" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="4" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="5" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="6" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="7" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="8" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="9" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="10" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="11" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="12" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="13" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="14" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="15" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="16" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="17" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="18" ty="int" />
+          </fd>
+        </O>
+      </fd>
+    </O>
+  </E>
+  <E t="300:1380634881017">
+    <O ty="eu.fittest.actionscript.automation::RecordEvent">
+      <fd n="I">
+        <V v="0" ty="ID" />
+      </fd>
+      <fd n="targetID">
+        <V v="&quot;Image7&quot;" ty="String" />
+      </fd>
+      <fd n="type">
+        <V v="&quot;click&quot;" ty="String" />
+      </fd>
+      <fd n="args">
+        <O ty="Array">
+          <fd n="I">
+            <V v="1" ty="ID" />
+          </fd>
+        </O>
+      </fd>
+    </O>
+    <O ty="AppAbstractState">
+      <fd n="I">
+        <V v="2" ty="ID" />
+      </fd>
+      <fd n="selectedProduct">
+        <V v="8" ty="int" />
+      </fd>
+      <fd n="catalogContents">
+        <O ty="Array">
+          <fd n="I">
+            <V v="3" ty="ID" />
+          </fd>
+          <fd n="elem">
+            <V v="1" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="2" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="3" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="4" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="5" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="6" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="7" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="8" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="9" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="10" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="11" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="12" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="13" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="14" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="15" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="16" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="17" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="18" ty="int" />
+          </fd>
+        </O>
+      </fd>
+    </O>
+  </E>
+  <E t="300:1380634881873">
+    <O ty="eu.fittest.actionscript.automation::RecordEvent">
+      <fd n="I">
+        <V v="0" ty="ID" />
+      </fd>
+      <fd n="targetID">
+        <V v="&quot;Image7&quot;" ty="String" />
+      </fd>
+      <fd n="type">
+        <V v="&quot;click&quot;" ty="String" />
+      </fd>
+      <fd n="args">
+        <O ty="Array">
+          <fd n="I">
+            <V v="1" ty="ID" />
+          </fd>
+        </O>
+      </fd>
+    </O>
+    <O ty="AppAbstractState">
+      <fd n="I">
+        <V v="2" ty="ID" />
+      </fd>
+      <fd n="selectedProduct">
+        <V v="8" ty="int" />
+      </fd>
+      <fd n="catalogContents">
+        <O ty="Array">
+          <fd n="I">
+            <V v="3" ty="ID" />
+          </fd>
+          <fd n="elem">
+            <V v="1" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="2" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="3" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="4" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="5" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="6" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="7" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="8" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="9" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="10" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="11" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="12" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="13" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="14" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="15" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="16" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="17" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="18" ty="int" />
+          </fd>
+        </O>
+      </fd>
+    </O>
+  </E>
+  <E t="300:1380634882209">
+    <O ty="eu.fittest.actionscript.automation::RecordEvent">
+      <fd n="I">
+        <V v="0" ty="ID" />
+      </fd>
+      <fd n="targetID">
+        <V v="&quot;Image7&quot;" ty="String" />
+      </fd>
+      <fd n="type">
+        <V v="&quot;click&quot;" ty="String" />
+      </fd>
+      <fd n="args">
+        <O ty="Array">
+          <fd n="I">
+            <V v="1" ty="ID" />
+          </fd>
+        </O>
+      </fd>
+    </O>
+    <O ty="AppAbstractState">
+      <fd n="I">
+        <V v="2" ty="ID" />
+      </fd>
+      <fd n="selectedProduct">
+        <V v="8" ty="int" />
+      </fd>
+      <fd n="catalogContents">
+        <O ty="Array">
+          <fd n="I">
+            <V v="3" ty="ID" />
+          </fd>
+          <fd n="elem">
+            <V v="1" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="2" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="3" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="4" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="5" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="6" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="7" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="8" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="9" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="10" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="11" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="12" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="13" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="14" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="15" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="16" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="17" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="18" ty="int" />
+          </fd>
+        </O>
+      </fd>
+    </O>
+  </E>
+  <E t="300:1380634882889">
+    <O ty="eu.fittest.actionscript.automation::RecordEvent">
+      <fd n="I">
+        <V v="0" ty="ID" />
+      </fd>
+      <fd n="targetID">
+        <V v="&quot;Image7&quot;" ty="String" />
+      </fd>
+      <fd n="type">
+        <V v="&quot;click&quot;" ty="String" />
+      </fd>
+      <fd n="args">
+        <O ty="Array">
+          <fd n="I">
+            <V v="1" ty="ID" />
+          </fd>
+        </O>
+      </fd>
+    </O>
+    <O ty="AppAbstractState">
+      <fd n="I">
+        <V v="2" ty="ID" />
+      </fd>
+      <fd n="selectedProduct">
+        <V v="8" ty="int" />
+      </fd>
+      <fd n="catalogContents">
+        <O ty="Array">
+          <fd n="I">
+            <V v="3" ty="ID" />
+          </fd>
+          <fd n="elem">
+            <V v="1" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="2" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="3" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="4" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="5" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="6" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="7" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="8" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="9" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="10" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="11" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="12" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="13" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="14" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="15" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="16" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="17" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="18" ty="int" />
+          </fd>
+        </O>
+      </fd>
+    </O>
+  </E>
+  <E t="300:1380634883065">
+    <O ty="eu.fittest.actionscript.automation::RecordEvent">
+      <fd n="I">
+        <V v="0" ty="ID" />
+      </fd>
+      <fd n="targetID">
+        <V v="&quot;Image7&quot;" ty="String" />
+      </fd>
+      <fd n="type">
+        <V v="&quot;click&quot;" ty="String" />
+      </fd>
+      <fd n="args">
+        <O ty="Array">
+          <fd n="I">
+            <V v="1" ty="ID" />
+          </fd>
+        </O>
+      </fd>
+    </O>
+    <O ty="AppAbstractState">
+      <fd n="I">
+        <V v="2" ty="ID" />
+      </fd>
+      <fd n="selectedProduct">
+        <V v="8" ty="int" />
+      </fd>
+      <fd n="catalogContents">
+        <O ty="Array">
+          <fd n="I">
+            <V v="3" ty="ID" />
+          </fd>
+          <fd n="elem">
+            <V v="1" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="2" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="3" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="4" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="5" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="6" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="7" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="8" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="9" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="10" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="11" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="12" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="13" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="14" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="15" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="16" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="17" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="18" ty="int" />
+          </fd>
+        </O>
+      </fd>
+    </O>
+  </E>
+  <E t="300:1380634884738">
+    <O ty="eu.fittest.actionscript.automation::RecordEvent">
+      <fd n="I">
+        <V v="0" ty="ID" />
+      </fd>
+      <fd n="targetID">
+        <V v="&quot;Image7&quot;" ty="String" />
+      </fd>
+      <fd n="type">
+        <V v="&quot;click&quot;" ty="String" />
+      </fd>
+      <fd n="args">
+        <O ty="Array">
+          <fd n="I">
+            <V v="1" ty="ID" />
+          </fd>
+        </O>
+      </fd>
+    </O>
+    <O ty="AppAbstractState">
+      <fd n="I">
+        <V v="2" ty="ID" />
+      </fd>
+      <fd n="selectedProduct">
+        <V v="8" ty="int" />
+      </fd>
+      <fd n="catalogContents">
+        <O ty="Array">
+          <fd n="I">
+            <V v="3" ty="ID" />
+          </fd>
+          <fd n="elem">
+            <V v="1" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="2" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="3" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="4" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="5" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="6" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="7" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="8" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="9" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="10" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="11" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="12" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="13" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="14" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="15" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="16" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="17" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="18" ty="int" />
+          </fd>
+        </O>
+      </fd>
+    </O>
+  </E>
+  <E t="300:1380634885954">
+    <O ty="eu.fittest.actionscript.automation::RecordEvent">
+      <fd n="I">
+        <V v="0" ty="ID" />
+      </fd>
+      <fd n="targetID">
+        <V v="&quot;HID_IDY_addressState_1_button&quot;" ty="String" />
+      </fd>
+      <fd n="type">
+        <V v="&quot;click&quot;" ty="String" />
+      </fd>
+      <fd n="args">
+        <O ty="Array">
+          <fd n="I">
+            <V v="1" ty="ID" />
+          </fd>
+        </O>
+      </fd>
+    </O>
+    <O ty="AppAbstractState">
+      <fd n="I">
+        <V v="2" ty="ID" />
+      </fd>
+      <fd n="selectedProduct">
+        <V v="8" ty="int" />
+      </fd>
+      <fd n="catalogContents">
+        <O ty="Array">
+          <fd n="I">
+            <V v="3" ty="ID" />
+          </fd>
+          <fd n="elem">
+            <V v="1" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="2" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="3" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="4" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="5" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="6" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="7" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="8" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="9" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="10" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="11" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="12" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="13" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="14" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="15" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="16" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="17" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="18" ty="int" />
+          </fd>
+        </O>
+      </fd>
+    </O>
+  </E>
+  <E t="300:1380634886127">
+    <O ty="eu.fittest.actionscript.automation::RecordEvent">
+      <fd n="I">
+        <V v="0" ty="ID" />
+      </fd>
+      <fd n="targetID">
+        <V v="&quot;IDY_addressState&quot;" ty="String" />
+      </fd>
+      <fd n="type">
+        <V v="&quot;open&quot;" ty="String" />
+      </fd>
+      <fd n="args">
+        <O ty="Array">
+          <fd n="I">
+            <V v="1" ty="ID" />
+          </fd>
+        </O>
+      </fd>
+    </O>
+    <O ty="AppAbstractState">
+      <fd n="I">
+        <V v="2" ty="ID" />
+      </fd>
+      <fd n="selectedProduct">
+        <V v="8" ty="int" />
+      </fd>
+      <fd n="catalogContents">
+        <O ty="Array">
+          <fd n="I">
+            <V v="3" ty="ID" />
+          </fd>
+          <fd n="elem">
+            <V v="1" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="2" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="3" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="4" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="5" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="6" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="7" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="8" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="9" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="10" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="11" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="12" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="13" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="14" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="15" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="16" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="17" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="18" ty="int" />
+          </fd>
+        </O>
+      </fd>
+    </O>
+  </E>
+  <E t="300:1380634886958">
+    <O ty="eu.fittest.actionscript.automation::RecordEvent">
+      <fd n="I">
+        <V v="0" ty="ID" />
+      </fd>
+      <fd n="targetID">
+        <V v="&quot;IDY_addressState&quot;" ty="String" />
+      </fd>
+      <fd n="type">
+        <V v="&quot;change&quot;" ty="String" />
+      </fd>
+      <fd n="args">
+        <O ty="Array">
+          <fd n="I">
+            <V v="1" ty="ID" />
+          </fd>
+          <fd n="elem">
+            <V v="3" ty="int" />
+          </fd>
+        </O>
+      </fd>
+    </O>
+    <O ty="AppAbstractState">
+      <fd n="I">
+        <V v="2" ty="ID" />
+      </fd>
+      <fd n="selectedProduct">
+        <V v="8" ty="int" />
+      </fd>
+      <fd n="catalogContents">
+        <O ty="Array">
+          <fd n="I">
+            <V v="3" ty="ID" />
+          </fd>
+          <fd n="elem">
+            <V v="1" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="2" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="3" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="4" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="5" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="6" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="7" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="8" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="9" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="10" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="11" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="12" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="13" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="14" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="15" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="16" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="17" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="18" ty="int" />
+          </fd>
+        </O>
+      </fd>
+    </O>
+  </E>
+  <E t="300:1380634887213">
+    <O ty="eu.fittest.actionscript.automation::RecordEvent">
+      <fd n="I">
+        <V v="0" ty="ID" />
+      </fd>
+      <fd n="targetID">
+        <V v="&quot;IDY_addressState&quot;" ty="String" />
+      </fd>
+      <fd n="type">
+        <V v="&quot;close&quot;" ty="String" />
+      </fd>
+      <fd n="args">
+        <O ty="Array">
+          <fd n="I">
+            <V v="1" ty="ID" />
+          </fd>
+        </O>
+      </fd>
+    </O>
+    <O ty="AppAbstractState">
+      <fd n="I">
+        <V v="2" ty="ID" />
+      </fd>
+      <fd n="selectedProduct">
+        <V v="8" ty="int" />
+      </fd>
+      <fd n="catalogContents">
+        <O ty="Array">
+          <fd n="I">
+            <V v="3" ty="ID" />
+          </fd>
+          <fd n="elem">
+            <V v="1" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="2" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="3" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="4" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="5" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="6" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="7" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="8" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="9" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="10" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="11" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="12" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="13" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="14" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="15" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="16" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="17" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="18" ty="int" />
+          </fd>
+        </O>
+      </fd>
+    </O>
+  </E>
+  <E t="300:1380634888434">
+    <O ty="eu.fittest.actionscript.automation::RecordEvent">
+      <fd n="I">
+        <V v="0" ty="ID" />
+      </fd>
+      <fd n="targetID">
+        <V v="&quot;IDY_addressStreet&quot;" ty="String" />
+      </fd>
+      <fd n="type">
+        <V v="&quot;click&quot;" ty="String" />
+      </fd>
+      <fd n="args">
+        <O ty="Array">
+          <fd n="I">
+            <V v="1" ty="ID" />
+          </fd>
+        </O>
+      </fd>
+    </O>
+    <O ty="AppAbstractState">
+      <fd n="I">
+        <V v="2" ty="ID" />
+      </fd>
+      <fd n="selectedProduct">
+        <V v="8" ty="int" />
+      </fd>
+      <fd n="catalogContents">
+        <O ty="Array">
+          <fd n="I">
+            <V v="3" ty="ID" />
+          </fd>
+          <fd n="elem">
+            <V v="1" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="2" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="3" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="4" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="5" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="6" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="7" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="8" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="9" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="10" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="11" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="12" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="13" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="14" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="15" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="16" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="17" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="18" ty="int" />
+          </fd>
+        </O>
+      </fd>
+    </O>
+  </E>
+  <E t="300:1380634889379">
+    <O ty="eu.fittest.actionscript.automation::RecordEvent">
+      <fd n="I">
+        <V v="0" ty="ID" />
+      </fd>
+      <fd n="targetID">
+        <V v="&quot;Image6&quot;" ty="String" />
+      </fd>
+      <fd n="type">
+        <V v="&quot;click&quot;" ty="String" />
+      </fd>
+      <fd n="args">
+        <O ty="Array">
+          <fd n="I">
+            <V v="1" ty="ID" />
+          </fd>
+        </O>
+      </fd>
+    </O>
+    <O ty="AppAbstractState">
+      <fd n="I">
+        <V v="2" ty="ID" />
+      </fd>
+      <fd n="selectedProduct">
+        <V v="8" ty="int" />
+      </fd>
+      <fd n="catalogContents">
+        <O ty="Array">
+          <fd n="I">
+            <V v="3" ty="ID" />
+          </fd>
+          <fd n="elem">
+            <V v="1" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="2" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="3" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="4" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="5" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="6" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="7" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="8" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="9" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="10" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="11" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="12" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="13" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="14" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="15" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="16" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="17" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="18" ty="int" />
+          </fd>
+        </O>
+      </fd>
+    </O>
+  </E>
+  <E t="300:1380634889932">
+    <O ty="eu.fittest.actionscript.automation::RecordEvent">
+      <fd n="I">
+        <V v="0" ty="ID" />
+      </fd>
+      <fd n="targetID">
+        <V v="&quot;Image7&quot;" ty="String" />
+      </fd>
+      <fd n="type">
+        <V v="&quot;click&quot;" ty="String" />
+      </fd>
+      <fd n="args">
+        <O ty="Array">
+          <fd n="I">
+            <V v="1" ty="ID" />
+          </fd>
+        </O>
+      </fd>
+    </O>
+    <O ty="AppAbstractState">
+      <fd n="I">
+        <V v="2" ty="ID" />
+      </fd>
+      <fd n="selectedProduct">
+        <V v="8" ty="int" />
+      </fd>
+      <fd n="catalogContents">
+        <O ty="Array">
+          <fd n="I">
+            <V v="3" ty="ID" />
+          </fd>
+          <fd n="elem">
+            <V v="1" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="2" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="3" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="4" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="5" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="6" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="7" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="8" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="9" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="10" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="11" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="12" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="13" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="14" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="15" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="16" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="17" ty="int" />
+          </fd>
+          <fd n="elem">
+            <V v="18" ty="int" />
+          </fd>
+        </O>
+      </fd>
+    </O>
+  </E>
+</body>

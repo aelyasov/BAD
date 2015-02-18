@@ -1,0 +1,34 @@
+<div id="bbwebApp" class="bbwebApp bbwrapper">
+	<div class="bblcontainer">
+		<div class="bbheader">
+			<span class="bbtitle">bbwebApp - Black Box Web Application</span>
+			<span id="bbmin">-</span>
+			<span id="bbclose">x</span>
+		</div>
+		<div class="bbcontent">
+			<ul>
+				<li>
+					<span class="bbfromsrc">Read XML Log</span>
+					<input type="file" class="bbreadxml" name="bbreadxml"/>
+				 </li>
+				 <li>
+					<label for="bbreadrrules">Rewrite Rules</label>
+					<input type="file" class="bbreadrrules" name="bbreadrrules"/>
+				  </li> 
+			</ul>
+			<div class="bbselectors">
+				<input type="checkbox" class="bbballbreaks"/>
+				<input type="checkbox" class="bballinvokes"/>
+				<div class="bbrun">Run</div>
+				<div class="bbstop">Stop</div>
+				<div class="bbdelay"> | Delay(ms) <input type="text" value="1000" name="bbdelay"/></div>
+				<div class="bbreloadflash">&reg;</div>
+				<div class="bbddmin">ddmin</div>
+				<div class="bbddminr">rddmin</div>
+				<label><input type="checkbox" class="bbautoscroll"/>scroll</label>
+			</div>
+			<div class="bbdebugger"></div>
+		</div>
+	</div>
+	<div class="bbresults bbrcontainer"></div>
+</div>

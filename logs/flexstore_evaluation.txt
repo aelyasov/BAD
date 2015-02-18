@@ -1,0 +1,133 @@
+flx5_log_1382708392738_new_modified.xml - original log - 44 events
+
+[4,5,6,7,8,9,16] - reduced log - 7 events
+
+Deviation is 3
+
+Subset of the reduction:
+1) [4, 5, 8, 16, 43]
+
+ddmin - [4,5,8,16,43]
+9:34:28 - 10:05:36 = 1868
+events: 936
+steps: 173
+acltual steps: 76
+
+ddminR - [4,5,8,16,43]
+10:03:46 - 10:12:27 = 521 sec
+events: 347
+steps: 93
+actual steps: 41
+
+
+Supperset of the reduction:
+3) [4, 5, 6, 7, 8, 9, 14, 16, 17, 40, 43]
+
+ddmin - [3, 4, 5, 6, 7, 8, 9, 14, 16, 17, 40, 43]
+10:46:36 - 11:24:57 = 2301
+events: 1595
+steps: 250
+actual steps: 112
+
+ddminR - [1 .. 43]
+phase1: 
+3:11:33 - 4:13:26 = 3713 sec.
+events: 2201
+steps: 126
+actual steps: 81
+
+phase2:  
+4:16:53 - 4:53:35 = 2202 sec.
+events: 3483
+steps: 349
+actual steps: 168
+
+
+
+4) [5, 6, 7, 8, 9, 39, 43]
+ddmin - [5,6,7,8,9,39,43]
+3:28:51 - 3:49:07 = 1216 sec.
+events: 654
+steps: 148
+actual steps: 63
+
+ddminR - [5,6,7,8,9,39,43]
+3:06:27 - 3:21:09 = 882 sec.
+events: 485
+steps: 115
+actual steps: 53
+ 
+=============
+
+function getRandomInt(min, max) {
+  return Math.floor(Math.random() * (max - min + 1) + min);
+}
+
+var red = [4,5,6,7,8,9,16];
+
+var red_test = [1,5,10,15,20]
+
+var pickRandomElems = function(arr, n){
+    var tmp_arr = [];
+    while (n > 0) {
+        //console.log(tmp_arr);
+        var randId = getRandomInt(0, arr.length-1);
+        var posOfRandId = tmp_arr.indexOf(randId);
+        if (posOfRandId >= 0) {
+            continue;
+        } else {
+           tmp_arr.push(randId);
+            n--;
+        }
+    }
+    return tmp_arr;
+};
+
+
+var pickRandomElems_ = function(arr, n){
+    var tmp_arr = [];
+    while (n > 0) {
+        //console.log(tmp_arr);
+        var randId = getRandomInt(0, arr.length-1);
+        var posOfRandId = tmp_arr.indexOf(arr[randId]);
+        if (posOfRandId >= 0) {
+            continue;
+        } else {
+           tmp_arr.push(arr[randId]);
+            n--;
+        }
+    }
+    return tmp_arr;
+};
+
+
+var removeFromArr = function(arr, pos_arr) {
+    var new_arr = [];
+    for (var i = 0; i < arr.length; i++) {
+        if (pos_arr.indexOf(i) >= 0) { 
+            continue;
+        } else {
+            new_arr.push(arr[i]);
+        }
+    }
+    return new_arr;
+};
+
+var enumArr = function(a,b){while(a--){b[a]=a}return b}(44,[]);
+
+enumArr;
+
+pickRandomElems_(removeFromArr(enumArr, red), 3).concat(red).sort(function(a,b){return a-b});
+
+//removeFromArr(["a", "b"], [0,1,2]);
+
+//pickRandomElems(["a","b","c"], 1);
+
+//[1,2].indexOf(2);
+
+//removeFromArr(red_test, (pickRandomElems(red_test, 2)));
+
+// removeFromArr(red, (pickRandomElems(red, 3)));
+
+//[1,2,3].slice(0,2);
+
